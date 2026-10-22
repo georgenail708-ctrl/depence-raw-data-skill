@@ -1,0 +1,19 @@
+{
+  "schema": "depence.native_supplement_receipt.v5",
+  "path": "historical_water_native_clips.json.gz",
+  "sha256": "53a2ed7ed3011869a1591e160bd4a8b9629fefc226bc75c0b5569c7159e3b8a5",
+  "compressed_bytes": 1115144,
+  "source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+  "programs": 2,
+  "clips": 73,
+  "events": 54732,
+  "all_original_clip_fields_preserved": true,
+  "playback_rates": {
+    "1.0": 69,
+    "0.75": 3,
+    "0.4218161638056738": 1
+  },
+  "not_latest_source": true,
+  "audio_frame_alignment_certified": false,
+  "peak_rss_kib": 73088
+}

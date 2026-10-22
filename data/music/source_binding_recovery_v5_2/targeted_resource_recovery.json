@@ -1,0 +1,1192 @@
+{
+  "archive_repository_targets": [
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\最新改迪拜\\A1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "a1_1035",
+        "a1_animal",
+        "a1_loveinthedark",
+        "a1_op",
+        "a1_windthroughvidaya",
+        "a1_海露港"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\迪拜城市\\DUBAI-1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "dubai1_1035",
+        "dubai1_50第二首",
+        "dubai1_animal",
+        "dubai1_kaiert",
+        "dubai1_loveinthedark",
+        "dubai1_natalan",
+        "dubai1_op",
+        "dubai1_windthroughvidaya",
+        "dubai1_不眠之夜",
+        "dubai1_午夜特快",
+        "dubai1_希望有羽毛和翅膀",
+        "dubai1_海露港",
+        "dubai1_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\矩阵\\HJC二维矩阵修改版.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "hjc二维矩阵修改版_daylight",
+        "hjc二维矩阵修改版_test",
+        "hjc二维矩阵修改版_test2",
+        "hjc二维矩阵修改版_vortex",
+        "hjc二维矩阵修改版_梦从"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\jian2\\jian2\\jian.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "jian_卡农",
+        "jian_团结就是力量",
+        "jian_在希望的田野上",
+        "jian_姑娘我爱你",
+        "jian_彩云追月",
+        "jian_心上的罗加",
+        "jian_我和我的祖国",
+        "jian_梦中的婚礼",
+        "jian_梦里水乡",
+        "jian_歌唱祖国",
+        "jian_水边的阿狄丽娜",
+        "jian_爱我中华",
+        "jian_秋日私语",
+        "jian_童年的回忆",
+        "jian_美丽中国",
+        "jian_致爱丽丝",
+        "jian_菊次郎的夏天",
+        "jian_还原编曲纯音乐",
+        "jian_风之丘"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\月球战斗曲\\To The Moon.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "tothemoon_1035",
+        "tothemoon_50第二首",
+        "tothemoon_animal",
+        "tothemoon_kaiert",
+        "tothemoon_loveinthedark",
+        "tothemoon_natalan",
+        "tothemoon_op",
+        "tothemoon_tothemoon",
+        "tothemoon_windthroughvidaya",
+        "tothemoon_不眠之夜",
+        "tothemoon_主题曲",
+        "tothemoon_何者",
+        "tothemoon_午夜特快",
+        "tothemoon_希望有羽毛和翅膀",
+        "tothemoon_海露港",
+        "tothemoon_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\WET Project Test\\WET Project Test.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "wetprojecttest_zledathememusic",
+        "wetprojecttest_白龙少年"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\WET Project Test\\WET test 2.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "wettest2_nb2",
+        "wettest2_zledathememusic",
+        "wettest2_共逐星华",
+        "wettest2_白龙少年",
+        "wettest2_编曲练习1"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\最新改迪拜\\wet绑灯迪拜.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "wet绑灯迪拜_1035",
+        "wet绑灯迪拜_animal",
+        "wet绑灯迪拜_loveinthedark",
+        "wet绑灯迪拜_op",
+        "wet绑灯迪拜_windthroughvidaya",
+        "wet绑灯迪拜_浮光",
+        "wet绑灯迪拜_海露港"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\雪山场景A\\WET风格弧线二维练手.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "wet风格弧线二维练手_pearls"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\新项目喷泉\\一号.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "一号_nb2",
+        "一号_zledathememusic",
+        "一号_共逐星华",
+        "一号_白龙少年",
+        "一号_编曲练习1"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\测试水池\\一维.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "一维_test3"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\中国园林\\中国园林.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "中国园林_鲜衣游侠"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\中式旅游风景区AAAAA\\中式旅游风景区2AAAAA.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "中式旅游风景区2aaaaa_一带一路",
+        "中式旅游风景区2aaaaa_商单",
+        "中式旅游风景区2aaaaa_测试2"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\中式旅游风景区AAAAA\\中式旅游风景区AAAAA.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "中式旅游风景区aaaaa_一带一路",
+        "中式旅游风景区aaaaa_商单",
+        "中式旅游风景区aaaaa_测试2"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\中科类布局\\中科棕榈岛新一代设备.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "中科棕榈岛新一代设备_test",
+        "中科棕榈岛新一代设备_借过一下",
+        "中科棕榈岛新一代设备_纳塔",
+        "中科棕榈岛新一代设备_风居住的街道"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\WET Project Test\\九龙湖新版绑灯.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "九龙湖新版绑灯_nb2",
+        "九龙湖新版绑灯_zledathememusic",
+        "九龙湖新版绑灯_共逐星华",
+        "九龙湖新版绑灯_山海志异",
+        "九龙湖新版绑灯_彩鹞栉春风",
+        "九龙湖新版绑灯_白龙少年",
+        "九龙湖新版绑灯_编曲练习1",
+        "九龙湖新版绑灯_雨"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\新项目喷泉\\二号1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "二号1_40",
+        "二号1_402",
+        "二号1_pearls",
+        "二号1_pearls222",
+        "二号1_remenberwhenyouare"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\矩阵\\二维三仪矩阵.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "二维三仪矩阵_daylight",
+        "二维三仪矩阵_music11",
+        "二维三仪矩阵_test",
+        "二维三仪矩阵_test2",
+        "二维三仪矩阵_vortex",
+        "二维三仪矩阵_梦从"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\中科类布局\\二维三仪矩阵.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "二维三仪矩阵_借过一下",
+        "二维三仪矩阵_灼夜归火",
+        "二维三仪矩阵_风居住的街道"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\简单的广场小喷泉\\二维未改动版.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "二维未改动版_东京上空",
+        "二维未改动版_折枝落梦"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\二维测试1\\二维测试1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "二维测试1_浮生"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\矩阵\\二维百变矩阵.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "二维百变矩阵_daylight",
+        "二维百变矩阵_music11",
+        "二维百变矩阵_test",
+        "二维百变矩阵_test2",
+        "二维百变矩阵_vortex",
+        "二维百变矩阵_梦从"
+      ]
+    },
+    {
+      "source_archive_path_claim": "D:/云朵公园\\云朵公园.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "云朵公园_测试",
+        "云朵公园_琉璃"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\矩阵\\修改灯光.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "修改灯光_daylight",
+        "修改灯光_test",
+        "修改灯光_test2",
+        "修改灯光_vortex",
+        "修改灯光_梦从"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\雪山场景A\\全绑灯最高规格雪山白乐宫.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "全绑灯最高规格雪山白乐宫_daydreamer",
+        "全绑灯最高规格雪山白乐宫_借过一下",
+        "全绑灯最高规格雪山白乐宫_风居住的街道"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\公园壹号\\公园壹号.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "公园壹号_演示1"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\公园壹号\\公园方案2.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "公园方案2_演示1"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\迪拜城市 枝叶\\冬季海港.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "冬季海港_60v3第三首",
+        "冬季海港_60v3第四首",
+        "冬季海港_开场节目变亦不变",
+        "冬季海港_总合成",
+        "冬季海港_月之少女哥伦比娅主题曲v3"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\绑灯迪拜WET\\加中式背景 加灯.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "加中式背景加灯_1035",
+        "加中式背景加灯_animal",
+        "加中式背景加灯_loveinthedark",
+        "加中式背景加灯_op",
+        "加中式背景加灯_windthroughvidaya",
+        "加中式背景加灯_海露港"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\绑灯迪拜WET\\加火.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "加火_1035",
+        "加火_50第二首",
+        "加火_animal",
+        "加火_loveinthedark",
+        "加火_natalan",
+        "加火_op",
+        "加火_windthroughvidaya",
+        "加火_不眠之夜",
+        "加火_午夜特快",
+        "加火_希望有羽毛和翅膀",
+        "加火_海露港",
+        "加火_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\金鸡湖改版\\壹号.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "壹号_runaway",
+        "壹号_从这里走向wet",
+        "壹号_凌华ep",
+        "壹号_废墟的温泉街",
+        "壹号_草龙王",
+        "壹号_铃芽户缔"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\大型综合水景喷泉\\大型综合3.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "大型综合3_beginagain",
+        "大型综合3_runaway",
+        "大型综合3_zildabgm2",
+        "大型综合3_从这里走向wet",
+        "大型综合3_凌华ep",
+        "大型综合3_废墟的温泉街",
+        "大型综合3_浮光",
+        "大型综合3_草龙王",
+        "大型综合3_铃芽户缔"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\大型综合水景喷泉\\大型综合水景喷泉.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "大型综合水景喷泉_runaway",
+        "大型综合水景喷泉_从这里走向wet",
+        "大型综合水景喷泉_凌华ep",
+        "大型综合水景喷泉_废墟的温泉街",
+        "大型综合水景喷泉_草龙王",
+        "大型综合水景喷泉_铃芽户缔",
+        "大型综合水景喷泉_集合"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\大型综合水景喷泉二号\\大型综合水景喷泉二号.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "大型综合水景喷泉二号_演示",
+        "大型综合水景喷泉二号_请笃信一个梦"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\奥体中心\\奥体中心.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "奥体中心_正式演出"
+      ]
+    },
+    {
+      "source_archive_path_claim": "D:/MsgStore\\<wechat-id>\\FileStorage\\File\\2025-05\\宜宾-小坝广场喷泉0515\\宜宾-小坝广场喷泉0515.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "宜宾小坝广场喷泉0515_rememberoursummerfrogmonster",
+        "宜宾小坝广场喷泉0515_requiemforatowerescalaflac",
+        "宜宾小坝广场喷泉0515_twostepsfromhellthomasberger",
+        "宜宾小坝广场喷泉0515_从现在到未来韦唯周深萧敬腾郁可唯王祖蓝李亚男刘敏伶盛梅肖",
+        "宜宾小坝广场喷泉0515_奢香夫人",
+        "宜宾小坝广场喷泉0515_我和我的祖国",
+        "宜宾小坝广场喷泉0515_星辰大海",
+        "宜宾小坝广场喷泉0515_灯火里的中国",
+        "宜宾小坝广场喷泉0515_生日祝福歌",
+        "宜宾小坝广场喷泉0515_美丽中国"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\小坝广场喷泉1228\\宜宾-小坝广场喷泉28.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "宜宾小坝广场喷泉28_从现在到未来韦唯周深萧敬腾郁可唯王祖蓝李亚男刘敏伶盛梅肖"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\小坝广场喷泉1231 不可用\\小坝广场喷泉1.2\\宜宾-小坝广场喷泉31.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "宜宾小坝广场喷泉31_rememberoursummerfrogmonster",
+        "宜宾小坝广场喷泉31_requiemforatowerescalaflac",
+        "宜宾小坝广场喷泉31_twostepsfromhellthomasberger",
+        "宜宾小坝广场喷泉31_奢香夫人",
+        "宜宾小坝广场喷泉31_我和我的祖国",
+        "宜宾小坝广场喷泉31_星辰大海",
+        "宜宾小坝广场喷泉31_灯火里的中国",
+        "宜宾小坝广场喷泉31_生日祝福歌",
+        "宜宾小坝广场喷泉31_美丽中国"
+      ]
+    },
+    {
+      "source_archive_path_claim": "D:/MsgStore\\<wechat-id>\\FileStorage\\File\\2024-12\\小坝广场喷泉1231\\小坝广场喷泉1231\\宜宾-小坝广场喷泉31.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "宜宾小坝广场喷泉31_从现在到未来韦唯周深萧敬腾郁可唯王祖蓝李亚男刘敏伶盛梅肖"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\弧线精细编曲\\弧线精细编曲.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "弧线精细编曲_40",
+        "弧线精细编曲_pearls"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\戴维斯工厂音乐喷泉项目\\戴维斯工厂音乐喷泉项目.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "戴维斯工厂音乐喷泉项目_demo",
+        "戴维斯工厂音乐喷泉项目_douzimina摩洛哥105",
+        "戴维斯工厂音乐喷泉项目_good100",
+        "戴维斯工厂音乐喷泉项目_往后余生",
+        "戴维斯工厂音乐喷泉项目_新编曲",
+        "戴维斯工厂音乐喷泉项目_点亮了星空1",
+        "戴维斯工厂音乐喷泉项目_陶喆小子",
+        "戴维斯工厂音乐喷泉项目_龙的传人9895wav"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\雪山6.0\\编曲1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "编曲1_50第二首",
+        "编曲1_animal",
+        "编曲1_kaiert",
+        "编曲1_loveinthedark",
+        "编曲1_1035",
+        "编曲1_natalan",
+        "编曲1_op",
+        "编曲1_windthroughvidaya",
+        "编曲1_不眠之夜",
+        "编曲1_主题曲",
+        "编曲1_何者",
+        "编曲1_午夜特快",
+        "编曲1_希望有羽毛和翅膀",
+        "编曲1_海露港",
+        "编曲1_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\大型综合水景喷泉\\换编曲测试.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "换编曲测试_runaway",
+        "换编曲测试_从这里走向wet",
+        "换编曲测试_凌华ep",
+        "换编曲测试_废墟的温泉街",
+        "换编曲测试_草龙王",
+        "换编曲测试_铃芽户缔"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\雪山场景A\\改版A （修改气爆 圆二维 弧线跑泉）.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "改版a修改气爆圆二维弧线跑泉_借过一下",
+        "改版a修改气爆圆二维弧线跑泉_风居住的街道"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\新主力1\\新主力1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "新主力1_调试",
+        "新主力1_逾沙铁漠"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\WET Project Test\\新保存.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "新保存_nb2",
+        "新保存_zledathememusic",
+        "新保存_共逐星华",
+        "新保存_白龙少年",
+        "新保存_编曲练习1",
+        "新保存_雨"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\迪拜音乐喷泉可行版\\新版迪拜.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "新版迪拜_madeyoulook",
+        "新版迪拜_op",
+        "新版迪拜_windthroughvidaya"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\WET Project Test\\新设备测试 绑灯二维.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "新设备测试绑灯二维_nb2",
+        "新设备测试绑灯二维_zledathememusic",
+        "新设备测试绑灯二维_共逐星华",
+        "新设备测试绑灯二维_彩鹞栉春风",
+        "新设备测试绑灯二维_浮光",
+        "新设备测试绑灯二维_白龙少年",
+        "新设备测试绑灯二维_编曲练习1",
+        "新设备测试绑灯二维_雨"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\口袋公园模板\\无编曲无线版.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "无编曲无线版_米兰"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\WET Project Test\\星空灯测试.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "星空灯测试_nb2",
+        "星空灯测试_zledathememusic",
+        "星空灯测试_共逐星华",
+        "星空灯测试_彩鹞栉春风",
+        "星空灯测试_白龙少年",
+        "星空灯测试_编曲练习1",
+        "星空灯测试_雨"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\金鸡湖改版\\星空灯测试.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "星空灯测试_runaway",
+        "星空灯测试_从这里走向wet",
+        "星空灯测试_凌华ep",
+        "星空灯测试_废墟的温泉街",
+        "星空灯测试_推子",
+        "星空灯测试_渲染性能测试",
+        "星空灯测试_草龙王",
+        "星空灯测试_铃芽户缔"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\迪拜城市\\替换圆 新编.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "替换圆新编_1035",
+        "替换圆新编_50第二首",
+        "替换圆新编_animal",
+        "替换圆新编_kaiert",
+        "替换圆新编_loveinthedark",
+        "替换圆新编_natalan",
+        "替换圆新编_op",
+        "替换圆新编_windthroughvidaya",
+        "替换圆新编_不眠之夜",
+        "替换圆新编_何者",
+        "替换圆新编_午夜特快",
+        "替换圆新编_希望有羽毛和翅膀",
+        "替换圆新编_海露港",
+        "替换圆新编_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\简单的广场小喷泉\\最新改小喷泉.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "最新改小喷泉_东京上空",
+        "最新改小喷泉_折枝落梦",
+        "最新改小喷泉_玫瑰与泪"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\最终杰作\\最终杰作.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "最终杰作_第一首加开场"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\水公园\\最终版1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "最终版1_浮生"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\水公园\\最终版2.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "最终版2_浮生"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\稳中求胜\\杭州西湖现代化.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "杭州西湖现代化_mj",
+        "杭州西湖现代化_从新开始"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\永利皇宫\\永利1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "永利1_40",
+        "永利1_402",
+        "永利1_pearls"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\大型综合水景喷泉\\灯光修改1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "灯光修改1_从这里走向wet",
+        "灯光修改1_凌华ep",
+        "灯光修改1_铃芽户缔"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\矩阵\\矩阵.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "矩阵_daylight",
+        "矩阵_test",
+        "矩阵_test2",
+        "矩阵_vortex",
+        "矩阵_梦从"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\矩阵\\矩阵新.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "矩阵新_daylight",
+        "矩阵新_music11",
+        "矩阵新_test",
+        "矩阵新_test2",
+        "矩阵新_vortex",
+        "矩阵新_众生颂",
+        "矩阵新_梦从"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\弧线精细编曲\\矩阵最新版1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "矩阵最新版1_40",
+        "矩阵最新版1_daylight",
+        "矩阵最新版1_test",
+        "矩阵最新版1_test2",
+        "矩阵最新版1_vortex",
+        "矩阵最新版1_梦从"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\雪山场景A\\移动位置.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "移动位置_daydreamer",
+        "移动位置_借过一下",
+        "移动位置_风居住的街道"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\中科类布局\\空模板.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "空模板_借过一下",
+        "空模板_风居住的街道"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\中科窑湖改\\窑湖中科.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "窑湖中科_daydreamer",
+        "窑湖中科_借过一下",
+        "窑湖中科_风居住的街道"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\中科窑湖改\\窑湖喷泉.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "窑湖喷泉_showfile1",
+        "窑湖喷泉_showfile2"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\绑灯迪拜WET\\第一版.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "第一版_1035",
+        "第一版_animal",
+        "第一版_loveinthedark",
+        "第一版_natalan",
+        "第一版_op",
+        "第一版_windthroughvidaya",
+        "第一版_不眠之夜",
+        "第一版_午夜特快",
+        "第一版_海露港",
+        "第一版_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\最新改迪拜\\第二迪拜111.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "第二迪拜111_1035",
+        "第二迪拜111_animal",
+        "第二迪拜111_loveinthedark",
+        "第二迪拜111_op",
+        "第二迪拜111_windthroughvidaya",
+        "第二迪拜111_海露港"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\最新改迪拜\\第二迪拜WET.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "第二迪拜wet_runaway",
+        "第二迪拜wet_从这里走向wet",
+        "第二迪拜wet_凌华ep",
+        "第二迪拜wet_废墟的温泉街",
+        "第二迪拜wet_电影",
+        "第二迪拜wet_草龙王",
+        "第二迪拜wet_铃芽户缔"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\简单的广场小喷泉\\简单的广场小喷泉.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "简单的广场小喷泉_东京上空",
+        "简单的广场小喷泉_折枝落梦"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\迪拜城市 枝叶\\纯净版.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "纯净版_60v3第三首",
+        "纯净版_60v3第四首",
+        "纯净版_开场节目变亦不变",
+        "纯净版_总合成",
+        "纯净版_月之少女哥伦比娅主题曲v3"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\迪拜城市\\编曲.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "编曲_1035",
+        "编曲_50第二首",
+        "编曲_animal",
+        "编曲_kaiert",
+        "编曲_loveinthedark",
+        "编曲_natalan",
+        "编曲_op",
+        "编曲_windthroughvidaya",
+        "编曲_不眠之夜",
+        "编曲_午夜特快",
+        "编曲_希望有羽毛和翅膀",
+        "编曲_海露港",
+        "编曲_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\WET Project Test\\设备测试场.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "设备测试场_nb2",
+        "设备测试场_zledathememusic",
+        "设备测试场_共逐星华",
+        "设备测试场_彩鹞栉春风",
+        "设备测试场_浮光",
+        "设备测试场_白龙少年",
+        "设备测试场_编曲练习1",
+        "设备测试场_雨"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\超级喷头测试\\超级喷头正式版.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "超级喷头正式版_roar"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\迪拜音乐喷泉可行版\\迪拜原文件.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "迪拜原文件_op",
+        "迪拜原文件_windthroughvidaya"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\迪拜城市 枝叶\\迪拜城市 2.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "迪拜城市2_60v1第二首",
+        "迪拜城市2_开场节目变亦不变"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\绑灯迪拜WET\\迪拜绑灯加百变.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "迪拜绑灯加百变_1035",
+        "迪拜绑灯加百变_50第二首",
+        "迪拜绑灯加百变_animal",
+        "迪拜绑灯加百变_kaiert",
+        "迪拜绑灯加百变_loveinthedark",
+        "迪拜绑灯加百变_natalan",
+        "迪拜绑灯加百变_op",
+        "迪拜绑灯加百变_windthroughvidaya",
+        "迪拜绑灯加百变_不眠之夜",
+        "迪拜绑灯加百变_午夜特快",
+        "迪拜绑灯加百变_希望有羽毛和翅膀",
+        "迪拜绑灯加百变_海露港",
+        "迪拜绑灯加百变_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\迪拜音乐喷泉可行版\\迪拜音乐喷泉可行版.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "迪拜音乐喷泉可行版_op",
+        "迪拜音乐喷泉可行版_windthroughvidaya"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\绑灯迪拜WET\\重新开始.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "重新开始_1035",
+        "重新开始_animal",
+        "重新开始_loveinthedark",
+        "重新开始_natalan",
+        "重新开始_op",
+        "重新开始_windthroughvidaya",
+        "重新开始_不眠之夜",
+        "重新开始_午夜特快",
+        "重新开始_海露港",
+        "重新开始_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "D:/云朵公园\\重构版云朵公园.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "重构版云朵公园_测试",
+        "重构版云朵公园_玉盘",
+        "重构版云朵公园_琉璃"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\雪地沙漠\\雪地沙漠.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "雪地沙漠_埃及风"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\雪山6.0\\雪山1.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "雪山1_1035",
+        "雪山1_50第二首",
+        "雪山1_animal",
+        "雪山1_kaiert",
+        "雪山1_loveinthedark",
+        "雪山1_natalan",
+        "雪山1_op",
+        "雪山1_windthroughvidaya",
+        "雪山1_不眠之夜",
+        "雪山1_主题曲",
+        "雪山1_何者",
+        "雪山1_午夜特快",
+        "雪山1_希望有羽毛和翅膀",
+        "雪山1_海露港",
+        "雪山1_若我不曾见过太阳"
+      ]
+    },
+    {
+      "source_archive_path_claim": "<depence-data>/My Depence Projects\\所有\\雪山场景A\\雪山场景A.depence",
+      "choreographer_guid_claim": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+      "candidate_repository_member": "Showfiles/f299e04b-84f0-4272-9765-2c267a43b5b2.cfo",
+      "basis": "source show root ChoreographerGUID plus older format/schema notes; registry member not recovered",
+      "source_ids": [
+        "雪山场景a_借过一下",
+        "雪山场景a_风居住的街道"
+      ]
+    }
+  ],
+  "saved_program_media_targets": [
+    {
+      "source_song_id": "喷泉编曲至冬70_至冬",
+      "source_dmxt_path_claim": "<depence-data>/My Depence Projects\\至冬7.0\\至冬7.0\\喷泉编曲至冬7.0.dmxt",
+      "source_dmxt_full_sha256_claim": "5ee333cef4676a53722da297c8e2fdfe376b0326a52a50161cd3613ba9863a14",
+      "program_id": "60a67c7a-2aed-4286-a31d-47b81ec66ec5",
+      "required_relative_media_path": "喷泉编曲至冬7.0_assets/audio/audio_6adf491202ff.mp3",
+      "proof_needed": "matching current original project and exact referenced media bytes; older source version or filename similarity is insufficient"
+    },
+    {
+      "source_song_id": "喷泉编曲至冬70_驭光裁影",
+      "source_dmxt_path_claim": "<depence-data>/My Depence Projects\\至冬7.0\\至冬7.0\\喷泉编曲至冬7.0.dmxt",
+      "source_dmxt_full_sha256_claim": "5ee333cef4676a53722da297c8e2fdfe376b0326a52a50161cd3613ba9863a14",
+      "program_id": "5afe08f7-97db-4714-ae6a-a90ca7d74bdc",
+      "required_relative_media_path": "喷泉编曲至冬7.0_assets/audio/audio_627246cd3dde.mp3",
+      "proof_needed": "matching current original project and exact referenced media bytes; older source version or filename similarity is insufficient"
+    },
+    {
+      "source_song_id": "水仙十字_throughtheemberwindfrontier",
+      "source_dmxt_path_claim": "<project-dir>\\水仙十字\\水仙十字.dmxt",
+      "source_dmxt_full_sha256_claim": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "required_relative_media_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3",
+      "proof_needed": "matching current original project and exact referenced media bytes; older source version or filename similarity is insufficient"
+    },
+    {
+      "source_song_id": "水仙十字_танецледяныхкристаллов",
+      "source_dmxt_path_claim": "<project-dir>\\水仙十字\\水仙十字.dmxt",
+      "source_dmxt_full_sha256_claim": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "program_id": "c4dfa005-4723-4c10-a33e-9716b84db957",
+      "required_relative_media_path": "水仙十字_assets/audio/audio_3ef2f109bac4.mp3",
+      "proof_needed": "matching current original project and exact referenced media bytes; older source version or filename similarity is insufficient"
+    },
+    {
+      "source_song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "source_dmxt_path_claim": "<project-dir>\\水仙十字\\水仙十字.dmxt",
+      "source_dmxt_full_sha256_claim": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "required_relative_media_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3",
+      "proof_needed": "matching current original project and exact referenced media bytes; older source version or filename similarity is insufficient"
+    },
+    {
+      "source_song_id": "水仙十字_泊船入梦mooredindreams",
+      "source_dmxt_path_claim": "<project-dir>\\水仙十字\\水仙十字.dmxt",
+      "source_dmxt_full_sha256_claim": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "program_id": "0eebbcbb-3165-4fdc-8a01-4d54dc4ae824",
+      "required_relative_media_path": "水仙十字_assets/audio/audio_ec6f5255e161.mp3",
+      "proof_needed": "matching current original project and exact referenced media bytes; older source version or filename similarity is insufficient"
+    },
+    {
+      "source_song_id": "水仙十字_雨林琉璃",
+      "source_dmxt_path_claim": "<project-dir>\\水仙十字\\水仙十字.dmxt",
+      "source_dmxt_full_sha256_claim": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "program_id": "96199c03-d276-432e-86ff-cc0813c980a1",
+      "required_relative_media_path": "水仙十字_assets/audio/audio_2087e424b8f2.mp3",
+      "proof_needed": "matching current original project and exact referenced media bytes; older source version or filename similarity is insufficient"
+    },
+    {
+      "source_song_id": "至冬_至冬",
+      "source_dmxt_path_claim": "<project-dir>\\至冬.dmxt",
+      "source_dmxt_full_sha256_claim": "ab357106791b1ad7f6a1a096dd5904e78b481371df392903e17f82556709b454",
+      "program_id": "60a67c7a-2aed-4286-a31d-47b81ec66ec5",
+      "required_relative_media_path": "至冬_assets/audio/audio_d4b440092da9.mp3",
+      "proof_needed": "matching current original project and exact referenced media bytes; older source version or filename similarity is insufficient"
+    },
+    {
+      "source_song_id": "至冬_驭光裁影",
+      "source_dmxt_path_claim": "<project-dir>\\至冬.dmxt",
+      "source_dmxt_full_sha256_claim": "ab357106791b1ad7f6a1a096dd5904e78b481371df392903e17f82556709b454",
+      "program_id": "5afe08f7-97db-4714-ae6a-a90ca7d74bdc",
+      "required_relative_media_path": "至冬_assets/audio/audio_b65ddb053eef.mp3",
+      "proof_needed": "matching current original project and exact referenced media bytes; older source version or filename similarity is insufficient"
+    }
+  ],
+  "clock_field_census": {
+    "TimeStretch": {
+      "1": 365,
+      "MISSING": 64
+    },
+    "TCOffset_LTC": {
+      "0": 429
+    },
+    "TCInputOffset": {
+      "0": 429
+    },
+    "EditorResolution": {
+      "30": 429
+    }
+  },
+  "audio_projection_census": {
+    "records": 429,
+    "blocks": 441,
+    "empty_projected_media_fields": 441
+  },
+  "counts_are_all_original_record_ids_not_unique_projects_or_completed_pairs": true
+}

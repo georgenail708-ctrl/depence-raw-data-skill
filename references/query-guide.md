@@ -107,3 +107,19 @@ music_compare要求两套来源各自明确窗口，保留跨边界音符、原�
 DMXT资料用context_query的fixture_defs/fixture_groups/splines入口读取，组名歧义时用组ID。python scripts/dmxt_channel.py --song 精确源ID --fixture 原始fixtureID --channel-index 0 --value 255 按该源定义的dmx_min/max返回所有匹配区间；省略value表示UNKNOWN。重叠/未覆盖区间不强选，返回原定义和来源；此值由调用者提供，不声称已从录制帧观察到。*_fine名称和motor_ranges原样保留，不猜字节顺序或物理变换。
 
 clock_query同时返回配对闸门；现有结果均不允许同步使用。只看authoring对象位置时可用分段查询，但不得把它当已确认音频sample位置。data/music/clock_bridge_v4原manifest保留收集清单，本包排除两个制作期build脚本，以components实际清单为准。
+
+
+## v3 安全完整记录与媒体来源证据
+- `python scripts/query.py record --song 土库曼斯坦_blk0_0s` 返回完整净化记录、原始与派生哈希、唯一移除字段指针。8 份净化件保留所有音乐/控制/设备字段，不能称为未改变的原始字节。
+- `python scripts/query.py assets --song 土库曼斯坦_blk0_0s` 同时列出批准的原始资产和净化替代件。
+- `python scripts/query.py source-media --song a1_1035` 按曲目ID与原始record SHA双重匹配来源媒体路径证据。路径、旧偏移、独立选择的转录输入不证明精确音频配对，不覆盖 ready gate。
+- 完整来源审计的净化投影为 `data/registry/record_audit_sanitized_v3.jsonl.gz`；`query.py row --file ...` 支持 gzip。
+- 归档读取 API 与命令行均只接受批准目录中的精确条目。已排除的原始工具、内部状态与8份原始记录不能从技能读取接口取回。
+
+
+## v3 独立历史版本原生事件
+`python scripts/native_query.py clips --source-sha aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407 --limit 100`
+从返回的确切 program_id 和 clip.id 选择，再用 `events --program ID --clip ID --start 0 --limit 100 --source-sha HASH` 连续遍历。每个事件保留原始顺序、原生时间戳、universe 和全部512字节；next_index/EOF仅描述该查询范围。
+`clock --program ID --clip ID --seconds T --source-sha HASH` 返回有明确条件的历史基础采样时钟；可加 `--universe U` 返回该时钟选择的原生事件。不是最终混合输出、设备实际动作或音频精确对应。
+73个历史片段/54,732个原生事件属于单独固定SHA的原始版本；当前来源SHA请求必须失败。41片段支持完整编排区间基础时钟，31仅支持状态独立内部区间，1顺序片段需完整分支上下文。hold边缘/未知状态拒绝映射，不补帧、不平滑、不按时长拟合。
+可携测试用 `python -m unittest discover -s data/native_clock_v5 -p 'test_*.py' -v`。独立历史原文件未附带时，原件全字段比较明确skip；已封存的先前完整比较凭据保留。不要直接运行会重写测试凭据的测试文件main。

@@ -1,0 +1,11 @@
+{
+  "record_audit_input_sha256": "d20e1220aeb36b8c3c6b2e9621941a19257289faaa4c7dee51599cf6371a63c6",
+  "source_ids": 517,
+  "unique_source_ids": 517,
+  "evidence_types": {
+    "no_direct_media_resource_path_in_projected_record": 448,
+    "source_show_audio_offset_only": 60,
+    "saved_program_relative_media_path": 9
+  },
+  "scope": "Current uploaded full-record audit fields, not a new source-project fetch; all517original IDs, no supplier selection filter. Existing primary sample authored-timeline mappings remain separately available; this classifies exact source media path evidence, not musical understanding."
+}

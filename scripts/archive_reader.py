@@ -43,8 +43,16 @@ class Parts:
             raise ValueError('Whole archive SHA-256 mismatch')
         return {'parts': len(self.parts), 'bytes': self.size, 'archive_sha256': whole.hexdigest(), 'status': 'verified_now'}
 
+def approved_entry(entry):
+    catalog=json.loads((BASE/'catalog/archive_entries.json').read_text())
+    matches=[e for e in catalog['entries'] if e['name']==entry.get('name')]
+    if len(matches)!=1 or matches[0]!=entry:
+        raise ValueError('Member is missing, excluded, ambiguous, or differs from approved catalog')
+    return matches[0]
+
 def extract(entry, parts, target, max_bytes=1024**3):
     """Write only after complete length/CRC/SHA checks. Never execute archive code."""
+    entry = approved_entry(entry)
     size = entry['uncompressed_size']; csize = entry['compressed_size']
     if size > max_bytes or size < 0 or csize < 0:
         raise ValueError('Member exceeds explicit output budget')

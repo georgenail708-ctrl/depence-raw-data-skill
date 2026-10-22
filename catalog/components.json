@@ -1,12 +1,12 @@
 {
-  "schema": "depence.component-inventory.v2",
-  "version": "2026-10-22.raw-data.v2",
+  "schema": "depence.component-inventory.v3",
+  "version": "2026-10-22.raw-data.v3",
   "status": "frozen",
   "source_archive_embedded": false,
   "precedence": [
-    "Matched fixture-owned XML definitions supersede overwritten shared-mode GUID labels and primary collisions",
-    "Clock bridge separates authored structure from ready-paired data; no unsupported synchronized relation",
-    "Registry v4 accepted Scene scope and final DMX corrections remain in force"
+    "Approved raw members or explicitly transformed safe records only",
+    "Source-specific native timelines never replace current-source pairing gates without exact identity",
+    "Matched fixture-owned XML supersedes historical global-mode projection"
   ],
   "files": [
     {
@@ -468,6 +468,51 @@
       "path": "data/dmx/source_oss_audit.jsonl",
       "size": 44613,
       "sha256": "6140d0f43a0e9f6535a2f7551376108451db7048c826bb05c82eb1cfc91451bd"
+    },
+    {
+      "path": "data/hygiene_v3/records/土库曼斯坦_blk0_0s.record.json.gz",
+      "size": 23230,
+      "sha256": "d3edecc8b6c8537eb639996ee0af3387f4a66765299e39082031073fa2a1c504"
+    },
+    {
+      "path": "data/hygiene_v3/records/土库曼斯坦_blk1_31s.record.json.gz",
+      "size": 23235,
+      "sha256": "37ce630826f0367e4c31b7a0a290e30103cd2a532dc8be71d501e53d4ea7fd53"
+    },
+    {
+      "path": "data/hygiene_v3/records/土库曼斯坦_blk2_63s.record.json.gz",
+      "size": 23243,
+      "sha256": "8da2ee735d57f72a1475971d6d637563f4d001929934da4f03cf09a413903329"
+    },
+    {
+      "path": "data/hygiene_v3/records/土库曼斯坦_blk3_86s.record.json.gz",
+      "size": 2835,
+      "sha256": "6d03d5f059e2f545a926b91c93704508df2a96da6273985fcab75aa4cf415cca"
+    },
+    {
+      "path": "data/hygiene_v3/records/土库曼斯坦_blk4_94s.record.json.gz",
+      "size": 2833,
+      "sha256": "57c7f9c62cb8a19e4803f310a28e6a4fcda0327f7260eb1a9380c660847bd138"
+    },
+    {
+      "path": "data/hygiene_v3/records/土库曼斯坦_blk5_103s.record.json.gz",
+      "size": 1903,
+      "sha256": "bd47dd69c71c7a91d5ab44567e20fe1f8862be9ad53a5113773a14ccd3fc93ba"
+    },
+    {
+      "path": "data/hygiene_v3/records/土库曼斯坦_blk6_116s.record.json.gz",
+      "size": 1898,
+      "sha256": "2811ad7ff5cec5d39f851055ad50f2953ed1c1cc471ac08e7fc3f2042ce7c230"
+    },
+    {
+      "path": "data/hygiene_v3/records/土库曼斯坦_blk7_129s.record.json.gz",
+      "size": 23242,
+      "sha256": "3018ce35e4727ab5e2b62c4b58f1f3d9efce080db458b5632a02f1a7e1c4e35c"
+    },
+    {
+      "path": "data/hygiene_v3/sanitized_record_manifest.json",
+      "size": 6816,
+      "sha256": "9572f2d76c3b9e0caf5fc5215a7b7b72a40df99290fb92562242dd50aaeb862a"
     },
     {
       "path": "data/music/README.md",
@@ -3440,9 +3485,119 @@
       "sha256": "e244412b4f3c725de0023616eb5749526a432aeb00fa22e91a5101ac202b5057"
     },
     {
+      "path": "data/music/source_binding_recovery_v5_2/README.md",
+      "size": 1398,
+      "sha256": "05128e6581ee533880427a4e63fadd0e253da79247f6c9c096a58835c77cc5cb"
+    },
+    {
+      "path": "data/music/source_binding_recovery_v5_2/manifest.json",
+      "size": 1267,
+      "sha256": "fb85b3d43bfb7456095af1b7da244f00a6609210586f2bf381033ad630b6fad3"
+    },
+    {
+      "path": "data/music/source_binding_recovery_v5_2/official_repository_references.json",
+      "size": 785,
+      "sha256": "01608465d9b98f041d9a3202a486bb4de2a4078e7b5746ac523cf297ea07a695"
+    },
+    {
+      "path": "data/music/source_binding_recovery_v5_2/record_media_evidence.jsonl",
+      "size": 503415,
+      "sha256": "da041e3c1436c2dd23fbfca05474b6fa8b6a401afb8208d6988a1d811bf5fe2c"
+    },
+    {
+      "path": "data/music/source_binding_recovery_v5_2/record_media_evidence_summary.json",
+      "size": 619,
+      "sha256": "78e28183c9648f44d6f8fab9bca184623433b2e0c80dfb0956018c1a4fab2ab7"
+    },
+    {
+      "path": "data/music/source_binding_recovery_v5_2/source_field_lineage.json",
+      "size": 4337,
+      "sha256": "63800a50bf4ec06cec50ea6e0a74175ee7601d072af0e25aa2cbd8ddbe398d3b"
+    },
+    {
+      "path": "data/music/source_binding_recovery_v5_2/targeted_resource_recovery.json",
+      "size": 59173,
+      "sha256": "3b73a1de3a2b1249e684482b17ee3b16977d838caae379c9576397684e32073d"
+    },
+    {
       "path": "data/music/test_load_music_v2.py",
       "size": 2882,
       "sha256": "f29957342df8b154971a4e6f43afe9625d87d410cab3371982db2a1e3573b0a7"
+    },
+    {
+      "path": "data/native_clock_v5/README.md",
+      "size": 4090,
+      "sha256": "80413dfee9fc7032720e346a53fd57c54b83461e8c150feaf073d69ab176c008"
+    },
+    {
+      "path": "data/native_clock_v5/all_26_headers.json",
+      "size": 33175,
+      "sha256": "5abd0da07a2a32fab3324a8c3f5a0aa695c5aa570075c0989c83a2c145081bdf"
+    },
+    {
+      "path": "data/native_clock_v5/component_manifest.json",
+      "size": 2625,
+      "sha256": "906b202538c6ab4df615179cdc6fe11370f7fa27bff228ef0971bf822ca4e01b"
+    },
+    {
+      "path": "data/native_clock_v5/historical_clip_clock.py",
+      "size": 4771,
+      "sha256": "1c11b33ec9267be84c96aaeb1f9b95bc72be5ee4357cd5d04096608660ce8659"
+    },
+    {
+      "path": "data/native_clock_v5/historical_clock_capabilities.json",
+      "size": 51821,
+      "sha256": "20855a0789afd0231cc38eb3670782e1aa001727cdc0968c51532b5dc4b887f9"
+    },
+    {
+      "path": "data/native_clock_v5/historical_clock_test_receipt.json",
+      "size": 244,
+      "sha256": "d873f394a642ddec395dc733e2a7dcb3ecc2d85e31a0caae2008cccd6ea56e22"
+    },
+    {
+      "path": "data/native_clock_v5/historical_water_native_clips.json.gz",
+      "size": 1115144,
+      "sha256": "53a2ed7ed3011869a1591e160bd4a8b9629fefc226bc75c0b5569c7159e3b8a5"
+    },
+    {
+      "path": "data/native_clock_v5/native_clip_reader.py",
+      "size": 3506,
+      "sha256": "4fef68b908436312c42b21051221eb2d480ac3da1bdc5586687c9c6e6bd37dfd"
+    },
+    {
+      "path": "data/native_clock_v5/native_clock_proof_neutral.json",
+      "size": 13025,
+      "sha256": "825a9bb0bb34a8f9ae5d5f2a88da02817f9243c1b51690b9d9ba97506b56eddc"
+    },
+    {
+      "path": "data/native_clock_v5/native_reader_test_receipt.json",
+      "size": 324,
+      "sha256": "a809eb688111c8ff10d2ff2bbfe152cf5f8e42d30dc37c2e8459da8acdc1d7a5"
+    },
+    {
+      "path": "data/native_clock_v5/native_supplement_receipt.json",
+      "size": 584,
+      "sha256": "f15ef200a9170669fc376d2be06b3d0fd43adcac959dee7ccbaa8ea3be8d00d0"
+    },
+    {
+      "path": "data/native_clock_v5/old_dmxt_projection_comparison.json",
+      "size": 112339,
+      "sha256": "9590ab6b8a9449e1ad1cdf63d6854454464f26ea807098edf5c7c77874243497"
+    },
+    {
+      "path": "data/native_clock_v5/test_historical_clip_clock.py",
+      "size": 5917,
+      "sha256": "2328f3475b033d1839cb12842cb05cec195b2489d101388f084015af03d88017"
+    },
+    {
+      "path": "data/native_clock_v5/test_native_clip_reader.py",
+      "size": 4702,
+      "sha256": "e5cce4b497ae24327ad1416b5ee871f6fdc3686e47b962c270e058aaab6b522d"
+    },
+    {
+      "path": "data/recovery_v3/source_recovery_compact_receipt.json",
+      "size": 4788,
+      "sha256": "1a4292c6151d9ff4b3fa971cc68a68ab0d3c94995499d1ff7cfe6ca251347b5c"
     },
     {
       "path": "data/registry/canonical_registry_v3.jsonl",
@@ -3960,9 +4115,9 @@
       "sha256": "bb69c8037b076b92d62c93de80923a283205714e8a1528c50dcdc4a2d1e0f8c3"
     },
     {
-      "path": "data/registry/record_audit.jsonl",
-      "size": 2909329,
-      "sha256": "d20e1220aeb36b8c3c6b2e9621941a19257289faaa4c7dee51599cf6371a63c6"
+      "path": "data/registry/record_audit_sanitized_v3.jsonl.gz",
+      "size": 545543,
+      "sha256": "ed0fd32f55452b4ac451803caca9ea7889840dcef34dc67e92874d17384ca56e"
     },
     {
       "path": "data/registry/registry_policy_overlay_v4.jsonl",

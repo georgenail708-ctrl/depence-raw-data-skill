@@ -1,0 +1,112 @@
+{
+  "scope": "Neutral evidence lineage only; no supplied implementation or source excerpts are included.",
+  "sources": [
+    {
+      "source_label": "batch_build.py",
+      "source_sha256": "a01cc108e8c5626f18ccf532875dcee46ab7c68fd7afcef9ba02a8970cd38087",
+      "scope": "sanitized supplied exporter, text only",
+      "reviewed_ranges": [
+        {
+          "start_line_1": 255,
+          "end_line_1": 266,
+          "reviewed_excerpt_sha256": "962f4bf439d43a39f5f98e7b690d6c0a220242737c6cc71c009411d5469b4ea7"
+        },
+        {
+          "start_line_1": 307,
+          "end_line_1": 325,
+          "reviewed_excerpt_sha256": "ea4e86b21a50e1e5ed6bbaf6b827d60b03ed9e51c7508e00ca3bbb6cb771eb3a"
+        },
+        {
+          "start_line_1": 388,
+          "end_line_1": 404,
+          "reviewed_excerpt_sha256": "81d4d071ec95d1951269b6bc97ced4d177e844c98846856ec49aa40312c0d83c"
+        },
+        {
+          "start_line_1": 92,
+          "end_line_1": 114,
+          "reviewed_excerpt_sha256": "d690fb8035dff8795a72bb6b923e5e9d6f8dfe28017adad54f3e5d7c33076304"
+        }
+      ]
+    },
+    {
+      "source_label": "scene_facts_pass.py",
+      "source_sha256": "a3d1cde6f5c65a5b442788cfbad726fba2de8d19fc06c942de67a8dd7c9181fc",
+      "scope": "sanitized supplied scene projection, text only",
+      "reviewed_ranges": [
+        {
+          "start_line_1": 28,
+          "end_line_1": 35,
+          "reviewed_excerpt_sha256": "ace46e46110690de93d1f143e924428042470e0417ade9ddb70ae24331bf0507"
+        }
+      ]
+    },
+    {
+      "source_label": "transcribe_all.py",
+      "source_sha256": "d42ec3d54cb25e0a0bec6c6921ab9d07448488512148269d4ea3f40c4242070e",
+      "scope": "sanitized supplied transcription input resolution, text only",
+      "reviewed_ranges": [
+        {
+          "start_line_1": 21,
+          "end_line_1": 29,
+          "reviewed_excerpt_sha256": "2994ff13413772a5b73744e76b06f49de398e8cb627f7089d1ff06970ee35357"
+        },
+        {
+          "start_line_1": 42,
+          "end_line_1": 67,
+          "reviewed_excerpt_sha256": "d339181c041bcbcb945b246972ed206d325c67c8039b882d63cd1d5583f5e2ca"
+        }
+      ]
+    },
+    {
+      "source_label": "src/ui/main_window.py",
+      "source_sha256": "4183725ee81477266b1079d7aa3ceb3f34c883989cf1fe633afc3cd215d4cd03",
+      "scope": "older cloud-restored application source; not proven exact producer revision",
+      "reviewed_ranges": [
+        {
+          "start_line_1": 5117,
+          "end_line_1": 5125,
+          "reviewed_excerpt_sha256": "3f1e7ca298f3c4a2bc434044218f6bd6b9e588ce4b6d6530871bce423523432e"
+        }
+      ]
+    },
+    {
+      "source_label": "src/ui/cfo_writer.py",
+      "source_sha256": "5125bca3c1f8fde1c483a6993bd446f284ec3d2b1c2e66d3963ae86f35be1231",
+      "scope": "older cloud-restored schema writer; hypothesis guide, not actual original CFO evidence",
+      "reviewed_ranges": [
+        {
+          "start_line_1": 155,
+          "end_line_1": 164,
+          "reviewed_excerpt_sha256": "cc78bceb2aa456913ce971df4e42fa931c635515e8306fcb29aaff4254a90d12"
+        },
+        {
+          "start_line_1": 180,
+          "end_line_1": 201,
+          "reviewed_excerpt_sha256": "76375bed1d1df3fc3b0e5f157a552b01503c063519fe45ee9cf4857a4bdfe74b"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "fact": "Current projected audio tuples omit the original sample AudioObjectGUID; empty projected media paths do not prove absent authored audio.",
+      "evidence": "record fields and actual sample show"
+    },
+    {
+      "fact": "A single saved audio offset does not represent all overlapping authored audio intervals.",
+      "evidence": "exact sample interval comparison"
+    },
+    {
+      "fact": "The selected MIDI or transcription input path is not itself an authored program media resource identity.",
+      "evidence": "separate provenance fields and source-lineage review"
+    },
+    {
+      "fact": "Bundled audio_<12hex> names must not be treated as audio content hashes.",
+      "evidence": "older application-source lineage; exact current producer revision unproven"
+    },
+    {
+      "fact": "Showfiles/<ChoreographerGUID>.cfo is a targeted original repository candidate, not a recovered current binding.",
+      "evidence": "older schema/source lineage and official product repository documentation"
+    }
+  ]
+}

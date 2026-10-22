@@ -1,6 +1,6 @@
 {
-  "schema": "depence.data-health.v2",
-  "version": "2026-10-22.raw-data.v2",
+  "schema": "depence.data-health.v3",
+  "version": "2026-10-22.raw-data.v3",
   "source_archive": {
     "sha256": "6caa72e1b0c9f3e9f949d503c0a546fa89b8eeffb153ad7b80ea000c49a6f1cb",
     "bytes": 3647094034,
@@ -108,5 +108,22 @@
     "generated_visual_artistic_quality_validated": false,
     "adaptation_mastery_demonstrated": false,
     "scope": "raw evidence and retrieval interfaces, not learned artistic rules"
+  },
+  "release_hygiene": {
+    "safe_original_members": 2540,
+    "transformed_full_records": 8,
+    "removed_fields_per_record": 1,
+    "original_backup_changed": false,
+    "unsafe_source_toolchain_exposed": false
+  },
+  "historical_native_supplement": {
+    "source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+    "clips": 73,
+    "native_events": 54732,
+    "current_source_restored": false,
+    "audio_frame_pair_certified": false,
+    "base_clock_full_intervals": 41,
+    "base_clock_conditional_interiors": 31,
+    "base_clock_sequential_blocked": 1
   }
 }

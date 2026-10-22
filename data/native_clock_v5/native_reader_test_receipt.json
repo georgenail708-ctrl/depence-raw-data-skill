@@ -1,0 +1,11 @@
+{
+  "tests_run": 9,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "success": true,
+  "native_sequences_verified": 73,
+  "events_verified": 54732,
+  "actual_noninjectivity_control": "Changed native event4 timestamp0.075→0.076; same integer-binned arrays but different native sequence digest",
+  "peak_rss_kib": 70648
+}

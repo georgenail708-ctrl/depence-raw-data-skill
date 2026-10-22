@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "url": "https://help.depence.com/depence-show-and-animation/depence-show-sequencer/depence-track-types/depence-audio-track",
+      "paraphrase": "Imported audio belongs to the Repository and is copied into the project folder; timeline blocks can trim the beginning/end and apply fades.",
+      "scope": "product behavior, not target-project private media identity or exact native clock"
+    },
+    {
+      "url": "https://help.depence.com/depence-show-and-animation/depence-repository/depence-team-management",
+      "paraphrase": "A project can have public and individual choreographer repositories.",
+      "scope": "supports looking for matching repository, not assuming shared GUID implies identical project"
+    }
+  ],
+  "checked_date": "2026-10-22"
+}

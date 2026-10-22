@@ -3,21 +3,35 @@ import argparse,json,gzip
 from music_query import CLOCK_DOMAINS
 from context_query import read_component
 from pathlib import Path
+from safe_record import load as safe_record_load
 BASE=Path(__file__).resolve().parents[1]
 def rows(path):
- with Path(path).open(encoding='utf-8') as f:
+ with (gzip.open(path,'rt',encoding='utf-8') if str(path).endswith('.gz') else Path(path).open(encoding='utf-8')) as f:
   for line in f:
    if line.strip():yield json.loads(line)
+def source_media_evidence(song,base):
+ facts=[json.loads(line) for line in read_component(base,'data/music/source_binding_recovery_v5_2/record_media_evidence.jsonl').decode().splitlines() if line.strip()]
+ rows=[r for r in facts if r['source_song_id']==song]
+ coverage=[json.loads(line) for line in gzip.decompress(read_component(base,'data/coverage_matrix_v2.jsonl.gz')).decode().splitlines() if line.strip()]
+ source=[r for r in coverage if r['source_song_id']==song]
+ if len(rows)!=1 or len(source)!=1 or rows[0]['record_sha256']!=source[0]['source_record']['sha256']:raise ValueError('Source media evidence identity mismatch')
+ return {'classification':'source_media_binding_evidence_not_pair_certification','evidence':rows[0],'overrides_ready_gate':False}
 def main():
  p=argparse.ArgumentParser(description=__doc__);s=p.add_subparsers(dest='command',required=True)
  a=s.add_parser('coverage');a.add_argument('--song',required=True);a.add_argument('--data-dir',default=str(BASE/'data'))
  a=s.add_parser('pair-status');a.add_argument('--song',required=True);a.add_argument('--data-dir',default=str(BASE/'data'))
+ a=s.add_parser('source-media');a.add_argument('--song',required=True);a.add_argument('--data-dir',default=str(BASE/'data'))
+ a=s.add_parser('record');a.add_argument('--song',required=True);a.add_argument('--data-dir',default=str(BASE/'data'))
  a=s.add_parser('assets');a.add_argument('--song',required=True)
  a=s.add_parser('row');a.add_argument('--file',required=True);a.add_argument('--song',required=True)
  a=s.add_parser('search');a.add_argument('--text',required=True)
  a=s.add_parser('song');a.add_argument('--song',required=True);a.add_argument('--data-dir',default=str(BASE/'data'))
  x=p.parse_args()
- if x.command in ('coverage','pair-status'):
+ if x.command=='source-media':
+  result=source_media_evidence(x.song,Path(x.data_dir).parent)
+ elif x.command=='record':
+  result=safe_record_load(x.song,Path(x.data_dir).parent)
+ elif x.command in ('coverage','pair-status'):
   d=Path(x.data_dir)
   if x.command=='coverage':
    found=[json.loads(line) for line in gzip.decompress(read_component(d.parent,'data/coverage_matrix_v2.jsonl.gz')).decode().splitlines() if line.strip()]
@@ -25,6 +39,13 @@ def main():
   selected=[r for r in found if r['source_song_id']==x.song]
   if len(selected)!=1:raise ValueError('Source ID missing or ambiguous')
   result={'classification':'explicit_source_coverage_or_pair_gate_not_global_completion','evidence':selected[0]}
+  if x.command=='coverage':
+   safe=json.loads(read_component(d.parent,'data/hygiene_v3/sanitized_record_manifest.json'))
+   alternatives=[r for r in safe['records'] if r['source_song_id']==x.song]
+   result['effective_record_retrieval']=alternatives or {'route':'approved_original_member_catalog'}
+   for a in selected[0].get('raw_assets',[]):
+    matched=[r for r in alternatives if r['original_member']==a['member']]
+    if matched:a['effective_retrieval']={'original_member_access':'excluded_from_skill_reader','replacement':matched[0],'original_metadata_role':'historical_integrity_provenance_only'}
  elif x.command=='song':
   d=Path(x.data_dir);found={}
   for label,file in [('registry_base','registry/canonical_registry_v3.jsonl'),('current_scope','registry/registry_policy_overlay_v4.jsonl'),('current_dmx','dmx/dmx_manifest_v1.jsonl'),('music','music/song_music_catalog.jsonl')]:
@@ -39,6 +60,9 @@ def main():
   gate=[r for r in map(json.loads,read_component(d.parent,'data/music/clock_bridge_v4/pair_status_by_source_id.jsonl').decode().splitlines()) if r['source_song_id']==x.song]
   if len(gate)!=1:raise ValueError('Source pair-readiness row missing or ambiguous')
   found['effective_pair_readiness']=gate[0]
+  found['source_media_binding_evidence']=source_media_evidence(x.song,d.parent)
+  safe=json.loads(read_component(d.parent,'data/hygiene_v3/sanitized_record_manifest.json'))
+  found['safe_record_retrieval']=[r for r in safe['records'] if r['source_song_id']==x.song]
   result={'synchronized_use_allowed':gate[0]['pair_readiness']=='ready','legacy_links':'retrieval candidates only; never a synchronized program/audio pair unless all independent gates pass','clock_domains':CLOCK_DOMAINS,'classification':'joined_evidence_not_global_acceptance','precedence':'current_scope controls accepted Scene absence; current_dmx supersedes registry historical frame evidence; music alignment remains unverified','source_song_id':x.song,'evidence':found}
  elif x.command=='row':
   found=[r for r in rows(x.file) if r.get('source_song_id',r.get('song_id'))==x.song]
@@ -50,7 +74,10 @@ def main():
    # Exact source-ID prefix, not a substring which can join different songs.
    found=[e for e in entries if e['name'].startswith('01_数据集_songs/'+x.song+'.') or e['name']=='01_数据集_songs/qa/'+x.song+'.qa.json']
   else:found=[e for e in entries if x.text.casefold() in e['name'].casefold()]
-  result={'classification':'raw_archive_locator; filename match is not content identity','count':len(found),'entries':found}
+  result={'classification':'approved_raw_archive_locator; filename match is not content identity','count':len(found),'entries':found}
+  if x.command=='assets':
+   manifest=json.loads(read_component(BASE,'data/hygiene_v3/sanitized_record_manifest.json'))
+   result['transformed_record_alternatives']=[r for r in manifest['records'] if r['source_song_id']==x.song]
  print(json.dumps(result,ensure_ascii=False,indent=2))
 if __name__=='__main__':
  try:main()

@@ -2,7 +2,12 @@ import hashlib, importlib.util, io, json, pathlib, struct, sys, subprocess, temp
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
 from archive_reader import Parts, extract
+from unittest.mock import patch
 class ArchiveReaderTests(unittest.TestCase):
+ def setUp(self):
+  self.catalog_guard=patch('archive_reader.approved_entry',side_effect=lambda e:e);self.catalog_guard.start()
+ def tearDown(self):self.catalog_guard.stop()
+
  def build(self, root, payload, method=zipfile.ZIP_DEFLATED, zip64=False, descriptor=False):
   class NonSeek(io.BytesIO):
    def seekable(self):return False

@@ -1,0 +1,40 @@
+{
+  "component": "source_binding_recovery_v5_2",
+  "supersedes_for_packaging_only": [
+    "source_binding_recovery_v5",
+    "source_binding_recovery_v5_1"
+  ],
+  "scope": "neutral all517 media-source evidence and targeted resource requirements; no supplied implementation included",
+  "files": [
+    {
+      "path": "README.md",
+      "size": 1398,
+      "sha256": "05128e6581ee533880427a4e63fadd0e253da79247f6c9c096a58835c77cc5cb"
+    },
+    {
+      "path": "official_repository_references.json",
+      "size": 785,
+      "sha256": "01608465d9b98f041d9a3202a486bb4de2a4078e7b5746ac523cf297ea07a695"
+    },
+    {
+      "path": "record_media_evidence.jsonl",
+      "size": 503415,
+      "sha256": "da041e3c1436c2dd23fbfca05474b6fa8b6a401afb8208d6988a1d811bf5fe2c"
+    },
+    {
+      "path": "record_media_evidence_summary.json",
+      "size": 619,
+      "sha256": "78e28183c9648f44d6f8fab9bca184623433b2e0c80dfb0956018c1a4fab2ab7"
+    },
+    {
+      "path": "source_field_lineage.json",
+      "size": 4337,
+      "sha256": "63800a50bf4ec06cec50ea6e0a74175ee7601d072af0e25aa2cbd8ddbe398d3b"
+    },
+    {
+      "path": "targeted_resource_recovery.json",
+      "size": 59173,
+      "sha256": "3b73a1de3a2b1249e684482b17ee3b16977d838caae379c9576397684e32073d"
+    }
+  ]
+}

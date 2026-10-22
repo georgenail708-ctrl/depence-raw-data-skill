@@ -1,6 +1,7 @@
 """Resumable exhaustive source coverage ledger. Hash/read/review are different states."""
 import argparse,datetime,hashlib,json,zlib
 from pathlib import Path
+from context_query import read_component
 BASE=Path(__file__).resolve().parents[1]
 def jsonl(p):
  with Path(p).open(encoding='utf8') as f:return [json.loads(l) for l in f if l.strip()]
@@ -11,6 +12,8 @@ def initialize(data_dir,entries):
  overlay={x['source_song_id']:x for x in jsonl(d/'registry/registry_policy_overlay_v4.jsonl')}
  music={x['source_song_id']:x for x in jsonl(d/'music/song_music_catalog.jsonl')}
  by={e['name']:e for e in entries};sources=[];ids=set()
+ hp=d/'hygiene_v3/sanitized_record_manifest.json'
+ safe={r['original_member']:r for r in json.loads(read_component(d.parent,'data/hygiene_v3/sanitized_record_manifest.json'))['records']} if hp.exists() else {}
  dp=d/'dmx/dmx_manifest_v1.jsonl';dmx={r['song_id']:r for r in jsonl(dp)}
  for r in registry:
   sid=r['source_song_id']
@@ -25,12 +28,16 @@ def initialize(data_dir,entries):
   elif isinstance(audio,dict) and audio.get('member',audio.get('name')):names.add(audio.get('member',audio.get('name')))
   # Include filename candidates even when musical identity remains unverified.
   names.update(e['name'] for e in entries if e['name'].startswith('07_音频_全部匹配/'+sid+'.'))
-  assets=[]
+  assets=[];sanitized=[]
   for name in sorted(names):
    e=by.get(name)
-   if e is None:raise ValueError('Referenced asset missing from safe locator: '+name)
+   if e is None:
+    if name not in safe:raise ValueError('Referenced asset missing from safe locator: '+name)
+    sr=safe[name];path=d.parent/sr['bundle_relative_path']
+    sanitized.append({'member':'component:'+sr['bundle_relative_path'],'bytes':path.stat().st_size,'expected_sha256':sr['sanitized_gzip_sha256'],'crc32':None,'original_member':name,'original_member_sha256':sr['original_member_sha256'],'provenance_kind':'transformed_not_original_sensitive_metadata_removed','bytes_verified':None,'raw_read':[],'semantic_reviewed':[]})
+    continue
    assets.append({'member':name,'bytes':e['uncompressed_size'],'expected_sha256':e.get('sha256'),'crc32':e['crc32'],'bytes_verified':None,'raw_read':[],'semantic_reviewed':[]})
-  derived=[];rec=dmx.get(sid,{}).get('recommended_npz')
+  derived=sanitized;rec=dmx.get(sid,{}).get('recommended_npz')
   if rec and rec.get('path'):
    parts=Path(rec['path']).parts
    for folder in ('corrected','opaque_restored'):
