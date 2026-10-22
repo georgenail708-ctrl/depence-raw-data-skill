@@ -1,0 +1,13 @@
+{
+ "song_id": "glimmers_end",
+ "frame_count": 7212,
+ "duration_s": 120.2,
+ "families": {
+  "pump_or_water_switch": 551,
+  "led": 2112
+ },
+ "pump_channels": 551,
+ "leading_bursts_0_2p6s": 0,
+ "bursts_total": 977,
+ "leading_ratio": 0.0
+}

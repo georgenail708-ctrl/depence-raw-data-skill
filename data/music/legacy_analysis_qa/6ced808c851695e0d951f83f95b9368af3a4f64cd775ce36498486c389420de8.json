@@ -1,0 +1,19 @@
+{
+ "song_id": "水仙十字_blk0_0s",
+ "frame_count": 7212,
+ "duration_s": 120.2,
+ "families": {
+  "pump_or_water_switch": 551,
+  "led": 2112
+ },
+ "pump_channels": 551,
+ "notes": 944,
+ "onset_coverage": 0.632,
+ "accent_notes": 324,
+ "accent_coverage": 0.627,
+ "best_shift_s": 0.0,
+ "coverage_at_best_shift": 0.632,
+ "leading_bursts_0_2p6s": 0,
+ "bursts_total": 977,
+ "leading_ratio": 0.0
+}

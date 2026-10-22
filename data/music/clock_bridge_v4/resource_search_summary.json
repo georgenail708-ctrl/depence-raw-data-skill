@@ -1,0 +1,181 @@
+{
+  "archive_index_sha256": "ede593326735c564e58962a969a8136cfe87c3fb9577d10bdae498c9a9e231c5",
+  "source_resource_members": [
+    {
+      "member": "03_样例源文件_水仙十字/11ce641f-02f3-4397-a8bc-db45431d7dc3.show",
+      "uncompressed_bytes": 302894,
+      "crc32": "2fd7f4dc"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/768ad77a-658a-4b62-9863-267861825224.show",
+      "uncompressed_bytes": 1426,
+      "crc32": "906a7890"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/project.xml",
+      "uncompressed_bytes": 25041259,
+      "crc32": "ee57d917"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-19-23-21.oss",
+      "uncompressed_bytes": 3110346,
+      "crc32": "73b43f7b"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-21-51-54.oss",
+      "uncompressed_bytes": 2009544,
+      "crc32": "ee1613cc"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-21-55-30.oss",
+      "uncompressed_bytes": 2122584,
+      "crc32": "6c0e9ff3"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-21-59-22.oss",
+      "uncompressed_bytes": 9515786,
+      "crc32": "174e0cea"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-22-49-40.oss",
+      "uncompressed_bytes": 1487686,
+      "crc32": "721f2e6d"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-22-50-10.oss",
+      "uncompressed_bytes": 33616,
+      "crc32": "4a2fff47"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-22-53-52.oss",
+      "uncompressed_bytes": 9870254,
+      "crc32": "d43f5bb6"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-37-36.oss",
+      "uncompressed_bytes": 28992,
+      "crc32": "13dab564"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-39-52.oss",
+      "uncompressed_bytes": 4574824,
+      "crc32": "f877286b"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-45-28.oss",
+      "uncompressed_bytes": 3492112,
+      "crc32": "934c8870"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-51-38.oss",
+      "uncompressed_bytes": 2697704,
+      "crc32": "9821bf93"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-52-46.oss",
+      "uncompressed_bytes": 1346696,
+      "crc32": "08b60e4c"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-56-23.oss",
+      "uncompressed_bytes": 7554112,
+      "crc32": "6e50ca34"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-59-8.oss",
+      "uncompressed_bytes": 2655528,
+      "crc32": "01eb4509"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-1-17.oss",
+      "uncompressed_bytes": 13608,
+      "crc32": "e69549bf"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-10-20.oss",
+      "uncompressed_bytes": 3972904,
+      "crc32": "632cd1ee"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-13-12.oss",
+      "uncompressed_bytes": 17764080,
+      "crc32": "f9265fa0"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-18-25.oss",
+      "uncompressed_bytes": 30114016,
+      "crc32": "63a698d4"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-4-7.oss",
+      "uncompressed_bytes": 4768024,
+      "crc32": "4a0a6b51"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-7-57.oss",
+      "uncompressed_bytes": 6373880,
+      "crc32": "8e371c02"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-16-37.oss",
+      "uncompressed_bytes": 253504,
+      "crc32": "9f2fcc8d"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-33-38.oss",
+      "uncompressed_bytes": 16464,
+      "crc32": "b9f2a574"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-33-58.oss",
+      "uncompressed_bytes": 28816,
+      "crc32": "ac989b29"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-34-29.oss",
+      "uncompressed_bytes": 436272,
+      "crc32": "cf2eb259"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-38-43.oss",
+      "uncompressed_bytes": 32328592,
+      "crc32": "b33c547b"
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-17-28-19.oss",
+      "uncompressed_bytes": 189592,
+      "crc32": "ca84ba4a"
+    }
+  ],
+  "extension_counts": {
+    "md": 10,
+    "json": 1455,
+    "npz": 572,
+    "py": 20,
+    "txt": 1,
+    "show": 2,
+    "xml": 1,
+    "oss": 26,
+    "log": 47,
+    "wav": 99,
+    "mp3": 92,
+    "flac": 1,
+    "mid": 299
+  },
+  "separate_audio_obj_depence_members": [],
+  "main_show_casefold_GUID_text_counts": {
+    "69d5d216-522b-4f64-a4e3-06251d130abb": 1,
+    "d6dea3d9-4a99-447f-b8be-800f3cb298d0": 1,
+    "32514b1d-4aaf-4491-867c-0b29bdfdbf15": 1,
+    "48682837-68c6-4785-a228-492886ccc27c": 1,
+    "34d492a9-ee27-432d-b15b-b9db2f452761": 1,
+    "0cba8d07-4dd9-4766-8b3f-febbffbbdc7a": 1
+  },
+  "main_show_GUID_uses": "six AudioObjectGUID references, no corresponding resource definitions in this show",
+  "record_scope_count": 517,
+  "audio_asset_scope_count": 192,
+  "source_ID_to_authored_block_exact_provenance_matches": 4,
+  "authored_DMX_blocks": 6,
+  "ready_pair_count_established": 0,
+  "next_required_source": "audio resource definitions matching the six authored GUIDs and source-native capture/sample clock semantics; do not invent from audio features"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "member": "07_音频_全部匹配/水仙十字_幽灯所及之崖glimmersend.flac",
+    "sha256": "a2cfb8a339a52c86f831e6136d4acb1d2b20fd5aa793046fd119c5d791b3e468",
+    "extension_claim": "flac",
+    "magic_first_16_hex": "000000206674797069736f6d00000200",
+    "observed_header": "ISO-BMFF ftyp box, major brand isom",
+    "probe_error": "[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55a978428c40] Format not on whitelist 'wav,mp3,flac'\n/proc/self/fd/4: Invalid argument\n",
+    "status": "byte verified; unsupported by chosen restricted format whitelist",
+    "codec_duration_sample_rate_channels": "not measured",
+    "no_refetch_reason": "memory-only bytes released; bulk stream released to backup verifier"
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "kept": "至冬城堡_blk0_0s",
+  "dropped": "至冬城堡_blk1_300s",
+  "difference": {
+    "frame_index": {
+      "kept": {
+        "shape": [
+          5499
+        ],
+        "dtype": "<i8",
+        "fortran_order": false,
+        "data_bytes": 43992,
+        "data_sha256": "090bc3627a931096f05fa162bd7860716e056cc374fcdadb342c0c9b9c65d735",
+        "npy_crc32": "b4586a77"
+      },
+      "dropped": {
+        "shape": [
+          5050
+        ],
+        "dtype": "<i8",
+        "fortran_order": false,
+        "data_bytes": 40400,
+        "data_sha256": "3edac6a500333cd833ecdf2fbd71a81755fa4076261b4c6a2e76bcfb5bcec170",
+        "npy_crc32": "c98f8eaf"
+      }
+    },
+    "payload_offset": {
+      "kept": {
+        "shape": [
+          5499
+        ],
+        "dtype": "<i8",
+        "fortran_order": false,
+        "data_bytes": 43992,
+        "data_sha256": "a056ebcafc02b8c45831b27ba1c70d6ec320a41e65cf6ecb85870288967ae5af",
+        "npy_crc32": "f22c459d"
+      },
+      "dropped": {
+        "shape": [
+          5050
+        ],
+        "dtype": "<i8",
+        "fortran_order": false,
+        "data_bytes": 40400,
+        "data_sha256": "9445a078ded8881ec87e0b1a4b1998c1422854ed4ace03aec29e97a6df05a90b",
+        "npy_crc32": "e3728a88"
+      }
+    },
+    "payload_len": {
+      "kept": {
+        "shape": [
+          5499
+        ],
+        "dtype": "<i8",
+        "fortran_order": false,
+        "data_bytes": 43992,
+        "data_sha256": "2b2ad43ea580114fd0a09ccf0a07a2634c475c0de8195f86c2b8e6a0eea3df0c",
+        "npy_crc32": "2be8fc9c"
+      },
+      "dropped": {
+        "shape": [
+          5050
+        ],
+        "dtype": "<i8",
+        "fortran_order": false,
+        "data_bytes": 40400,
+        "data_sha256": "f5caa37d21bb988d7e10c79f4e073891734d28746b4080798fd6a2a19ba392a7",
+        "npy_crc32": "f14251f9"
+      }
+    },
+    "payload_blob": {
+      "kept": {
+        "shape": [
+          15120276
+        ],
+        "dtype": "|u1",
+        "fortran_order": false,
+        "data_bytes": 15120276,
+        "data_sha256": "972586253ca88000b652362c4e6e736947003a82c8cb6b3f7466982771a9fc55",
+        "npy_crc32": "eca4ef68"
+      },
+      "dropped": {
+        "shape": [
+          10773160
+        ],
+        "dtype": "|u1",
+        "fortran_order": false,
+        "data_bytes": 10773160,
+        "data_sha256": "d8eb9708f204eaedaff59ebea764ac3bf42650b7299ef0865447b2b87bbc5b7c",
+        "npy_crc32": "8a8f3e33"
+      }
+    }
+  }
+}

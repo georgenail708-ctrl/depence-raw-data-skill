@@ -1,0 +1,19 @@
+{
+ "song_id": "土库曼斯坦_blk4_94s",
+ "frame_count": 502,
+ "duration_s": 8.366666666666667,
+ "families": {
+  "led": 5217,
+  "pump_or_water_switch": 189
+ },
+ "pump_channels": 189,
+ "notes": 17,
+ "onset_coverage": 0.0,
+ "accent_notes": 9,
+ "accent_coverage": 0.0,
+ "best_shift_s": -3.0,
+ "coverage_at_best_shift": 0.0,
+ "leading_bursts_0_2p6s": 0,
+ "bursts_total": 0,
+ "leading_ratio": 0.0
+}

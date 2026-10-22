@@ -1,0 +1,19 @@
+{
+ "song_id": "pengquan124_blk1_23s",
+ "frame_count": 374,
+ "duration_s": 6.233333333333333,
+ "families": {
+  "pump_or_water_switch": 95,
+  "led": 546
+ },
+ "pump_channels": 95,
+ "notes": 15,
+ "onset_coverage": 0.0,
+ "accent_notes": 9,
+ "accent_coverage": 0.0,
+ "best_shift_s": -3.0,
+ "coverage_at_best_shift": 0.0,
+ "leading_bursts_0_2p6s": 0,
+ "bursts_total": 0,
+ "leading_ratio": 0.0
+}

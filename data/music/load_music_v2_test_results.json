@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "checks": [
+    "actual_source_and_derivative_query",
+    "record_only_notes_query",
+    "facts_query",
+    "copied_valid_source_and_events",
+    "event_tamper_with_unchanged_raw",
+    "record_only_notes_tamper",
+    "facts_tamper",
+    "missing_events",
+    "traversal",
+    "absolute_path",
+    "unsupported_sealed_script",
+    "symlink_escape",
+    "descriptor_source_mismatch",
+    "manifest_tamper"
+  ]
+}

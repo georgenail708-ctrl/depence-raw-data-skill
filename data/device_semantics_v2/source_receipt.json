@@ -1,0 +1,26 @@
+{
+  "name": "03_\u6837\u4f8b\u6e90\u6587\u4ef6_\u6c34\u4ed9\u5341\u5b57/project.xml",
+  "size": 25041259,
+  "crc32": "ee57d917",
+  "sha256": "096a1c85a26ab95ac479c2bac214d689a24caab20118dc0298830118ff6b5951",
+  "whole_archive_sha256_verified": false,
+  "pin": {
+    "id": "1a3x-7A36bl66TF5sbdlY2J53AnVqrRZm",
+    "title": "Depence\u539f\u59cb\u6570\u636e\u4ea4\u63a5_20261022.zip.001",
+    "mime_type": "application/octet-stream",
+    "size": "209715200",
+    "url": null,
+    "file_or_folder": "file",
+    "created_time": "2026-10-22T06:31:52.447Z",
+    "modified_time": "2026-10-22T06:20:42.370Z",
+    "parent_ids": null,
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "network_range_bytes": 3461197,
+  "full_xml_persisted": false
+}

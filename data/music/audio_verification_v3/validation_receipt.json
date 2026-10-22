@@ -1,0 +1,10 @@
+{
+  "expected_members": 192,
+  "accepted_unique_members": 192,
+  "all_index_offsets_sizes_crcs_match": true,
+  "preserved158_row_prefix_sha256": "9bec79c51ea4a55ea97a2bd910478052cdefbb0349215091ea90a43ed06667aa",
+  "prefix_matches_pre_resume_pin": true,
+  "post_read_source_metadata_all18_match": true,
+  "no_audio_files_persisted": true,
+  "no_full_decode_or_listening_claim": true
+}

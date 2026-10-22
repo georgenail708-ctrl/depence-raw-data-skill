@@ -1,0 +1,41 @@
+{
+  "registry_rows": 517,
+  "supplier_retained_provisional": 211,
+  "retained_audio_members": 192,
+  "retained_reference_midi_join": 205,
+  "retained_transcribed_midi_join": 191,
+  "retained_analysis_members": 192,
+  "retained_qa_members": 41,
+  "cache_checks": 68,
+  "cache_exact_matches": 68,
+  "missing_transcription_among_job_ids": [
+    "水仙十字_幽灯所及之崖glimmersend"
+  ],
+  "source_identity_and_clock_alignment_status": "unverified",
+  "archive_integrity": "verified_against_supplied_sha256",
+  "archive_sha256": "6caa72e1b0c9f3e9f949d503c0a546fa89b8eeffb153ad7b80ea000c49a6f1cb",
+  "record_rows_joined": 517,
+  "retained_record_reference_resolved": 205,
+  "retained_any_reference_resolved": 205,
+  "retained_record_match_ambiguous": 13,
+  "retained_legacy_qa_onset_metric_present": 40,
+  "retained_flags_counts": {
+    "audio_hash_unbound": 192,
+    "chords_forced_major_minor_templates": 192,
+    "crossmodal_clock_alignment_not_recomputed": 211,
+    "no_catalog_reference_midi_join": 6,
+    "no_id_named_audio_member": 19,
+    "no_id_named_transcription_midi": 20,
+    "no_source_offset_in_analysis": 192,
+    "qa_has_no_music_alignment_metrics": 1,
+    "record_claimed_midi_hash_not_present": 1,
+    "structure_is_boundary_candidates": 192,
+    "ai_transcription_accuracy_unverified": 191,
+    "audio_content_identity_unverified": 192,
+    "reference_rendition_alignment_unverified": 205,
+    "source_declares_music_match_ambiguous": 13,
+    "no_song_qa_member": 170,
+    "missing_analysis_member": 19,
+    "beat_times_at_800_cap": 3
+  }
+}

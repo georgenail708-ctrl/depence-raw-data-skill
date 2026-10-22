@@ -1,0 +1,21 @@
+{
+  "source_groups": 517,
+  "records_syntax_parsed": 517,
+  "context_source_available": 482,
+  "context_missing": 35,
+  "frame_acceptance_counts": {
+    "corrected_raw_delta_reconstruction": 24,
+    "supplied_dense_matches_supplied_raw_deltas_source_authenticity_separate": 19,
+    "integer-time-repacked_clip_arrays_native_sample_fidelity_unverified": 9,
+    "unverified_dense_no_supplied_raw_or_source": 18,
+    "complete_opaque_source_preserved_NOT_decoded_frames": 2,
+    "opaque_filtered_payload_only_source_completeness_unverified": 2,
+    "saved_facts_only_placeholder_NOT_output_frames": 429,
+    "derived_approximation_NOT_recorded_output": 14
+  },
+  "ready_paired": 0,
+  "matched_instance_XML_source_groups": 7,
+  "fully_semantically_decoded_all_sources": false,
+  "raw_audio_assets_preserved": 192,
+  "complete_raw_universe_not_reduced_by_pair_gate": true
+}

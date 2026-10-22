@@ -1,0 +1,47 @@
+{
+  "version": "v2_clarification",
+  "prior_v1_unchanged": true,
+  "scope": {
+    "complete_original_record_jsons": 9,
+    "primary_npzs": 9,
+    "clip_arrays": 459,
+    "archive_index_entries": 2625,
+    "unrelated_artifact_contents_scanned": false
+  },
+  "findings": {
+    "native_dmx_ts_m_blob_in_complete_records": 0,
+    "native_timestamp_or_sample_map_npz_arrays": 0,
+    "embedded_json_copies": 0,
+    "archive_dmxt_members": 0,
+    "npz_key_pattern": "c0..cN only; uint8[universe_axis,integer_time_axis,512]",
+    "preserved_clip_metadata": "start_time, duration, unis, active_channels_by_universe, fades and other clip metadata; these are not native per-sample timestamps",
+    "actual_artifact_example": {
+      "song_id": "喷泉编曲至冬70_至冬",
+      "clip": 0,
+      "duration_seconds_claim": 6.925000000000001,
+      "array": "c0",
+      "shape": [
+        4,
+        7,
+        512
+      ],
+      "native_sample_count": "unknown"
+    }
+  },
+  "producer_evidence": "Supplied process_dmxt reads fb.ts and fb.m, then assigns arrs[m[i],int(ts[i]),:]=raw[i]; sparse branch also casts times to integers. Static review only.",
+  "interpretation": {
+    "recorder_can_be_nonuniform": true,
+    "nonuniform_sampling_is_not_itself_a_defect": true,
+    "requirement": "Preserve exact native ts, m, raw values and source units; do not invent uniform sampling or missing frames.",
+    "package_native_fidelity": "unverified because exact sample timestamps/map/raw sample sequence were not found in checked artifacts",
+    "actual_fractional_samples_lost": "NOT established or counted without matching original DMXT",
+    "restore_from_existing_9_record_and_npz_artifacts": "No native timestamp/sample sequence found that enables verified restoration; bounds of search are explicit."
+  },
+  "scene_terminal_policy": {
+    "user_count": 127,
+    "status": "Accepted terminal missing recorded frames for this round: retain Scene facts, audio and music analyses; frame fields remain missing.",
+    "forbidden_substitution": "No interpolation, inferred frames, local file requests or DP re-rendering this round.",
+    "inventory_count_reconciliation": "Registry owns distinction between user127 and uploaded138 Scene-layer entries; this clarification does not replace either with an invented count."
+  },
+  "notes": "Original records are retained losslessly as gzip for independent review, not as polished user deliverables."
+}

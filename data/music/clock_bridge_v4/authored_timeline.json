@@ -1,0 +1,1172 @@
+{
+  "schema": "authored_show_audio_timeline.v4",
+  "source_show_sha256": "eb185bef99a1311de731bc7b939ae7e3e7d8a8d2ea4f89da0faed0c3cbe66f13",
+  "source_show_member": "03_样例源文件_水仙十字/11ce641f-02f3-4397-a8bc-db45431d7dc3.show",
+  "show_attributes": {
+    "AssemblyName": "Syncronorm.V3D.Engine",
+    "TypeName": "V3D.TSequenceFile",
+    "GUID": "11ce641f-02f3-4397-a8bc-db45431d7dc3",
+    "ChoreographerGUID": "f299e04b-84f0-4272-9765-2c267a43b5b2",
+    "ParentGUID": "a751e7e5-2ac2-4ab7-857b-572d9fa84f77",
+    "Name": "正式节目",
+    "Order": "0",
+    "Artist": "Unknow",
+    "Description": "",
+    "ProtectedSequence": "False",
+    "CreateDate": "10/09/2026 14:34:07",
+    "LastUpdate": "10/09/2026 14:34:07",
+    "SequenceLenght": "938.645455917781",
+    "TCOffset_LTC": "0",
+    "TCInputOffset": "0",
+    "ReleaseAllOnEnd": "True",
+    "LoopState": "0",
+    "LeftLocator": "728",
+    "RightLocator": "728.7",
+    "EditorResolution": "30",
+    "BeatLine_BeatsPerMinute": "60",
+    "BeatLine_StartTimeOffset": "0",
+    "BeatLine_Visible": "False",
+    "BeatLine_Tackt": "1",
+    "PreLoadSequence": "False"
+  },
+  "tracks": [
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_DMXStream",
+      "GUID": "f79b1ddf-b762-4488-9906-098fd1011d4c",
+      "Name": "DMX Stream",
+      "Height": "24",
+      "Text": "DMX Stream",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-3166385",
+      "LockOnTop": "False",
+      "LastPlayUniverse": "1024"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_Audio",
+      "GUID": "245ddeb7-b36e-4291-a2d2-329a1b75a4fe",
+      "Name": "Audio",
+      "Height": "45",
+      "Text": "Audio",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-15301364",
+      "LockOnTop": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_AnyScene",
+      "GUID": "a7356547-6029-4ad2-b040-afe28ba6b227",
+      "Name": "Any Scenes",
+      "Height": "24",
+      "Text": "Any Scenes",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-5009693",
+      "LockOnTop": "False",
+      "DefaultIsTracking": "True",
+      "DefaultFadeTime": "0",
+      "DefaultDelayTime": "0",
+      "IsMacroTrack": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_AnyScene",
+      "GUID": "a98263fa-ee50-4f80-be82-f0502bdd93a1",
+      "Name": "Any Scenes",
+      "Height": "24",
+      "Text": "Any Scenes",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-5009693",
+      "LockOnTop": "False",
+      "DefaultIsTracking": "True",
+      "DefaultFadeTime": "0",
+      "DefaultDelayTime": "0",
+      "IsMacroTrack": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_AnyScene",
+      "GUID": "ca1b8215-fe44-43f6-956b-8f2fe109cd80",
+      "Name": "Any Scenes",
+      "Height": "24",
+      "Text": "Any Scenes",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-5009693",
+      "LockOnTop": "False",
+      "DefaultIsTracking": "True",
+      "DefaultFadeTime": "0",
+      "DefaultDelayTime": "0",
+      "IsMacroTrack": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_MultimediaStream",
+      "GUID": "1bd68eb9-fa69-4fb6-bc3f-f313f92ce6d6",
+      "Name": "Multimedia Stream",
+      "Height": "24",
+      "Text": "Multimedia Stream",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-3166385",
+      "LockOnTop": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_DMXStream",
+      "GUID": "cb8ffab7-fe94-4e06-8ac6-4e17aaf989ba",
+      "Name": "DMX Stream",
+      "Height": "24",
+      "Text": "DMX Stream",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-3166385",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "1bd68eb9-fa69-4fb6-bc3f-f313f92ce6d6",
+      "LastPlayUniverse": "1024"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_AnyScene",
+      "GUID": "23dc8088-0087-4345-9896-f0be17ae3748",
+      "Name": "Any Scenes",
+      "Height": "24",
+      "Text": "Any Scenes",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-5009693",
+      "LockOnTop": "False",
+      "DefaultIsTracking": "True",
+      "DefaultFadeTime": "0",
+      "DefaultDelayTime": "0",
+      "IsMacroTrack": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_Video",
+      "GUID": "ae2370b4-9db5-42f1-93af-4ea92d27f6cb",
+      "Name": "视频源1",
+      "Height": "45",
+      "Text": "视频源1",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-3194701",
+      "LockOnTop": "False",
+      "VideoSourceGUID": "6579fb4a-9515-41c4-8a4c-db8392859c24"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeObject",
+      "GUID": "12fced32-4e02-49bd-af2c-b014e09dd4f2",
+      "Name": "Camera",
+      "Height": "24",
+      "Text": "Camera",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "KeyObjectGUID": "5246b8a4-df3b-43d0-b409-19b3bd35dd91",
+      "Rail_Offset": "0",
+      "UseRailRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "5b3d661b-240a-4a18-98e3-4468f39810ab",
+      "Name": "Position",
+      "Height": "24",
+      "Text": "Position",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "12fced32-4e02-49bd-af2c-b014e09dd4f2",
+      "PropertyName": "Position",
+      "SplineMode": "0",
+      "KeyObjectGUID": "5246b8a4-df3b-43d0-b409-19b3bd35dd91",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "397ed0c5-f60c-401d-a9f2-2983ff540d7d",
+      "Name": "Rotation",
+      "Height": "24",
+      "Text": "Rotation",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "12fced32-4e02-49bd-af2c-b014e09dd4f2",
+      "PropertyName": "Rotation",
+      "SplineMode": "0",
+      "KeyObjectGUID": "5246b8a4-df3b-43d0-b409-19b3bd35dd91",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "07b3f7e8-aba8-4963-8bbd-4ad338afe83d",
+      "Name": "FocusDistance",
+      "Height": "24",
+      "Text": "FocusDistance",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "12fced32-4e02-49bd-af2c-b014e09dd4f2",
+      "PropertyName": "FocusDistance",
+      "SplineMode": "0",
+      "KeyObjectGUID": "5246b8a4-df3b-43d0-b409-19b3bd35dd91",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "e0645f1a-bd2e-4c21-8522-72e611c4d546",
+      "Name": "FOV",
+      "Height": "24",
+      "Text": "FOV",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "12fced32-4e02-49bd-af2c-b014e09dd4f2",
+      "PropertyName": "FOV",
+      "SplineMode": "0",
+      "KeyObjectGUID": "5246b8a4-df3b-43d0-b409-19b3bd35dd91",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeObject",
+      "GUID": "780d0a3c-1f14-4be7-8af9-735cc8daf9ea",
+      "Name": "CameraSelector",
+      "Height": "24",
+      "Text": "CameraSelector",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "KeyObjectGUID": "e083920e-0c20-4c01-bf6a-09791a16bfd4",
+      "Rail_Offset": "0",
+      "UseRailRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "47f0d0ab-d238-4abe-a608-638a03e7f40e",
+      "Name": "Camera",
+      "Height": "24",
+      "Text": "Camera",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "780d0a3c-1f14-4be7-8af9-735cc8daf9ea",
+      "PropertyName": "Camera",
+      "SplineMode": "0",
+      "KeyObjectGUID": "e083920e-0c20-4c01-bf6a-09791a16bfd4",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeObject",
+      "GUID": "3d77359f-cdb2-4b60-934a-9f1b3cc6a03c",
+      "Name": "Camera 1",
+      "Height": "24",
+      "Text": "Camera 1",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "KeyObjectGUID": "03d031ba-1dfc-48b5-9d6b-ecf586e02452",
+      "Rail_Offset": "0",
+      "UseRailRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "d47e99e0-af02-49aa-8ab7-a1640f879718",
+      "Name": "Position",
+      "Height": "24",
+      "Text": "Position",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "3d77359f-cdb2-4b60-934a-9f1b3cc6a03c",
+      "PropertyName": "Position",
+      "SplineMode": "0",
+      "KeyObjectGUID": "03d031ba-1dfc-48b5-9d6b-ecf586e02452",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "8b98cdab-6d56-454d-a600-d7f2134b4a88",
+      "Name": "Rotation",
+      "Height": "24",
+      "Text": "Rotation",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "3d77359f-cdb2-4b60-934a-9f1b3cc6a03c",
+      "PropertyName": "Rotation",
+      "SplineMode": "0",
+      "KeyObjectGUID": "03d031ba-1dfc-48b5-9d6b-ecf586e02452",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "3d73e748-9656-4d04-bce1-f3da9494da55",
+      "Name": "FocusDistance",
+      "Height": "24",
+      "Text": "FocusDistance",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "3d77359f-cdb2-4b60-934a-9f1b3cc6a03c",
+      "PropertyName": "FocusDistance",
+      "SplineMode": "0",
+      "KeyObjectGUID": "03d031ba-1dfc-48b5-9d6b-ecf586e02452",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "fa251cef-9ce4-412b-8db3-033ea67bfeb7",
+      "Name": "FOV",
+      "Height": "24",
+      "Text": "FOV",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "3d77359f-cdb2-4b60-934a-9f1b3cc6a03c",
+      "PropertyName": "FOV",
+      "SplineMode": "0",
+      "KeyObjectGUID": "03d031ba-1dfc-48b5-9d6b-ecf586e02452",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeObject",
+      "GUID": "500d2a14-daba-49ba-8f88-902fd49ca1c6",
+      "Name": "CameraSelector 1",
+      "Height": "24",
+      "Text": "CameraSelector 1",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "KeyObjectGUID": "d5039d5c-16c4-4d33-b3cf-8bedbb933b5c",
+      "Rail_Offset": "0",
+      "UseRailRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "53473136-2b7f-45e8-9b30-ad41c37d4e7f",
+      "Name": "Camera",
+      "Height": "24",
+      "Text": "Camera",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "500d2a14-daba-49ba-8f88-902fd49ca1c6",
+      "PropertyName": "Camera",
+      "SplineMode": "0",
+      "KeyObjectGUID": "d5039d5c-16c4-4d33-b3cf-8bedbb933b5c",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_AnyScene",
+      "GUID": "535beb0d-7fcd-4a9c-8d07-4847363c913d",
+      "Name": "Any Scenes",
+      "Height": "24",
+      "Text": "Any Scenes",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-5009693",
+      "LockOnTop": "False",
+      "DefaultIsTracking": "True",
+      "DefaultFadeTime": "0",
+      "DefaultDelayTime": "0",
+      "IsMacroTrack": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeObject",
+      "GUID": "3c911819-8006-4073-8960-effc1f1d09fd",
+      "Name": "New Group",
+      "Height": "24",
+      "Text": "New Group",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "KeyObjectGUID": "0b13f4f6-f5f6-42d3-828b-9516081a6d25",
+      "Rail_Offset": "0",
+      "UseRailRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "006ffb53-d1f0-4838-a253-dae719955606",
+      "Name": "Position",
+      "Height": "24",
+      "Text": "Position",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "3c911819-8006-4073-8960-effc1f1d09fd",
+      "PropertyName": "Position",
+      "SplineMode": "0",
+      "KeyObjectGUID": "0b13f4f6-f5f6-42d3-828b-9516081a6d25",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "734d705c-83d9-42fd-8732-1f14138c84f5",
+      "Name": "Rotation",
+      "Height": "24",
+      "Text": "Rotation",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "3c911819-8006-4073-8960-effc1f1d09fd",
+      "PropertyName": "Rotation",
+      "SplineMode": "0",
+      "KeyObjectGUID": "0b13f4f6-f5f6-42d3-828b-9516081a6d25",
+      "LockZRotation": "False"
+    },
+    {
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TTrack_KeyframeProperty",
+      "GUID": "14a8cd5b-280a-490c-b39d-22d6335531da",
+      "Name": "Scale",
+      "Height": "24",
+      "Text": "Scale",
+      "Muted": "False",
+      "Solo": "False",
+      "Locked": "False",
+      "TrackColor": "-12878897",
+      "LockOnTop": "False",
+      "ParentTrackGUID": "3c911819-8006-4073-8960-effc1f1d09fd",
+      "PropertyName": "Scale",
+      "SplineMode": "0",
+      "KeyObjectGUID": "0b13f4f6-f5f6-42d3-828b-9516081a6d25",
+      "LockZRotation": "False"
+    }
+  ],
+  "audio_blocks": [
+    {
+      "GUID": "ea62b187-c71f-4fe1-aa81-ca70b9d6b313",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_AudioFile",
+      "StartTime": "5",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "245ddeb7-b36e-4291-a2d2-329a1b75a4fe",
+      "AudioObjectGUID": "69d5d216-522b-4f64-a4e3-06251d130abb",
+      "Volumen": "100",
+      "FadeTime_In": "0",
+      "FadeTime_Out": "0",
+      "LengthTime": "117.733333333333",
+      "StartTimeInAudioStream": "0"
+    },
+    {
+      "GUID": "59b31d3a-941e-432e-b830-f57c08927f84",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_AudioFile",
+      "StartTime": "123.066666666667",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "245ddeb7-b36e-4291-a2d2-329a1b75a4fe",
+      "AudioObjectGUID": "d6dea3d9-4a99-447f-b8be-800f3cb298d0",
+      "Volumen": "100",
+      "FadeTime_In": "0",
+      "FadeTime_Out": "0",
+      "LengthTime": "121.733333333333",
+      "StartTimeInAudioStream": "0"
+    },
+    {
+      "GUID": "4f59333f-dc2c-40e5-90bb-0d5d7b8fb321",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_AudioFile",
+      "StartTime": "244.833333333333",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "245ddeb7-b36e-4291-a2d2-329a1b75a4fe",
+      "AudioObjectGUID": "32514b1d-4aaf-4491-867c-0b29bdfdbf15",
+      "Volumen": "100",
+      "FadeTime_In": "0",
+      "FadeTime_Out": "0",
+      "LengthTime": "194.466666666667",
+      "StartTimeInAudioStream": "0"
+    },
+    {
+      "GUID": "290387dc-7a1d-4385-9fb5-93c2b12fb9d2",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_AudioFile",
+      "StartTime": "442.966666666667",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "245ddeb7-b36e-4291-a2d2-329a1b75a4fe",
+      "AudioObjectGUID": "48682837-68c6-4785-a228-492886ccc27c",
+      "Volumen": "100",
+      "FadeTime_In": "0",
+      "FadeTime_Out": "0",
+      "LengthTime": "192.7",
+      "StartTimeInAudioStream": "0"
+    },
+    {
+      "GUID": "b63dcd60-d0be-4fd8-a74c-67b6aa4f59f8",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_AudioFile",
+      "StartTime": "640.666666666667",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "245ddeb7-b36e-4291-a2d2-329a1b75a4fe",
+      "AudioObjectGUID": "34d492a9-ee27-432d-b15b-b9db2f452761",
+      "Volumen": "100",
+      "FadeTime_In": "0",
+      "FadeTime_Out": "5.95418318707033",
+      "LengthTime": "87.1666666666667",
+      "StartTimeInAudioStream": "0"
+    },
+    {
+      "GUID": "0c378f45-9a51-4c2f-a7dd-aad358887e8c",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_AudioFile",
+      "StartTime": "730.366666666667",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "245ddeb7-b36e-4291-a2d2-329a1b75a4fe",
+      "AudioObjectGUID": "0cba8d07-4dd9-4766-8b3f-febbffbbdc7a",
+      "Volumen": "100",
+      "FadeTime_In": "0",
+      "FadeTime_Out": "0",
+      "LengthTime": "207.566666666667",
+      "StartTimeInAudioStream": "0"
+    }
+  ],
+  "dmx_blocks": [
+    {
+      "GUID": "fa48dcb4-85a5-4cbb-81f6-a2d627442c13",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_DMXStream",
+      "StartTime": "0",
+      "LengthTime": "120.2",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "f79b1ddf-b762-4488-9906-098fd1011d4c",
+      "StreamFile": "C:\\ProgramData\\Syncronorm\\Depence4\\Project_Temp\\tymhv24h.1dh\\Content\\正式节目-2026-10-9-14-39-52.oss"
+    },
+    {
+      "GUID": "fa6f894c-eb25-4683-b888-38d1e2d0f257",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_DMXStream",
+      "StartTime": "119.8",
+      "LengthTime": "122.333333333333",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "f79b1ddf-b762-4488-9906-098fd1011d4c",
+      "StreamFile": "C:\\ProgramData\\Syncronorm\\Depence4\\Project_Temp\\tymhv24h.1dh\\Content\\正式节目-2026-10-9-14-45-28.oss"
+    },
+    {
+      "GUID": "e8eecf33-166f-4540-816f-774e76c903ed",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_DMXStream",
+      "StartTime": "240",
+      "LengthTime": "199.4",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "f79b1ddf-b762-4488-9906-098fd1011d4c",
+      "StreamFile": "C:\\ProgramData\\Syncronorm\\Depence4\\Project_Temp\\tymhv24h.1dh\\Content\\正式节目-2026-10-9-14-56-23.oss"
+    },
+    {
+      "GUID": "b34fe576-7c22-46df-ab0b-db0b627e1e7c",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_DMXStream",
+      "StartTime": "438.733333333333",
+      "LengthTime": "204.566666666667",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "f79b1ddf-b762-4488-9906-098fd1011d4c",
+      "StreamFile": "C:\\ProgramData\\Syncronorm\\Depence4\\Project_Temp\\tymhv24h.1dh\\Content\\正式节目-2026-10-9-15-7-57.oss"
+    },
+    {
+      "GUID": "14c47a48-dfec-47ee-9adf-6117cee61b88",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_DMXStream",
+      "StartTime": "636.866666666667",
+      "LengthTime": "93.5333333333333",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "f79b1ddf-b762-4488-9906-098fd1011d4c",
+      "StreamFile": "C:\\ProgramData\\Syncronorm\\Depence4\\Project_Temp\\tymhv24h.1dh\\Content\\正式节目-2026-10-8-19-23-21.oss"
+    },
+    {
+      "GUID": "281d7f00-4baf-40ab-a1d3-2cd04997177a",
+      "AssemblyName": "Syncronorm.V3D.Engine",
+      "TypeName": "V3D.TBlock_DMXStream",
+      "StartTime": "727.933333333333",
+      "LengthTime": "210.7",
+      "OffsetTime": "0",
+      "Mute": "False",
+      "Text": "",
+      "ParentTrack": "f79b1ddf-b762-4488-9906-098fd1011d4c",
+      "StreamFile": "C:\\ProgramData\\Syncronorm\\Depence4\\Project_Temp\\tymhv24h.1dh\\Content\\正式节目-2026-10-8-22-53-52.oss"
+    }
+  ],
+  "record_claims": [
+    {
+      "source_song_id": "水仙十字_blk0_0s",
+      "record_sha256": "6f70e9854ac5407b8a8d2d95dee5f7811af0f0e3ae51ab7e87e476992a76959b",
+      "provenance": {
+        "oss": "正式节目-2026-10-9-14-39-52.oss",
+        "oss_sha256": "(tmp removed; see archive entry)",
+        "archive": "<project-dir>\\水仙十字\\水仙十字.depence",
+        "archive_entry": "Content/正式节目-2026-10-9-14-39-52.oss",
+        "show": "11ce641f-02f3-4397-a8bc-db45431d7dc3.show",
+        "block_start_s": 0.0,
+        "block_len_s": 120.2,
+        "audio_offset_s": 5.0,
+        "device_table_size": 4389,
+        "unknown_vs_zero": "carry-forward dense; pre-first-write state UNKNOWN"
+      },
+      "frames_shape": [
+        7212,
+        10,
+        512
+      ],
+      "fps_claim": 60.0,
+      "music_midi_sha256_claim": "90e030049dc5aa49e5cf8bd3c06b4a2c07521c58500ed50f19356535c8c7fe3e",
+      "music_midi_file_claim": "E:/音乐喷泉AI编曲_备课总集_2026-10-17/midi\\090_「原神」Part.5_8（全OST）（Hi-Res版音频可视化合集） P1 水仙十字安眠曲 A Narcissus Lullaby_1451502478.mp3.mid",
+      "music_alignment_claim": {
+        "basis": "song_s = frame/60 - audio_offset (audio_offset from saved TBlock_AudioFile facts)"
+      },
+      "music_transcription_claim": {
+        "midi": "<workdir>/dmxt_full_record/midi_transcribed/水仙十字_blk0_0s.mid",
+        "model": "user-side-local-amt-medium",
+        "device": "cuda bfloat16",
+        "notes": 587,
+        "seconds": 20.4,
+        "audio": "<project-dir>\\水仙十字\\「原神」Part.5_8（全OST）（Hi-Res版音频可视化合集） P1 水仙十字安眠曲 A Narcissus Lullaby_1451502478.mp3"
+      }
+    },
+    {
+      "source_song_id": "水仙十字_blk1_119s",
+      "record_sha256": "035f43e130c8dbb361adf6b245df12e8c874930018334d40ae83cf03c7fb0b41",
+      "provenance": {
+        "oss": "正式节目-2026-10-9-14-45-28.oss",
+        "oss_sha256": "(tmp removed; see archive entry)",
+        "archive": "<project-dir>\\水仙十字\\水仙十字.depence",
+        "archive_entry": "Content/正式节目-2026-10-9-14-45-28.oss",
+        "show": "11ce641f-02f3-4397-a8bc-db45431d7dc3.show",
+        "block_start_s": 119.8,
+        "block_len_s": 122.333333333333,
+        "audio_offset_s": -114.8,
+        "device_table_size": 4389,
+        "unknown_vs_zero": "carry-forward dense; pre-first-write state UNKNOWN"
+      },
+      "frames_shape": [
+        7342,
+        10,
+        512
+      ],
+      "fps_claim": 60.0,
+      "music_midi_sha256_claim": "90e030049dc5aa49e5cf8bd3c06b4a2c07521c58500ed50f19356535c8c7fe3e",
+      "music_midi_file_claim": "E:/音乐喷泉AI编曲_备课总集_2026-10-17/midi\\090_「原神」Part.5_8（全OST）（Hi-Res版音频可视化合集） P1 水仙十字安眠曲 A Narcissus Lullaby_1451502478.mp3.mid",
+      "music_alignment_claim": {
+        "basis": "song_s = frame/60 - audio_offset (audio_offset from saved TBlock_AudioFile facts)"
+      },
+      "music_transcription_claim": {
+        "midi": "<workdir>/dmxt_full_record/midi_transcribed/水仙十字_blk1_119s.mid",
+        "model": "user-side-local-amt-medium",
+        "device": "cuda bfloat16",
+        "notes": 587,
+        "seconds": 19.2,
+        "audio": "<project-dir>\\水仙十字\\「原神」Part.5_8（全OST）（Hi-Res版音频可视化合集） P1 水仙十字安眠曲 A Narcissus Lullaby_1451502478.mp3"
+      }
+    },
+    {
+      "source_song_id": "水仙十字_blk2_240s",
+      "record_sha256": "fd9950dd73922dfba7a1add44996418ef20d87efe7f594fee1623d7ba17b6473",
+      "provenance": {
+        "oss": "正式节目-2026-10-9-14-56-23.oss",
+        "oss_sha256": "(tmp removed; see archive entry)",
+        "archive": "<project-dir>\\水仙十字\\水仙十字.depence",
+        "archive_entry": "Content/正式节目-2026-10-9-14-56-23.oss",
+        "show": "11ce641f-02f3-4397-a8bc-db45431d7dc3.show",
+        "block_start_s": 240.0,
+        "block_len_s": 199.4,
+        "audio_offset_s": -116.933,
+        "device_table_size": 4389,
+        "unknown_vs_zero": "carry-forward dense; pre-first-write state UNKNOWN"
+      },
+      "frames_shape": [
+        11966,
+        10,
+        512
+      ],
+      "fps_claim": 60.0,
+      "music_midi_sha256_claim": "4435c7c8c21c952f9d91406aa10c02154e50bdb2d24e227fa5898b1f5ddcd0a5",
+      "music_midi_file_claim": "E:/音乐喷泉AI编曲_备课总集_2026-10-17/midi\\074_中国风的电音听腻了？来看看老外是怎么诠释的！--- 银翼鸟之战 - 1.y2mate.com - two_steps_from_hell_fligh(Av36942611,P1)..mid",
+      "music_alignment_claim": {
+        "basis": "song_s = frame/60 - audio_offset (audio_offset from saved TBlock_AudioFile facts)"
+      },
+      "music_transcription_claim": {
+        "midi": "<workdir>/dmxt_full_record/midi_transcribed/水仙十字_blk2_240s.mid",
+        "model": "user-side-local-amt-medium",
+        "device": "cuda bfloat16",
+        "notes": 3972,
+        "seconds": 438.2,
+        "audio": "<depence-data>/My Depence Projects\\所有\\中式旅游风景区AAAAA\\Show_Content\\中国风的电音听腻了？来看看老外是怎么诠释的！--- 银翼鸟之战 - 1.y2mate.com - two_steps_from_hell_fligh(Av36942611,P1).mp3"
+      }
+    },
+    {
+      "source_song_id": "水仙十字_blk3_438s",
+      "record_sha256": "1909edaeef7352ede3117ee0ef954ce4d12cb60c21683f0ca4d6dc763ca3c039",
+      "provenance": {
+        "oss": "正式节目-2026-10-9-15-7-57.oss",
+        "oss_sha256": "(tmp removed; see archive entry)",
+        "archive": "<project-dir>\\水仙十字\\水仙十字.depence",
+        "archive_entry": "Content/正式节目-2026-10-9-15-7-57.oss",
+        "show": "11ce641f-02f3-4397-a8bc-db45431d7dc3.show",
+        "block_start_s": 438.733333333333,
+        "block_len_s": 204.566666666667,
+        "audio_offset_s": -193.9,
+        "device_table_size": 4389,
+        "unknown_vs_zero": "carry-forward dense; pre-first-write state UNKNOWN"
+      },
+      "frames_shape": [
+        12275,
+        10,
+        512
+      ],
+      "fps_claim": 60.0,
+      "music_midi_sha256_claim": "28f5477298c17b8c9fa9e8614da15c7e0a75f52c74f6c34713ab54a21e5f9b45",
+      "music_midi_file_claim": "E:/音乐喷泉AI编曲_备课总集_2026-10-17/midi\\044_Танец ледяных кристаллов (1).mp3.mid",
+      "music_alignment_claim": {
+        "basis": "song_s = frame/60 - audio_offset (audio_offset from saved TBlock_AudioFile facts)"
+      },
+      "music_transcription_claim": {
+        "midi": "<workdir>/dmxt_full_record/midi_transcribed/水仙十字_blk3_438s.mid",
+        "model": "user-side-local-amt-medium",
+        "device": "cuda bfloat16",
+        "notes": 3353,
+        "seconds": 85.4,
+        "audio": "E:/下载\\Танец ледяных кристаллов (1).mp3"
+      }
+    },
+    {
+      "source_song_id": "水仙十字_blk4_636s",
+      "record_sha256": "eb1ec96dd1dad9adcf2cbe332bbbb7f1131fde5070926813f7c9910ae2d0384a",
+      "provenance": null,
+      "frames_shape": null,
+      "fps_claim": null,
+      "music_midi_sha256_claim": null,
+      "music_midi_file_claim": "E:/音乐喷泉AI编曲_备课总集_2026-10-17/midi\\090_「原神」Part.5_8（全OST）（Hi-Res版音频可视化合集） P1 水仙十字安眠曲 A Narcissus Lullaby_1451502478.mp3.mid",
+      "music_alignment_claim": null,
+      "music_transcription_claim": {
+        "midi": "<workdir>/dmxt_full_record/midi_transcribed/水仙十字_blk4_636s.mid",
+        "model": "user-side-local-amt-medium",
+        "device": "cuda bfloat16",
+        "notes": 587,
+        "seconds": 24.7,
+        "audio": "<project-dir>\\水仙十字\\「原神」Part.5_8（全OST）（Hi-Res版音频可视化合集） P1 水仙十字安眠曲 A Narcissus Lullaby_1451502478.mp3"
+      }
+    },
+    {
+      "source_song_id": "水仙十字_blk5_727s",
+      "record_sha256": "1e8a08781b9671c9e70f7717b9eea8fc89c955604d8f686ce9f7317d447fc363",
+      "provenance": null,
+      "frames_shape": null,
+      "fps_claim": null,
+      "music_midi_sha256_claim": null,
+      "music_midi_file_claim": "E:/音乐喷泉AI编曲_备课总集_2026-10-17/midi\\049_Fugue des Marées.mp3.mid",
+      "music_alignment_claim": null,
+      "music_transcription_claim": {
+        "midi": "<workdir>/dmxt_full_record/midi_transcribed/水仙十字_blk5_727s.mid",
+        "model": "user-side-local-amt-medium",
+        "device": "cuda bfloat16",
+        "notes": 2402,
+        "seconds": 84.4,
+        "audio": "E:/下载\\Танец ледяных кристаллов.mp3"
+      }
+    }
+  ],
+  "piecewise_intervals": [
+    {
+      "dmx_block_guid": "fa48dcb4-85a5-4cbb-81f6-a2d627442c13",
+      "source_song_id": "水仙十字_blk0_0s",
+      "exporter_generated_id_claim": "水仙十字_blk0_0s",
+      "record_binding_status": "exact stream filename/show/start/length provenance match",
+      "segments": [
+        {
+          "show_start_s": "0",
+          "show_end_s_exclusive": "5",
+          "dmx_local_start_s": "0",
+          "dmx_local_end_s_exclusive": "5",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        },
+        {
+          "show_start_s": "5",
+          "show_end_s_exclusive": "120.2",
+          "dmx_local_start_s": "5",
+          "dmx_local_end_s_exclusive": "120.2",
+          "audio_blocks": [
+            {
+              "block_guid": "ea62b187-c71f-4fe1-aa81-ca70b9d6b313",
+              "audio_object_guid": "69d5d216-522b-4f64-a4e3-06251d130abb",
+              "unit_rate_source_start_candidate_s": "0",
+              "unit_rate_source_end_candidate_s_exclusive": "115.2"
+            }
+          ],
+          "status": "authored_audio_interval"
+        }
+      ],
+      "legacy_first_overlap_audio_guid": "ea62b187-c71f-4fe1-aa81-ca70b9d6b313",
+      "legacy_first_overlap_offset_rounded3": "5.000"
+    },
+    {
+      "dmx_block_guid": "fa6f894c-eb25-4683-b888-38d1e2d0f257",
+      "source_song_id": "水仙十字_blk1_119s",
+      "exporter_generated_id_claim": "水仙十字_blk1_119s",
+      "record_binding_status": "exact stream filename/show/start/length provenance match",
+      "segments": [
+        {
+          "show_start_s": "119.8",
+          "show_end_s_exclusive": "122.733333333333",
+          "dmx_local_start_s": "0.0",
+          "dmx_local_end_s_exclusive": "2.933333333333",
+          "audio_blocks": [
+            {
+              "block_guid": "ea62b187-c71f-4fe1-aa81-ca70b9d6b313",
+              "audio_object_guid": "69d5d216-522b-4f64-a4e3-06251d130abb",
+              "unit_rate_source_start_candidate_s": "114.8",
+              "unit_rate_source_end_candidate_s_exclusive": "117.733333333333"
+            }
+          ],
+          "status": "authored_audio_interval"
+        },
+        {
+          "show_start_s": "122.733333333333",
+          "show_end_s_exclusive": "123.066666666667",
+          "dmx_local_start_s": "2.933333333333",
+          "dmx_local_end_s_exclusive": "3.266666666667",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        },
+        {
+          "show_start_s": "123.066666666667",
+          "show_end_s_exclusive": "242.133333333333",
+          "dmx_local_start_s": "3.266666666667",
+          "dmx_local_end_s_exclusive": "122.333333333333",
+          "audio_blocks": [
+            {
+              "block_guid": "59b31d3a-941e-432e-b830-f57c08927f84",
+              "audio_object_guid": "d6dea3d9-4a99-447f-b8be-800f3cb298d0",
+              "unit_rate_source_start_candidate_s": "0E-12",
+              "unit_rate_source_end_candidate_s_exclusive": "119.066666666666"
+            }
+          ],
+          "status": "authored_audio_interval"
+        }
+      ],
+      "legacy_first_overlap_audio_guid": "ea62b187-c71f-4fe1-aa81-ca70b9d6b313",
+      "legacy_first_overlap_offset_rounded3": "-114.800"
+    },
+    {
+      "dmx_block_guid": "e8eecf33-166f-4540-816f-774e76c903ed",
+      "source_song_id": "水仙十字_blk2_240s",
+      "exporter_generated_id_claim": "水仙十字_blk2_240s",
+      "record_binding_status": "exact stream filename/show/start/length provenance match",
+      "segments": [
+        {
+          "show_start_s": "240",
+          "show_end_s_exclusive": "244.800000000000",
+          "dmx_local_start_s": "0",
+          "dmx_local_end_s_exclusive": "4.800000000000",
+          "audio_blocks": [
+            {
+              "block_guid": "59b31d3a-941e-432e-b830-f57c08927f84",
+              "audio_object_guid": "d6dea3d9-4a99-447f-b8be-800f3cb298d0",
+              "unit_rate_source_start_candidate_s": "116.933333333333",
+              "unit_rate_source_end_candidate_s_exclusive": "121.733333333333"
+            }
+          ],
+          "status": "authored_audio_interval"
+        },
+        {
+          "show_start_s": "244.800000000000",
+          "show_end_s_exclusive": "244.833333333333",
+          "dmx_local_start_s": "4.800000000000",
+          "dmx_local_end_s_exclusive": "4.833333333333",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        },
+        {
+          "show_start_s": "244.833333333333",
+          "show_end_s_exclusive": "439.300000000000",
+          "dmx_local_start_s": "4.833333333333",
+          "dmx_local_end_s_exclusive": "199.300000000000",
+          "audio_blocks": [
+            {
+              "block_guid": "4f59333f-dc2c-40e5-90bb-0d5d7b8fb321",
+              "audio_object_guid": "32514b1d-4aaf-4491-867c-0b29bdfdbf15",
+              "unit_rate_source_start_candidate_s": "0E-12",
+              "unit_rate_source_end_candidate_s_exclusive": "194.466666666667"
+            }
+          ],
+          "status": "authored_audio_interval"
+        },
+        {
+          "show_start_s": "439.300000000000",
+          "show_end_s_exclusive": "439.4",
+          "dmx_local_start_s": "199.300000000000",
+          "dmx_local_end_s_exclusive": "199.4",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        }
+      ],
+      "legacy_first_overlap_audio_guid": "59b31d3a-941e-432e-b830-f57c08927f84",
+      "legacy_first_overlap_offset_rounded3": "-116.933"
+    },
+    {
+      "dmx_block_guid": "b34fe576-7c22-46df-ab0b-db0b627e1e7c",
+      "source_song_id": "水仙十字_blk3_438s",
+      "exporter_generated_id_claim": "水仙十字_blk3_438s",
+      "record_binding_status": "exact stream filename/show/start/length provenance match",
+      "segments": [
+        {
+          "show_start_s": "438.733333333333",
+          "show_end_s_exclusive": "439.300000000000",
+          "dmx_local_start_s": "0E-12",
+          "dmx_local_end_s_exclusive": "0.566666666667",
+          "audio_blocks": [
+            {
+              "block_guid": "4f59333f-dc2c-40e5-90bb-0d5d7b8fb321",
+              "audio_object_guid": "32514b1d-4aaf-4491-867c-0b29bdfdbf15",
+              "unit_rate_source_start_candidate_s": "193.900000000000",
+              "unit_rate_source_end_candidate_s_exclusive": "194.466666666667"
+            }
+          ],
+          "status": "authored_audio_interval"
+        },
+        {
+          "show_start_s": "439.300000000000",
+          "show_end_s_exclusive": "442.966666666667",
+          "dmx_local_start_s": "0.566666666667",
+          "dmx_local_end_s_exclusive": "4.233333333334",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        },
+        {
+          "show_start_s": "442.966666666667",
+          "show_end_s_exclusive": "635.666666666667",
+          "dmx_local_start_s": "4.233333333334",
+          "dmx_local_end_s_exclusive": "196.933333333334",
+          "audio_blocks": [
+            {
+              "block_guid": "290387dc-7a1d-4385-9fb5-93c2b12fb9d2",
+              "audio_object_guid": "48682837-68c6-4785-a228-492886ccc27c",
+              "unit_rate_source_start_candidate_s": "0E-12",
+              "unit_rate_source_end_candidate_s_exclusive": "192.700000000000"
+            }
+          ],
+          "status": "authored_audio_interval"
+        },
+        {
+          "show_start_s": "635.666666666667",
+          "show_end_s_exclusive": "640.666666666667",
+          "dmx_local_start_s": "196.933333333334",
+          "dmx_local_end_s_exclusive": "201.933333333334",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        },
+        {
+          "show_start_s": "640.666666666667",
+          "show_end_s_exclusive": "643.300000000000",
+          "dmx_local_start_s": "201.933333333334",
+          "dmx_local_end_s_exclusive": "204.566666666667",
+          "audio_blocks": [
+            {
+              "block_guid": "b63dcd60-d0be-4fd8-a74c-67b6aa4f59f8",
+              "audio_object_guid": "34d492a9-ee27-432d-b15b-b9db2f452761",
+              "unit_rate_source_start_candidate_s": "0E-12",
+              "unit_rate_source_end_candidate_s_exclusive": "2.633333333333"
+            }
+          ],
+          "status": "authored_audio_interval"
+        }
+      ],
+      "legacy_first_overlap_audio_guid": "4f59333f-dc2c-40e5-90bb-0d5d7b8fb321",
+      "legacy_first_overlap_offset_rounded3": "-193.900"
+    },
+    {
+      "dmx_block_guid": "14c47a48-dfec-47ee-9adf-6117cee61b88",
+      "source_song_id": null,
+      "exporter_generated_id_claim": "水仙十字_blk4_636s",
+      "record_binding_status": "unverified ordinal/name claim; no record provenance binding",
+      "segments": [
+        {
+          "show_start_s": "636.866666666667",
+          "show_end_s_exclusive": "640.666666666667",
+          "dmx_local_start_s": "0E-12",
+          "dmx_local_end_s_exclusive": "3.800000000000",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        },
+        {
+          "show_start_s": "640.666666666667",
+          "show_end_s_exclusive": "727.8333333333337",
+          "dmx_local_start_s": "3.800000000000",
+          "dmx_local_end_s_exclusive": "90.9666666666667",
+          "audio_blocks": [
+            {
+              "block_guid": "b63dcd60-d0be-4fd8-a74c-67b6aa4f59f8",
+              "audio_object_guid": "34d492a9-ee27-432d-b15b-b9db2f452761",
+              "unit_rate_source_start_candidate_s": "0E-12",
+              "unit_rate_source_end_candidate_s_exclusive": "87.1666666666667"
+            }
+          ],
+          "status": "authored_audio_interval"
+        },
+        {
+          "show_start_s": "727.8333333333337",
+          "show_end_s_exclusive": "730.366666666667",
+          "dmx_local_start_s": "90.9666666666667",
+          "dmx_local_end_s_exclusive": "93.500000000000",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        },
+        {
+          "show_start_s": "730.366666666667",
+          "show_end_s_exclusive": "730.4000000000003",
+          "dmx_local_start_s": "93.500000000000",
+          "dmx_local_end_s_exclusive": "93.5333333333333",
+          "audio_blocks": [
+            {
+              "block_guid": "0c378f45-9a51-4c2f-a7dd-aad358887e8c",
+              "audio_object_guid": "0cba8d07-4dd9-4766-8b3f-febbffbbdc7a",
+              "unit_rate_source_start_candidate_s": "0E-12",
+              "unit_rate_source_end_candidate_s_exclusive": "0.0333333333333"
+            }
+          ],
+          "status": "authored_audio_interval"
+        }
+      ],
+      "legacy_first_overlap_audio_guid": "b63dcd60-d0be-4fd8-a74c-67b6aa4f59f8",
+      "legacy_first_overlap_offset_rounded3": "3.800"
+    },
+    {
+      "dmx_block_guid": "281d7f00-4baf-40ab-a1d3-2cd04997177a",
+      "source_song_id": null,
+      "exporter_generated_id_claim": "水仙十字_blk5_727s",
+      "record_binding_status": "unverified ordinal/name claim; no record provenance binding",
+      "segments": [
+        {
+          "show_start_s": "727.933333333333",
+          "show_end_s_exclusive": "730.366666666667",
+          "dmx_local_start_s": "0E-12",
+          "dmx_local_end_s_exclusive": "2.433333333334",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        },
+        {
+          "show_start_s": "730.366666666667",
+          "show_end_s_exclusive": "937.933333333334",
+          "dmx_local_start_s": "2.433333333334",
+          "dmx_local_end_s_exclusive": "210.000000000001",
+          "audio_blocks": [
+            {
+              "block_guid": "0c378f45-9a51-4c2f-a7dd-aad358887e8c",
+              "audio_object_guid": "0cba8d07-4dd9-4766-8b3f-febbffbbdc7a",
+              "unit_rate_source_start_candidate_s": "0E-12",
+              "unit_rate_source_end_candidate_s_exclusive": "207.566666666667"
+            }
+          ],
+          "status": "authored_audio_interval"
+        },
+        {
+          "show_start_s": "937.933333333334",
+          "show_end_s_exclusive": "938.633333333333",
+          "dmx_local_start_s": "210.000000000001",
+          "dmx_local_end_s_exclusive": "210.700000000000",
+          "audio_blocks": [],
+          "status": "no_authored_audio_block"
+        }
+      ],
+      "legacy_first_overlap_audio_guid": "0c378f45-9a51-4c2f-a7dd-aad358887e8c",
+      "legacy_first_overlap_offset_rounded3": "2.433"
+    }
+  ],
+  "source_code_review": [
+    {
+      "file": "batch_build.py",
+      "sanitized_text_sha256": "a01cc108e8c5626f18ccf532875dcee46ab7c68fd7afcef9ba02a8970cd38087",
+      "execution": "never executed; text review only"
+    },
+    {
+      "file": "transcribe_all.py",
+      "sanitized_text_sha256": "d42ec3d54cb25e0a0bec6c6921ab9d07448488512148269d4ea3f40c4242070e",
+      "execution": "never executed; text review only"
+    }
+  ],
+  "scope": "Exact saved show fields and interval arithmetic; not measured playback/render/hardware synchronization. Frame/60 is exporter nominal rate, not a calibrated source-clock guarantee. AudioObjectGUID binding must precede any audio-byte or MIDI mapping."
+}

@@ -1,0 +1,109 @@
+{
+ "path": "D:\\fountain-prep\\midi\\084_324n24kb.wav.mid",
+ "name": "084_324n24kb.wav.mid",
+ "duration_s": 11.24,
+ "tracks": [
+  {
+   "name": "",
+   "program": [
+    0,
+    4
+   ],
+   "notes": 1,
+   "span": [
+    11.093,
+    11.245
+   ]
+  }
+ ],
+ "track_count": 1,
+ "notes": 1,
+ "note_density_per_s": 0.09,
+ "pitch_range": [
+  40,
+  40
+ ],
+ "pitch_class_top": {
+  "E": 1
+ },
+ "grid_1s": [
+  {
+   "t": 0.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 1.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 2.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 3.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 4.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 5.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 6.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 7.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 8.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 9.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 10.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 11.0,
+   "onsets": 1,
+   "sounding": 1,
+   "pitch_mean": 40.0
+  }
+ ],
+ "boundary_candidates": [
+  {
+   "t": 4.0,
+   "diff": 0.0
+  }
+ ]
+}

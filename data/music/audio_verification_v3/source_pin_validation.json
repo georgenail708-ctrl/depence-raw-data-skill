@@ -1,0 +1,186 @@
+{
+  "checked_at_utc": "2026-10-22T07:55:53.228Z",
+  "scope": "Post audio-traversal stable Drive ID, size and modified-time readback; not independent part content rehash",
+  "parts": [
+    {
+      "part": 0,
+      "id": "12TvpoeEcs1AWSDf6uChmjTGYls9h2_cM",
+      "title": "Depence原始数据交接_20261022.zip.000",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:42.176Z",
+      "observed_modified_time": "2026-10-22T06:20:42.176Z",
+      "matched": true
+    },
+    {
+      "part": 1,
+      "id": "1a3x-7A36bl66TF5sbdlY2J53AnVqrRZm",
+      "title": "Depence原始数据交接_20261022.zip.001",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:42.370Z",
+      "observed_modified_time": "2026-10-22T06:20:42.370Z",
+      "matched": true
+    },
+    {
+      "part": 2,
+      "id": "1UsghWOQiWYbGssI6ntcA7Nveu61uzTCX",
+      "title": "Depence原始数据交接_20261022.zip.002",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:42.545Z",
+      "observed_modified_time": "2026-10-22T06:20:42.545Z",
+      "matched": true
+    },
+    {
+      "part": 3,
+      "id": "1QESO6MdlFeYcaAf87ZRlGD3tNGtRVQDW",
+      "title": "Depence原始数据交接_20261022.zip.003",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:42.719Z",
+      "observed_modified_time": "2026-10-22T06:20:42.719Z",
+      "matched": true
+    },
+    {
+      "part": 4,
+      "id": "1P5TczSxt6rgm_VxEeV0jx1UUxm-DONIr",
+      "title": "Depence原始数据交接_20261022.zip.004",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:42.895Z",
+      "observed_modified_time": "2026-10-22T06:20:42.895Z",
+      "matched": true
+    },
+    {
+      "part": 5,
+      "id": "11cIwgGV9kAy50OCnpQLry41xZdfTKz7J",
+      "title": "Depence原始数据交接_20261022.zip.005",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:43.068Z",
+      "observed_modified_time": "2026-10-22T06:20:43.068Z",
+      "matched": true
+    },
+    {
+      "part": 6,
+      "id": "1XWlwRxnvwGlPFXg2inGPFgTy_xt77Rel",
+      "title": "Depence原始数据交接_20261022.zip.006",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:43.243Z",
+      "observed_modified_time": "2026-10-22T06:20:43.243Z",
+      "matched": true
+    },
+    {
+      "part": 7,
+      "id": "1mMg0J2R62wi-XaJcWt05EKgf67C6FKqK",
+      "title": "Depence原始数据交接_20261022.zip.007",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:43.467Z",
+      "observed_modified_time": "2026-10-22T06:20:43.467Z",
+      "matched": true
+    },
+    {
+      "part": 8,
+      "id": "1dYiWamUVj8wnMVMfIKZ8oA8CFd7eA-z3",
+      "title": "Depence原始数据交接_20261022.zip.008",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:43.646Z",
+      "observed_modified_time": "2026-10-22T06:20:43.646Z",
+      "matched": true
+    },
+    {
+      "part": 9,
+      "id": "1Nze6bvzHtK-dZmtsGEGyrRZIbrXFkcpN",
+      "title": "Depence原始数据交接_20261022.zip.009",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:43.820Z",
+      "observed_modified_time": "2026-10-22T06:20:43.820Z",
+      "matched": true
+    },
+    {
+      "part": 10,
+      "id": "1mexNpIiwzIRJ5LSMJDHc1-wHUBR-CxkS",
+      "title": "Depence原始数据交接_20261022.zip.010",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:43.999Z",
+      "observed_modified_time": "2026-10-22T06:20:43.999Z",
+      "matched": true
+    },
+    {
+      "part": 11,
+      "id": "1JYhMmndsvUg4m4gMSIT5GJ2p59NL7oGL",
+      "title": "Depence原始数据交接_20261022.zip.011",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:44.177Z",
+      "observed_modified_time": "2026-10-22T06:20:44.177Z",
+      "matched": true
+    },
+    {
+      "part": 12,
+      "id": "1uMQmoGyp_2FfCbxys7eSOL0cQiy-G3h2",
+      "title": "Depence原始数据交接_20261022.zip.012",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:44.350Z",
+      "observed_modified_time": "2026-10-22T06:20:44.350Z",
+      "matched": true
+    },
+    {
+      "part": 13,
+      "id": "1_Ckc4a8kiKQuqLu8P67OXYdV_lg-FlcK",
+      "title": "Depence原始数据交接_20261022.zip.013",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:44.527Z",
+      "observed_modified_time": "2026-10-22T06:20:44.527Z",
+      "matched": true
+    },
+    {
+      "part": 14,
+      "id": "1ny9Q9X7JrK40MGdjhVnLEwpKu7iaciC0",
+      "title": "Depence原始数据交接_20261022.zip.014",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:44.704Z",
+      "observed_modified_time": "2026-10-22T06:20:44.704Z",
+      "matched": true
+    },
+    {
+      "part": 15,
+      "id": "19G8Gp_7x3yDfsPM1TPlQIMV9-KZEzIcT",
+      "title": "Depence原始数据交接_20261022.zip.015",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:44.881Z",
+      "observed_modified_time": "2026-10-22T06:20:44.881Z",
+      "matched": true
+    },
+    {
+      "part": 16,
+      "id": "1o-yKsP4w9VDWsLHRa9bc0dIDLUiXlCoS",
+      "title": "Depence原始数据交接_20261022.zip.016",
+      "expected_size": "209715200",
+      "observed_size": "209715200",
+      "expected_modified_time": "2026-10-22T06:20:45.058Z",
+      "observed_modified_time": "2026-10-22T06:20:45.058Z",
+      "matched": true
+    },
+    {
+      "part": 17,
+      "id": "1kPPu3raPoPAVs3ySUAGPbTzXv_yTybhK",
+      "title": "Depence原始数据交接_20261022.zip.017",
+      "expected_size": "81935634",
+      "observed_size": "81935634",
+      "expected_modified_time": "2026-10-22T06:20:45.154Z",
+      "observed_modified_time": "2026-10-22T06:20:45.154Z",
+      "matched": true
+    }
+  ]
+}

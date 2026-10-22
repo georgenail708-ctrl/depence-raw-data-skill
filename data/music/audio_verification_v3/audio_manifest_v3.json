@@ -1,0 +1,82 @@
+{
+  "schema": "depence_original_audio_byte_evidence_v3",
+  "status": "sealed actual source traversal; byte validation complete; header probe191passed/1unsupported",
+  "whole_archive_sha256": "6caa72e1b0c9f3e9f949d503c0a546fa89b8eeffb153ad7b80ea000c49a6f1cb",
+  "component_relationship": "separate overlay; music v1/v2 remain unchanged",
+  "music_v1_manifest_sha256": "a3f437e3afbbfffa4df96fb70e6144ae90d5599e6b93023b1a6391fc39d6c122",
+  "music_v2_manifest_sha256": "7101d7b6245f58631cff79a9d877d61064617105e7f3b5eb673d7bb1cd6f943a",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2270,
+      "sha256": "c1f6812ebf92cc94391adc0b98c13a5f5919a35f037c7a7a5f12092e2f0d4440"
+    },
+    {
+      "path": "audio_catalog.jsonl",
+      "bytes": 276306,
+      "sha256": "2b25688547f27a6a529e390ac5ae78fe5f8fde69b37df494192eb0f1f2faac3a"
+    },
+    {
+      "path": "audio_record_associations.jsonl",
+      "bytes": 288752,
+      "sha256": "b5d61cf23795a9d6bb6003dff51da35f7d6522dec2bde87ed659812c0d5c8412"
+    },
+    {
+      "path": "audio_summary.json",
+      "bytes": 1426,
+      "sha256": "bc903673557e7943d1632fb872a03cad26750c9e80364ce032074f389dd20927"
+    },
+    {
+      "path": "exact_sha_duplicate_groups.json",
+      "bytes": 31804,
+      "sha256": "f7b8011b3c76c8fc9aa549d50fa623b7e08abf2adc82291df7cfac20b0772c77"
+    },
+    {
+      "path": "header_probe_exceptions.json",
+      "bytes": 713,
+      "sha256": "28d71d691a50fa24bfa3d143a5c7abe0f90ddbbf6578dbc70a8c56e5100cd6ed"
+    },
+    {
+      "path": "record_audio_hash_claims.json",
+      "bytes": 70,
+      "sha256": "2a721f04a8422ec756dfbbe509f0ac2a221d9dc77d6c097156959047bfd70d28"
+    },
+    {
+      "path": "source_pin_validation.json",
+      "bytes": 6567,
+      "sha256": "73ed76f65aa767ae1fa50c0929ce58fa11674b46cbeb890867812e6c68af9d1b"
+    },
+    {
+      "path": "strict_range_resume.py",
+      "bytes": 2117,
+      "sha256": "832bf4191a88e23e48d533e484e7a68bf66a40a1451af6b46a6022196e527f55"
+    },
+    {
+      "path": "summarize_audio.py",
+      "bytes": 5144,
+      "sha256": "5bc0d13e46e78aa9a70537222ebf0a1c492c398a9ff8816a9614ef955cefefdd"
+    },
+    {
+      "path": "transport_interruption.json",
+      "bytes": 696,
+      "sha256": "f53d961c14804a4116b2dd053ea9837327501f6f754ad2bd984037933f15638e"
+    },
+    {
+      "path": "validation_receipt.json",
+      "bytes": 384,
+      "sha256": "167d3023dd3a505447d9b990f11d5f1599155344542c585ca571ae5cc8ce6866"
+    },
+    {
+      "path": "verify_audio.py",
+      "bytes": 6561,
+      "sha256": "504993519f2588f9437dca6c4af0f44f359f7453a3ccce157225949703aa5251"
+    },
+    {
+      "path": "verify_audio_resume.py",
+      "bytes": 7235,
+      "sha256": "a552c4865d1838ed76e37c3c339c473eb6bce4e58475990221cc5a1168abe79a"
+    }
+  ],
+  "payload_bytes": 630045,
+  "scope": "full original audio bytes and restricted container/header metadata, not full decoding/listening, song identity or crossmodal alignment"
+}

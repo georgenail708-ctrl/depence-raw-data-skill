@@ -1,0 +1,22 @@
+{
+  "passed": 16,
+  "controls": [
+    "first4.8seconds_previous_audio",
+    "gap_at_previous_audio_end",
+    "new_audio_exact_start",
+    "last_gap",
+    "dmx_end_exclusive",
+    "extra_saved_frame_not_stretched",
+    "no_certified_pair_from_nominal_frame",
+    "negative_time_outside",
+    "nan_rejected",
+    "out_of_array_rejected",
+    "wrong_hash_rejected",
+    "nonzero_unproven_offset_fails_closed",
+    "solo_semantics_fail_closed",
+    "saved_trim_preserved_without_certifying_rate",
+    "overlap_returns_all_not_first",
+    "unbound_ordinal_source_ID_rejected"
+  ],
+  "scope": "boundary/integrity and nominal-rate controls, not measured playback validation"
+}

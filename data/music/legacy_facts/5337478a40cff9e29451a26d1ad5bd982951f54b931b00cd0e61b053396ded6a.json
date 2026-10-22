@@ -1,0 +1,257 @@
+{
+ "path": "D:\\fountain-prep\\midi\\037_sample音乐1.wav.mid",
+ "name": "037_sample音乐1.wav.mid",
+ "duration_s": 32.93,
+ "tracks": [
+  {
+   "name": "",
+   "program": [
+    0,
+    4
+   ],
+   "notes": 447,
+   "span": [
+    0.082,
+    32.934
+   ]
+  }
+ ],
+ "track_count": 1,
+ "notes": 447,
+ "note_density_per_s": 13.57,
+ "pitch_range": [
+  31,
+  101
+ ],
+ "pitch_class_top": {
+  "D": 157,
+  "C": 63,
+  "A": 62,
+  "G": 60,
+  "F": 49,
+  "E": 32,
+  "A#": 23
+ },
+ "grid_1s": [
+  {
+   "t": 0.0,
+   "onsets": 12,
+   "sounding": 12,
+   "pitch_mean": 73.7
+  },
+  {
+   "t": 1.0,
+   "onsets": 18,
+   "sounding": 20,
+   "pitch_mean": 62.1
+  },
+  {
+   "t": 2.0,
+   "onsets": 14,
+   "sounding": 19,
+   "pitch_mean": 64.6
+  },
+  {
+   "t": 3.0,
+   "onsets": 11,
+   "sounding": 16,
+   "pitch_mean": 63.6
+  },
+  {
+   "t": 4.0,
+   "onsets": 7,
+   "sounding": 9,
+   "pitch_mean": 66.9
+  },
+  {
+   "t": 5.0,
+   "onsets": 19,
+   "sounding": 21,
+   "pitch_mean": 63.8
+  },
+  {
+   "t": 6.0,
+   "onsets": 6,
+   "sounding": 10,
+   "pitch_mean": 66.9
+  },
+  {
+   "t": 7.0,
+   "onsets": 14,
+   "sounding": 16,
+   "pitch_mean": 66.8
+  },
+  {
+   "t": 8.0,
+   "onsets": 12,
+   "sounding": 14,
+   "pitch_mean": 60.1
+  },
+  {
+   "t": 9.0,
+   "onsets": 13,
+   "sounding": 17,
+   "pitch_mean": 65.1
+  },
+  {
+   "t": 10.0,
+   "onsets": 15,
+   "sounding": 17,
+   "pitch_mean": 66.8
+  },
+  {
+   "t": 11.0,
+   "onsets": 11,
+   "sounding": 14,
+   "pitch_mean": 70.0
+  },
+  {
+   "t": 12.0,
+   "onsets": 17,
+   "sounding": 20,
+   "pitch_mean": 70.0
+  },
+  {
+   "t": 13.0,
+   "onsets": 13,
+   "sounding": 18,
+   "pitch_mean": 75.8
+  },
+  {
+   "t": 14.0,
+   "onsets": 16,
+   "sounding": 19,
+   "pitch_mean": 71.8
+  },
+  {
+   "t": 15.0,
+   "onsets": 9,
+   "sounding": 13,
+   "pitch_mean": 75.6
+  },
+  {
+   "t": 16.0,
+   "onsets": 14,
+   "sounding": 17,
+   "pitch_mean": 67.2
+  },
+  {
+   "t": 17.0,
+   "onsets": 16,
+   "sounding": 19,
+   "pitch_mean": 61.8
+  },
+  {
+   "t": 18.0,
+   "onsets": 9,
+   "sounding": 12,
+   "pitch_mean": 64.7
+  },
+  {
+   "t": 19.0,
+   "onsets": 17,
+   "sounding": 20,
+   "pitch_mean": 68.5
+  },
+  {
+   "t": 20.0,
+   "onsets": 11,
+   "sounding": 16,
+   "pitch_mean": 66.7
+  },
+  {
+   "t": 21.0,
+   "onsets": 18,
+   "sounding": 22,
+   "pitch_mean": 61.3
+  },
+  {
+   "t": 22.0,
+   "onsets": 9,
+   "sounding": 14,
+   "pitch_mean": 62.4
+  },
+  {
+   "t": 23.0,
+   "onsets": 15,
+   "sounding": 20,
+   "pitch_mean": 58.6
+  },
+  {
+   "t": 24.0,
+   "onsets": 16,
+   "sounding": 20,
+   "pitch_mean": 61.9
+  },
+  {
+   "t": 25.0,
+   "onsets": 12,
+   "sounding": 17,
+   "pitch_mean": 63.9
+  },
+  {
+   "t": 26.0,
+   "onsets": 18,
+   "sounding": 20,
+   "pitch_mean": 63.8
+  },
+  {
+   "t": 27.0,
+   "onsets": 19,
+   "sounding": 24,
+   "pitch_mean": 61.1
+  },
+  {
+   "t": 28.0,
+   "onsets": 16,
+   "sounding": 23,
+   "pitch_mean": 64.2
+  },
+  {
+   "t": 29.0,
+   "onsets": 16,
+   "sounding": 18,
+   "pitch_mean": 62.8
+  },
+  {
+   "t": 30.0,
+   "onsets": 8,
+   "sounding": 13,
+   "pitch_mean": 62.8
+  },
+  {
+   "t": 31.0,
+   "onsets": 16,
+   "sounding": 17,
+   "pitch_mean": 59.4
+  },
+  {
+   "t": 32.0,
+   "onsets": 10,
+   "sounding": 12,
+   "pitch_mean": 61.5
+  }
+ ],
+ "boundary_candidates": [
+  {
+   "t": 4.0,
+   "diff": 0.383
+  },
+  {
+   "t": 10.0,
+   "diff": 0.952
+  },
+  {
+   "t": 16.0,
+   "diff": 0.688
+  },
+  {
+   "t": 22.0,
+   "diff": 0.425
+  },
+  {
+   "t": 26.0,
+   "diff": 0.815
+  }
+ ]
+}

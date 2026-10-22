@@ -1,0 +1,11 @@
+{
+  "accepted_prefix_count": 158,
+  "accepted_prefix_sha256": "9bec79c51ea4a55ea97a2bd910478052cdefbb0349215091ea90a43ed06667aa",
+  "failed_member": "07_音频_全部匹配/新设备测试绑灯二维_浮光.wav",
+  "error": "Range length mismatch",
+  "response_status_and_content_range": "original reader checked206 and exact Content-Range before this error",
+  "exact_request_offset_and_received_length": "not retained by original reader; do not infer",
+  "source_corruption_claim": false,
+  "failed_member_accepted": false,
+  "recovery": "one fresh-pinned official-source attempt for failed member; preserve all158 accepted rows; enhanced diagnostics, unchanged strict length/CRC/SHA guards"
+}

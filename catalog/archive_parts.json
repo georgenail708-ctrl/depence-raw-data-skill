@@ -1,0 +1,170 @@
+{
+  "schema": "depence.local-parts.v1",
+  "archive_sha256": "6caa72e1b0c9f3e9f949d503c0a546fa89b8eeffb153ad7b80ea000c49a6f1cb",
+  "archive_bytes": 3647094034,
+  "parts": [
+    {
+      "filename": "Depence原始数据交接_20261022.zip.000",
+      "size": 209715200,
+      "sha256": "8585fdc963cf176b1ef42a8c72965818f5f6b8a0940e0345ebd4f4952557bcc8",
+      "offset": 0,
+      "drive_file_id": "12TvpoeEcs1AWSDf6uChmjTGYls9h2_cM",
+      "modified_time": "2026-10-22T06:20:42.176Z",
+      "created_time": "2026-10-22T06:22:52.254Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.001",
+      "size": 209715200,
+      "sha256": "0a005d685974977ba1b52f3f6328289bf1744318692ce9aea8f72cf2c35d5442",
+      "offset": 209715200,
+      "drive_file_id": "1a3x-7A36bl66TF5sbdlY2J53AnVqrRZm",
+      "modified_time": "2026-10-22T06:20:42.370Z",
+      "created_time": "2026-10-22T06:31:52.447Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.002",
+      "size": 209715200,
+      "sha256": "e37f7c73f7254779fc015d852d39a7bedd34cdd2829a32a74fe0b552ede80613",
+      "offset": 419430400,
+      "drive_file_id": "1UsghWOQiWYbGssI6ntcA7Nveu61uzTCX",
+      "modified_time": "2026-10-22T06:20:42.545Z",
+      "created_time": "2026-10-22T06:26:26.947Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.003",
+      "size": 209715200,
+      "sha256": "5d291dc244df562869fbef56c7bfa7a210deb14e2c2238ba5a19ee33ca995cef",
+      "offset": 629145600,
+      "drive_file_id": "1QESO6MdlFeYcaAf87ZRlGD3tNGtRVQDW",
+      "modified_time": "2026-10-22T06:20:42.719Z",
+      "created_time": "2026-10-22T06:32:34.927Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.004",
+      "size": 209715200,
+      "sha256": "10bae1e766ae947e2e729e2f7ad344cf1cd644574d7be62e76ae9425e0081589",
+      "offset": 838860800,
+      "drive_file_id": "1P5TczSxt6rgm_VxEeV0jx1UUxm-DONIr",
+      "modified_time": "2026-10-22T06:20:42.895Z",
+      "created_time": "2026-10-22T06:22:48.890Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.005",
+      "size": 209715200,
+      "sha256": "be5b403536e86391a7f8043c0f3b39d34f36d6fbc507e22826b2208bb64303b5",
+      "offset": 1048576000,
+      "drive_file_id": "11cIwgGV9kAy50OCnpQLry41xZdfTKz7J",
+      "modified_time": "2026-10-22T06:20:43.068Z",
+      "created_time": "2026-10-22T06:22:28.697Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.006",
+      "size": 209715200,
+      "sha256": "c1e8f7b0b77e60be8a4a022dcf5cddb7d58dc4593317e00baaa0f49e0a9e0660",
+      "offset": 1258291200,
+      "drive_file_id": "1XWlwRxnvwGlPFXg2inGPFgTy_xt77Rel",
+      "modified_time": "2026-10-22T06:20:43.243Z",
+      "created_time": "2026-10-22T06:22:42.030Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.007",
+      "size": 209715200,
+      "sha256": "966bbe5abc2e6a97325b96d3fd54c760758c17127a03b818c195fafc6594d960",
+      "offset": 1468006400,
+      "drive_file_id": "1mMg0J2R62wi-XaJcWt05EKgf67C6FKqK",
+      "modified_time": "2026-10-22T06:20:43.467Z",
+      "created_time": "2026-10-22T06:31:52.030Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.008",
+      "size": 209715200,
+      "sha256": "47bf5a7dc8c3d51b1a9655cd5680b381f8cf5135c1bf04409e0dbf3bcdb036c1",
+      "offset": 1677721600,
+      "drive_file_id": "1dYiWamUVj8wnMVMfIKZ8oA8CFd7eA-z3",
+      "modified_time": "2026-10-22T06:20:43.646Z",
+      "created_time": "2026-10-22T06:38:54.053Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.009",
+      "size": 209715200,
+      "sha256": "f9c38ac63c58dc924ece9a853e5656d4ca73d118e6f08f724d389be575e37882",
+      "offset": 1887436800,
+      "drive_file_id": "1Nze6bvzHtK-dZmtsGEGyrRZIbrXFkcpN",
+      "modified_time": "2026-10-22T06:20:43.820Z",
+      "created_time": "2026-10-22T06:24:34.369Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.010",
+      "size": 209715200,
+      "sha256": "d841bc6b3a1858746e410bc4734d93fde97eef796f5d477beea34b7990866320",
+      "offset": 2097152000,
+      "drive_file_id": "1mexNpIiwzIRJ5LSMJDHc1-wHUBR-CxkS",
+      "modified_time": "2026-10-22T06:20:43.999Z",
+      "created_time": "2026-10-22T06:24:34.607Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.011",
+      "size": 209715200,
+      "sha256": "eaab3b737969d0c5a58b7f0428b932539bdea40a6e4a368b23012d5d83f7b1b3",
+      "offset": 2306867200,
+      "drive_file_id": "1JYhMmndsvUg4m4gMSIT5GJ2p59NL7oGL",
+      "modified_time": "2026-10-22T06:20:44.177Z",
+      "created_time": "2026-10-22T06:36:43.681Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.012",
+      "size": 209715200,
+      "sha256": "11727b194331715eeecec998e2599d39f8a67f185a64e05a3004093d5fc2d3d0",
+      "offset": 2516582400,
+      "drive_file_id": "1uMQmoGyp_2FfCbxys7eSOL0cQiy-G3h2",
+      "modified_time": "2026-10-22T06:20:44.350Z",
+      "created_time": "2026-10-22T06:31:35.768Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.013",
+      "size": 209715200,
+      "sha256": "bca097fef1ad5e6fec560eb56f5ddef42d78efc92d1eaf882b6307644e4bb3bc",
+      "offset": 2726297600,
+      "drive_file_id": "1_Ckc4a8kiKQuqLu8P67OXYdV_lg-FlcK",
+      "modified_time": "2026-10-22T06:20:44.527Z",
+      "created_time": "2026-10-22T06:32:40.828Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.014",
+      "size": 209715200,
+      "sha256": "1bcab7c6c056d23f79488def774258698c0aea6bbed6da7aca9b9c130f069aa5",
+      "offset": 2936012800,
+      "drive_file_id": "1ny9Q9X7JrK40MGdjhVnLEwpKu7iaciC0",
+      "modified_time": "2026-10-22T06:20:44.704Z",
+      "created_time": "2026-10-22T06:33:39.444Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.015",
+      "size": 209715200,
+      "sha256": "28688c3396c825df8de6566811e905cb8f39356ac91abb3fae107d679250559d",
+      "offset": 3145728000,
+      "drive_file_id": "19G8Gp_7x3yDfsPM1TPlQIMV9-KZEzIcT",
+      "modified_time": "2026-10-22T06:20:44.881Z",
+      "created_time": "2026-10-22T06:36:50.159Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.016",
+      "size": 209715200,
+      "sha256": "47f15fd9d68e7938ea518012d0bc71d892abdff62fef52dd3a460f8dcfa829c8",
+      "offset": 3355443200,
+      "drive_file_id": "1o-yKsP4w9VDWsLHRa9bc0dIDLUiXlCoS",
+      "modified_time": "2026-10-22T06:20:45.058Z",
+      "created_time": "2026-10-22T06:36:55.826Z"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.017",
+      "size": 81935634,
+      "sha256": "6c70f0a841c7b3086d4de0118b3ab2179f00d0d02a522add3978ba3a15f225ca",
+      "offset": 3565158400,
+      "drive_file_id": "1kPPu3raPoPAVs3ySUAGPbTzXv_yTybhK",
+      "modified_time": "2026-10-22T06:20:45.154Z",
+      "created_time": "2026-10-22T06:35:59.855Z"
+    }
+  ],
+  "dependency": "External original split archive required. Not embedded in this skill."
+}

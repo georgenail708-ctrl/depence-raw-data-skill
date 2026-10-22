@@ -1,0 +1,1299 @@
+{
+  "source_show_sha256": "eb185bef99a1311de731bc7b939ae7e3e7d8a8d2ea4f89da0faed0c3cbe66f13",
+  "all_source_oss_receipts": 26,
+  "headers_hashed_in_prior_full_traversal": 26,
+  "headers_with_raw_byte_fields_retained_here": 1,
+  "authored_bound_oss_comparisons": [
+    {
+      "dmx_block_guid": "fa48dcb4-85a5-4cbb-81f6-a2d627442c13",
+      "oss_name": "正式节目-2026-10-9-14-39-52.oss",
+      "authored_length_s": "120.2",
+      "authored_offset_time": "0",
+      "source_oss_sha256": "deea90c2a0aeddd5aa1d406cefbaee2fe188bfdf4e00898b01a1ad021b8b1f11",
+      "frame_min": 0,
+      "frame_max": 7211,
+      "records": 7212,
+      "nominal_last_index_div60_s": "120.1833333333333333333333333",
+      "nominal_last_index_div10_s": "721.1",
+      "record_count_minus_length_times60": "0.0",
+      "rate_inferred_from_index_span_and_authored_length": "59.99168053244592346089850250"
+    },
+    {
+      "dmx_block_guid": "fa6f894c-eb25-4683-b888-38d1e2d0f257",
+      "oss_name": "正式节目-2026-10-9-14-45-28.oss",
+      "authored_length_s": "122.333333333333",
+      "authored_offset_time": "0",
+      "source_oss_sha256": "0699523eb9270de21655db041ea7d42379efc766d6b2e87d1c22a31b9da442e7",
+      "frame_min": 0,
+      "frame_max": 7341,
+      "records": 7342,
+      "nominal_last_index_div60_s": "122.35",
+      "nominal_last_index_div10_s": "734.1",
+      "record_count_minus_length_times60": "2.000000000020",
+      "rate_inferred_from_index_span_and_authored_length": "60.00817438692114443644247117"
+    },
+    {
+      "dmx_block_guid": "e8eecf33-166f-4540-816f-774e76c903ed",
+      "oss_name": "正式节目-2026-10-9-14-56-23.oss",
+      "authored_length_s": "199.4",
+      "authored_offset_time": "0",
+      "source_oss_sha256": "999e846accf82bd1a16c58f9a124f2a17c4f105d4c84558610556d9fe943d5f8",
+      "frame_min": 0,
+      "frame_max": 11965,
+      "records": 11966,
+      "nominal_last_index_div60_s": "199.4166666666666666666666667",
+      "nominal_last_index_div10_s": "1196.5",
+      "record_count_minus_length_times60": "2.0",
+      "rate_inferred_from_index_span_and_authored_length": "60.00501504513540621865596790"
+    },
+    {
+      "dmx_block_guid": "b34fe576-7c22-46df-ab0b-db0b627e1e7c",
+      "oss_name": "正式节目-2026-10-9-15-7-57.oss",
+      "authored_length_s": "204.566666666667",
+      "authored_offset_time": "0",
+      "source_oss_sha256": "8384292b3a251c4537822145dbf76397bd9f691603dc3056755d42ab6d337dc8",
+      "frame_min": 0,
+      "frame_max": 12274,
+      "records": 12275,
+      "nominal_last_index_div60_s": "204.5666666666666666666666667",
+      "nominal_last_index_div10_s": "1227.4",
+      "record_count_minus_length_times60": "0.999999999980",
+      "rate_inferred_from_index_span_and_authored_length": "59.99999999999990223236108848"
+    },
+    {
+      "dmx_block_guid": "14c47a48-dfec-47ee-9adf-6117cee61b88",
+      "oss_name": "正式节目-2026-10-8-19-23-21.oss",
+      "authored_length_s": "93.5333333333333",
+      "authored_offset_time": "0",
+      "source_oss_sha256": "bb7c80a6a3eef54bf88b3ac2bb5812a764c713d3cbe1b4781aad0fa1360fee09",
+      "frame_min": 0,
+      "frame_max": 5612,
+      "records": 5613,
+      "nominal_last_index_div60_s": "93.53333333333333333333333333",
+      "nominal_last_index_div10_s": "561.2",
+      "record_count_minus_length_times60": "1.0000000000020",
+      "rate_inferred_from_index_span_and_authored_length": "60.00000000000002138275124733"
+    },
+    {
+      "dmx_block_guid": "281d7f00-4baf-40ab-a1d3-2cd04997177a",
+      "oss_name": "正式节目-2026-10-8-22-53-52.oss",
+      "authored_length_s": "210.7",
+      "authored_offset_time": "0",
+      "source_oss_sha256": "68039ea7b1393d902947fa6818d33f57697d82c13a04902123166785d3d4121c",
+      "frame_min": 0,
+      "frame_max": 12642,
+      "records": 12643,
+      "nominal_last_index_div60_s": "210.7",
+      "nominal_last_index_div10_s": "1264.2",
+      "record_count_minus_length_times60": "1.0",
+      "rate_inferred_from_index_span_and_authored_length": "6E+1"
+    }
+  ],
+  "source_show_clock_like_fields": [
+    {
+      "tag": "Depence2_Sequence",
+      "guid": "11ce641f-02f3-4397-a8bc-db45431d7dc3",
+      "attribute": "TCOffset_LTC",
+      "value": "0"
+    },
+    {
+      "tag": "Depence2_Sequence",
+      "guid": "11ce641f-02f3-4397-a8bc-db45431d7dc3",
+      "attribute": "TCInputOffset",
+      "value": "0"
+    },
+    {
+      "tag": "Depence2_Sequence",
+      "guid": "11ce641f-02f3-4397-a8bc-db45431d7dc3",
+      "attribute": "EditorResolution",
+      "value": "30"
+    },
+    {
+      "tag": "Depence2_Sequence",
+      "guid": "11ce641f-02f3-4397-a8bc-db45431d7dc3",
+      "attribute": "BeatLine_StartTimeOffset",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "12fced32-4e02-49bd-af2c-b014e09dd4f2",
+      "attribute": "Rail_Offset",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "780d0a3c-1f14-4be7-8af9-735cc8daf9ea",
+      "attribute": "Rail_Offset",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "3d77359f-cdb2-4b60-934a-9f1b3cc6a03c",
+      "attribute": "Rail_Offset",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "500d2a14-daba-49ba-8f88-902fd49ca1c6",
+      "attribute": "Rail_Offset",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "3c911819-8006-4073-8960-effc1f1d09fd",
+      "attribute": "Rail_Offset",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "fa48dcb4-85a5-4cbb-81f6-a2d627442c13",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "fa6f894c-eb25-4683-b888-38d1e2d0f257",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "e8eecf33-166f-4540-816f-774e76c903ed",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "b34fe576-7c22-46df-ab0b-db0b627e1e7c",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "14c47a48-dfec-47ee-9adf-6117cee61b88",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "281d7f00-4baf-40ab-a1d3-2cd04997177a",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "ea62b187-c71f-4fe1-aa81-ca70b9d6b313",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "59b31d3a-941e-432e-b830-f57c08927f84",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "4f59333f-dc2c-40e5-90bb-0d5d7b8fb321",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "290387dc-7a1d-4385-9fb5-93c2b12fb9d2",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "b63dcd60-d0be-4fd8-a74c-67b6aa4f59f8",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "0c378f45-9a51-4c2f-a7dd-aad358887e8c",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "097bdaa2-67d8-440a-bae1-3a6d00901a8d",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "668f7211-dd62-46df-a7d6-50cd1e6a4b0c",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "1ec73773-0606-4bde-aa9d-6095d1c9892f",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "776f483f-816b-460c-a26c-6cd2de3eb180",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "17af71f5-a1dd-45ab-855b-18f0847559d0",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "23ce1e66-5525-470c-bc8f-89a70e181340",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "025ad04d-847d-454a-b7c1-ee9fc4bade98",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "8959516e-5627-43f4-be84-65811524fa91",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "905573b3-bb0a-422a-bbd8-e95b7f340877",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "2d2d4021-1a5e-469d-aee9-fa0bcc24be86",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "ebb5e9ea-db6b-4350-98c9-6b0819b154fe",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "b5c6d188-1036-4650-99fa-9c8efd2f0bfe",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "59ce7aa8-bb57-4159-8298-1384fa11de92",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "4e945049-296c-4eff-a6fb-e386d320f5f1",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "77b30f43-ee23-48a3-af8a-54c4e9e0ae96",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "55872b60-6345-4225-8ecc-0d1865512947",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "304081e7-1ceb-4c6e-b039-84a882bbd055",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "8ed42457-b9c8-4f5a-9431-a69d2461af11",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "68d8b9f7-c5bc-4ee2-a2ef-2112ef261d85",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "5c6b6d15-7f67-4a56-bdcf-76f4c9d33d98",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "420de72e-84d7-4d77-aa3d-fa34b864f007",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "39bbdb88-4b95-45c6-9c3f-421acc22250a",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "18550074-51de-41d7-9783-d864a6a3977e",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "b5ed7c11-1bcf-4cd3-9b2e-c6aeac13bf24",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "7eb1ad86-f3ad-4e57-aa1f-31e516048702",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "31791959-ab63-4eca-90a1-deffbeb12897",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "ce9bd10d-be4f-4327-84fd-2c7ce99c2d6d",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "0e270927-d406-4471-8dc9-a8844831b7e7",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "c8875eea-a995-4c6a-b1e8-d45f748f101d",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "0ffb2b5a-a3d8-4d7d-96b3-51737f5c0ec2",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "6e2c6a66-00f6-43ca-b8c8-918d6e0ca06e",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "d719fa7f-6e3c-45e1-860b-d39eae1d478d",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "27d0f422-45cf-47e0-b50c-65ac13535ba1",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "9eee0e99-d6a5-41f5-9292-3bdb0c0c5541",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "88b31405-2b5f-4465-814f-0a329dacc313",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "bb94b341-4db6-490b-bb9d-c9af636a6755",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "2ef755cb-0a9b-402d-8469-f272646abcd9",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "1641c605-e86b-493c-9739-a6a68c0e84b0",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "5c159a7d-d7cc-4bf3-9228-ca6cf80d127e",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "f272cd65-f4f9-419a-802a-9ee3a595dfd2",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "e860625c-2889-4e3e-a073-8937436829c5",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "0ceda965-b6a4-4b96-8944-ec1c758d1a84",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "57e341ae-9b5b-4a9b-bcc2-ef1b4287df07",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "bf939794-5261-443e-9de3-5e145c69d539",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "f6a5ef90-a61f-42e8-9ccf-ccee24504f37",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "7f999039-2db2-47e5-99b6-bb92be0876aa",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "eceada47-e15f-47b9-aad7-d6af4c67ef28",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "26d047c0-cf17-4f12-b2b3-27ffc99b16fb",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "eb4a300b-32b9-477e-87bb-2048bf8fa167",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "b3277627-9001-4573-86a7-2369eb065dec",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "74b1c495-319d-41da-99c5-be2bf338e33a",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "7d167fd8-0f8b-4d1f-97dc-4e685d2b8c9f",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "abb3ec13-6795-4c8b-ad22-e039fffc5213",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "3a8dc2ef-2f30-407d-b99b-52f344f6eb80",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "b0ed0924-a051-4140-9a21-3b9aba79a254",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "7cf3f1f6-8214-4374-8fc6-c2ff59d62faf",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "13dbdd88-fbff-41de-b58c-497bbfcf250f",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "2cd2583f-4c06-4cf4-9c26-7fed51648ce3",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "8c9ac6df-92b9-4a7f-92d9-057a431e3c62",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "abd08c7b-0e76-4286-950b-b3f14a01f80e",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "2fe62d09-aa23-4175-a65b-a8244c179c6c",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "cf360a8b-63d1-49c2-a623-2438daec3612",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "b205b426-2c53-44fc-94d4-13ee399e2e4a",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "d506aa02-d7df-433d-a68f-2c528387cd18",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "582d1cb6-0ce2-4737-af92-08adfc51494f",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "dfef748d-597c-49a8-ac56-c3c976fc5d71",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "d68be9e9-932d-4a3c-8e12-7ee0bf9398db",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "519390ab-eee1-470f-be69-da2a6a965f4c",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "88cc211c-6664-432d-8583-d41de8d79965",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "4afcbc80-c104-4d4c-9411-f0da0da402b9",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "e90a8707-9e8e-40da-89ba-e96eb04c0f12",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "f7e3d704-8146-4d5e-9170-93ff7af9354d",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "d6e99b14-5614-4634-9d68-e6d33846fbaa",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "10f32b4c-5e3c-4486-84e2-419cfee53406",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "42f713e2-d6d9-45eb-a530-02a54a7b1a28",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "aa5f5a87-e4d3-4f1b-a059-d5329c5fb1ae",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "e0b75771-307d-4ec7-948c-2a958f75ab31",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "9d0b4c6b-06ec-4020-ae25-6ae9277153e5",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "3760d0da-ba27-48df-91f5-3406e6b93240",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "79a4af6b-31c8-4336-b137-9018fdb27df3",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "9d560da0-a02c-4a4a-ae50-4343e1a094ad",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "a7855d71-a4d0-4f30-acbd-d99608a5abbb",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "e956179f-deef-4864-ba40-f1921385a725",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "c80efa00-340a-4a1d-8483-5371b3a9f712",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "428d81a9-3a0b-4507-b90d-0fd49627a3d9",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "8d2226cc-3fff-4dfd-bd59-73b1f0fe8403",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "751c728e-bc66-41df-bee3-105cd6c61db7",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "0ff22842-e331-4f24-8cc9-463e2f9ccafe",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "b73ae7a4-2c22-4c02-8a9a-30120e00dfdf",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "645b365b-e714-4bdc-a451-69b15f12ed8b",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "ecb2e3b0-c4d7-473a-8f07-1a28d335f502",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "bac8b722-2f42-42c8-a8d5-2428e2522e17",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "1387749b-ef48-4e46-bc23-462bf9663cce",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "596930a9-60ca-4d03-92ad-2cffb24f20a9",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "c9c963da-0bdf-4b2a-b6c2-11160849c4e5",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "0909c01b-2bce-4900-b249-a34e92adcb86",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "d0888789-6f9b-4f26-9d20-f1c698231683",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "6b615675-d72c-459d-b6ee-cb82d1dab1de",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "56b44dca-0db0-4d29-b29f-59b17060a83e",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "5f7dfefc-c2bc-475f-a03b-1b06e331a7c9",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "223cdfec-d24e-4a9a-91b8-91988d57da04",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "9f5a7a98-db4a-4364-a95a-9890f69ea337",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "b3815d7e-454e-414e-ac8d-8b98d5de9e53",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "af55d2b1-5a87-4e98-9720-aff5f53e95f8",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "7cc09e50-37fe-428a-8602-e319d6c4b621",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "39af24ec-2bf7-4191-b432-c8281a094327",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "ca69432f-6dcd-4957-850e-42fb106a8f37",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "8f172b31-3e82-46ad-8d3d-88bc51ff6443",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "28936a03-a995-427a-9ec7-61a7dfcb35f1",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "ed2bc929-89b8-47cc-b8d3-52b0c24353bc",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "9c203c33-ed47-43fe-b2e4-2bf46ba74ab5",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "c3b68d6f-91c5-48d3-bfbc-54cdc0aeeb50",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "dde2b4df-bcd1-492b-822d-7db1672f5f35",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "923e1f76-5e2e-467b-ab4f-0cb8fd754060",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "7b86bee7-3fe8-4789-a26d-22dce2730343",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "d4ec57cc-8444-47b6-9523-b5a0ad625b8b",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "34aed85e-f6f6-413c-8b73-94c3d263a677",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "d97b3983-1673-4e0f-aa1c-ac320eee94d4",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "8041d18d-d5a0-4a40-b645-f3af88f347fc",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "84653270-2894-4485-a2bf-93ac75364c76",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "388c3a8f-30d1-4d4d-8c61-6807ffa2d11d",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "d71eccb6-8a2f-42a1-9c88-cfe3453b89f1",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "98db60ba-e9ea-425b-af75-2583fb7388c9",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "ba1a3f81-2329-4d7f-a33d-4198e26c629e",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "c9a9d3fa-5116-4c5d-b4b4-65efcf2e346d",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "beb3d5a3-a30b-454f-8059-c9e86ae45dfd",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "2271d904-6e76-4308-a73a-004f15fdcca3",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "eb7fa4da-7c5b-4561-8c39-37d342d703fe",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "9d6deb15-841c-49c7-9b1a-09287a5ed173",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "7ae50dac-1f49-4aef-b72d-05b8cc8d260a",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "65d5f7fe-a5c6-40a2-b264-1f4b6e03ebe8",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "50a022f0-3ac8-4556-b712-df60955d2284",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "73285628-5ccb-4b70-bb66-8056f19d4d13",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "d1cfd021-5f0e-4c0f-954c-bfc50a43b25e",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "fdacff10-b6f7-483c-ac51-762dfb2b629a",
+      "attribute": "OffsetTime",
+      "value": "0"
+    },
+    {
+      "tag": "X",
+      "guid": "0c3f9ee2-e7d9-42ad-9704-8e8fb28bbebd",
+      "attribute": "OffsetTime",
+      "value": "0"
+    }
+  ],
+  "interpretation": "60Hz is strongly structurally compatible with saved lengths, whereas10Hz differs about6x. This is a correlation/inference, not vendor format proof, native decoder clock calibration, endpoint convention or exact audio synchronization. EditorResolution30 is an editor field, not proven capture FPS. No resampling, interpolation, origin shift or duration-fit rate correction applied.",
+  "all26_existing_header_and_index_receipts": [
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-19-23-21.oss",
+      "sha256": "bb7c80a6a3eef54bf88b3ac2bb5812a764c713d3cbe1b4781aad0fa1360fee09",
+      "header_sha256": "590d9280d99e396bdf63282841378accabe15abde45a2a93efdf8da87bb9af12",
+      "records": 5613,
+      "frame_min": 0,
+      "frame_max": 5612,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-21-51-54.oss",
+      "sha256": "3fc897afabde392b346fb7b90facee10f5a06ac71853295ef5d928c8cc7d2ecc",
+      "header_sha256": "245ff048b4c963c3d59348a7d3a01d948464a6190f95e9d51554c738f493389c",
+      "records": 3334,
+      "frame_min": 0,
+      "frame_max": 3333,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-21-55-30.oss",
+      "sha256": "35ccf011d3b28757e9fede6ddbdbdfa7d7a9a4b01c0e05b711f5fb7ac761acdc",
+      "header_sha256": "fc08c1450ce74c332abce7dbe25601acef554f8a1cb0c9adf547a1190228164c",
+      "records": 2976,
+      "frame_min": 0,
+      "frame_max": 2975,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-21-59-22.oss",
+      "sha256": "a322ae2afa29b421e48552418901fd157a2041c6c006e6e467cad2f139500e53",
+      "header_sha256": "b5b41277c7d699acaaf96dc87b666a843fc5f88d99f41a1d783e01f6b2c40fe8",
+      "records": 12635,
+      "frame_min": 0,
+      "frame_max": 12634,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-22-49-40.oss",
+      "sha256": "0dfe5a5af253613bbf982176445df2a940c3b524afea1de61300708727159008",
+      "header_sha256": "0531474e54cf54810b4edb3c5b2be3b3974bed4d06b42534acf60cd557e9f426",
+      "records": 2647,
+      "frame_min": 0,
+      "frame_max": 2646,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-22-50-10.oss",
+      "sha256": "4c52999f10baa022d60bc703f7f388a4046db23d279095f6ff73ca2a04858a96",
+      "header_sha256": "2d13bfd8cbfdde6c02e56a0548f3e06a909a877b6f01a13c5bfe24a7f4a0bc88",
+      "records": 216,
+      "frame_min": 0,
+      "frame_max": 215,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-8-22-53-52.oss",
+      "sha256": "68039ea7b1393d902947fa6818d33f57697d82c13a04902123166785d3d4121c",
+      "header_sha256": "2d13bfd8cbfdde6c02e56a0548f3e06a909a877b6f01a13c5bfe24a7f4a0bc88",
+      "records": 12643,
+      "frame_min": 0,
+      "frame_max": 12642,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-37-36.oss",
+      "sha256": "7f36659a763a04e7c0376a6ce583b821cbfae0c90aa42b8179a124ecea29ae43",
+      "header_sha256": "67ed64bd1b5f743ff7ab08695abf12068ace438e367db947dfc5b7ebe10fd946",
+      "records": 749,
+      "frame_min": 0,
+      "frame_max": 748,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-39-52.oss",
+      "sha256": "deea90c2a0aeddd5aa1d406cefbaee2fe188bfdf4e00898b01a1ad021b8b1f11",
+      "header_sha256": "67ed64bd1b5f743ff7ab08695abf12068ace438e367db947dfc5b7ebe10fd946",
+      "records": 7212,
+      "frame_min": 0,
+      "frame_max": 7211,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-45-28.oss",
+      "sha256": "0699523eb9270de21655db041ea7d42379efc766d6b2e87d1c22a31b9da442e7",
+      "header_sha256": "fbb5f38be12b8f10b01cda61780e904570b7fb8178eb4f82ad85a350236bd289",
+      "records": 7342,
+      "frame_min": 0,
+      "frame_max": 7341,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-51-38.oss",
+      "sha256": "afae0ce3671f47b6cc2023ca0d036f5d1ea7f0d2f8f0fc50a7ce3b8dfaa1098a",
+      "header_sha256": "a575cd9c4460083ea64cc2db2cda017ea9d83827d42fcbd76e570cd2c7604aba",
+      "records": 4499,
+      "frame_min": 0,
+      "frame_max": 4498,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-52-46.oss",
+      "sha256": "bd813c7455e4a54c0312ff701d6bac8047c8b6f0f2b7e69acaea2defd56555f1",
+      "header_sha256": "bbc7fbaeddca126218c14f7509b31ef1b98dbbbc72cb2985f49a4838c28f23cc",
+      "records": 2425,
+      "frame_min": 0,
+      "frame_max": 2424,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-56-23.oss",
+      "sha256": "999e846accf82bd1a16c58f9a124f2a17c4f105d4c84558610556d9fe943d5f8",
+      "header_sha256": "272c0e11983662c389cb20be0e604e7fca776617e8bd64d3c8408f06466e7aa4",
+      "records": 11966,
+      "frame_min": 0,
+      "frame_max": 11965,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-14-59-8.oss",
+      "sha256": "d8cb110dc3ae4fd6529a3a24a70b40410a0ee419643d903c83763f8260c5a816",
+      "header_sha256": "7fa115b619922c9c04705e930036adad58cfa052927a0019be8b8100aed1405a",
+      "records": 5233,
+      "frame_min": 0,
+      "frame_max": 5232,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-1-17.oss",
+      "sha256": "f6442f525488f97d0bc4dfc2d289a4c4e3e9497ffbc0fcfa88e58e5db88f1222",
+      "header_sha256": "85da2b690d314d48bff9c8276ff2aebbb5c1cffb08c5dd3581c6702ce019ca8f",
+      "records": 226,
+      "frame_min": 0,
+      "frame_max": 225,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-10-20.oss",
+      "sha256": "1278171e58aff914137d8162c2f896c8bca8d31cb8bb4f0582633e2112c0e509",
+      "header_sha256": "386dcb6fc204778f1e744f2cc2a360b55c0198abb52c63c7a6d085e52dcf2cd9",
+      "records": 2908,
+      "frame_min": 0,
+      "frame_max": 2907,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-13-12.oss",
+      "sha256": "eea13d70b0e8852d4d678a89657c7dca26d38590a978f5e738ffc61dc196f144",
+      "header_sha256": "945c6815e007673959d3cee2b4b463e6bb0e64dc2253503e0329d4eb196c91c7",
+      "records": 8275,
+      "frame_min": 0,
+      "frame_max": 8274,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-18-25.oss",
+      "sha256": "dcf7724374e95d62e7a787c366c17dfb9838c3d48575aca5a9e3a5e9722ed760",
+      "header_sha256": "941342a496c23e378ebfd32246f811109ca2ff4763fd143f9e2876f22253aa64",
+      "records": 13182,
+      "frame_min": 0,
+      "frame_max": 13181,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-4-7.oss",
+      "sha256": "12d214eb8f379ec44d074af2b12c636ca2edc81ad41018602831d0f5254320c9",
+      "header_sha256": "85da2b690d314d48bff9c8276ff2aebbb5c1cffb08c5dd3581c6702ce019ca8f",
+      "records": 7947,
+      "frame_min": 0,
+      "frame_max": 7946,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-15-7-57.oss",
+      "sha256": "8384292b3a251c4537822145dbf76397bd9f691603dc3056755d42ab6d337dc8",
+      "header_sha256": "e8c667b2ad4333b89eca10235b1b631bc355b1c8ddef7aac391412ead1b0165d",
+      "records": 12275,
+      "frame_min": 0,
+      "frame_max": 12274,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-16-37.oss",
+      "sha256": "ad4654c4b1cef040112d57a5847715acff2a286b93ef3cdea377657d363c34f7",
+      "header_sha256": "7514ae8562b50641335cde7daa61755df3b67db42a4924363f7b32b1cebf9abc",
+      "records": 7757,
+      "frame_min": 0,
+      "frame_max": 7756,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-33-38.oss",
+      "sha256": "3fcc1b456974463cdea58984cba10ecf8cf31ea3f791d6e9396609613bf3ae36",
+      "header_sha256": "19d2005483e027917c1a504b99cf3874fb836e2a942ca92ef9ac67698405e8ec",
+      "records": 349,
+      "frame_min": 0,
+      "frame_max": 348,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-33-58.oss",
+      "sha256": "86c1ecab17f29f140766219b27098e0d77fc3b49ac0d18c19d81a836a00d85c8",
+      "header_sha256": "19d2005483e027917c1a504b99cf3874fb836e2a942ca92ef9ac67698405e8ec",
+      "records": 735,
+      "frame_min": 0,
+      "frame_max": 734,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-34-29.oss",
+      "sha256": "332ed4f96c82a4e46cfffe7bcb845166df451f8dbcfdce68d792a38d9cbd2217",
+      "header_sha256": "9656968c0dbf297cecf50e7b06c84dfc47569954d33aa35cff846af8b9ffc294",
+      "records": 993,
+      "frame_min": 0,
+      "frame_max": 992,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-16-38-43.oss",
+      "sha256": "8f62968905529a4bbe5808f226bf1085946d383d92b371fe2ac52d6465aa1d70",
+      "header_sha256": "21ea0ca7cda78c925de48b687966bcfb31f81a5d59d5a5da30b673855c5c110c",
+      "records": 12649,
+      "frame_min": 0,
+      "frame_max": 12648,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    },
+    {
+      "member": "03_样例源文件_水仙十字/正式节目-2026-10-9-17-28-19.oss",
+      "sha256": "2dbd9b17e87eec8fca1d0d12849702e0d4135f2f8be944725ab4ecdf3179b35d",
+      "header_sha256": "f3c420168cc45b7ea8cd857f15e28dee8f160e65d45674ecd600852f22ea197a",
+      "records": 5729,
+      "frame_min": 0,
+      "frame_max": 5728,
+      "gaps": 0,
+      "nonincreasing_indices": 0
+    }
+  ]
+}

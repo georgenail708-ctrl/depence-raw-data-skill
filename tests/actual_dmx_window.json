@@ -1,0 +1,25 @@
+{
+  "classification": "derived_dense_ordered_window",
+  "npz_sha256": "96fb7b1768a6bc878150bd182906e591c9b9895fe82c6d69e0b80fd110246bc3",
+  "shape": [
+    1756,
+    5,
+    512
+  ],
+  "start_frame": 173,
+  "end_frame_exclusive": 176,
+  "channel_ids": "every flat ID0..2559",
+  "unknown": "null if never written or before first write",
+  "time_and_fixture_ownership": "not established by array row/channel index",
+  "output_sha256": "f5fb913b4da0654f0a4324901adf1e12e7e6243a1fc14e9b5d5116f04069c0e7",
+  "frames_written": 3,
+  "values_written": 7680,
+  "next_frame": 176,
+  "eof": false,
+  "coverage": "this window only; EOF alone does not prove prior windows were read",
+  "observed_channel783": [
+    220,
+    0,
+    0
+  ]
+}

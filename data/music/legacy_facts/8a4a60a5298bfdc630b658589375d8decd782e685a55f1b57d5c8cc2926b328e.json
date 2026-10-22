@@ -1,0 +1,657 @@
+{
+ "path": "D:\\fountain-prep\\midi\\096_原神5.2版本 音乐OST（镜璧山、翘枝崖、奥奇卡纳塔） - 32.Music19 00055【镜璧山_翘枝崖 夜间】(Av113502177989920,P32).mp3.mid",
+ "name": "096_原神5.2版本 音乐OST（镜璧山、翘枝崖、奥奇卡纳塔） - 32.Music19 00055【镜璧山_翘枝崖 夜间】(Av113502177989920,P32).mp3.mid",
+ "duration_s": 92.38,
+ "tracks": [
+  {
+   "name": "",
+   "program": [
+    0,
+    4
+   ],
+   "notes": 829,
+   "span": [
+    2.893,
+    92.382
+   ]
+  }
+ ],
+ "track_count": 1,
+ "notes": 829,
+ "note_density_per_s": 8.97,
+ "pitch_range": [
+  34,
+  92
+ ],
+ "pitch_class_top": {
+  "F": 280,
+  "C": 151,
+  "A#": 130,
+  "D#": 91,
+  "G#": 89,
+  "G": 44,
+  "C#": 44
+ },
+ "grid_1s": [
+  {
+   "t": 0.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 1.0,
+   "onsets": 0,
+   "sounding": 0,
+   "pitch_mean": null
+  },
+  {
+   "t": 2.0,
+   "onsets": 2,
+   "sounding": 2,
+   "pitch_mean": 62.5
+  },
+  {
+   "t": 3.0,
+   "onsets": 4,
+   "sounding": 6,
+   "pitch_mean": 65.0
+  },
+  {
+   "t": 4.0,
+   "onsets": 5,
+   "sounding": 9,
+   "pitch_mean": 64.8
+  },
+  {
+   "t": 5.0,
+   "onsets": 1,
+   "sounding": 5,
+   "pitch_mean": 64.2
+  },
+  {
+   "t": 6.0,
+   "onsets": 9,
+   "sounding": 11,
+   "pitch_mean": 59.2
+  },
+  {
+   "t": 7.0,
+   "onsets": 8,
+   "sounding": 13,
+   "pitch_mean": 59.3
+  },
+  {
+   "t": 8.0,
+   "onsets": 3,
+   "sounding": 6,
+   "pitch_mean": 63.7
+  },
+  {
+   "t": 9.0,
+   "onsets": 7,
+   "sounding": 8,
+   "pitch_mean": 67.4
+  },
+  {
+   "t": 10.0,
+   "onsets": 6,
+   "sounding": 9,
+   "pitch_mean": 61.3
+  },
+  {
+   "t": 11.0,
+   "onsets": 2,
+   "sounding": 5,
+   "pitch_mean": 58.4
+  },
+  {
+   "t": 12.0,
+   "onsets": 6,
+   "sounding": 7,
+   "pitch_mean": 66.1
+  },
+  {
+   "t": 13.0,
+   "onsets": 1,
+   "sounding": 2,
+   "pitch_mean": 64.0
+  },
+  {
+   "t": 14.0,
+   "onsets": 1,
+   "sounding": 3,
+   "pitch_mean": 64.3
+  },
+  {
+   "t": 15.0,
+   "onsets": 10,
+   "sounding": 11,
+   "pitch_mean": 58.1
+  },
+  {
+   "t": 16.0,
+   "onsets": 2,
+   "sounding": 5,
+   "pitch_mean": 56.6
+  },
+  {
+   "t": 17.0,
+   "onsets": 6,
+   "sounding": 10,
+   "pitch_mean": 56.1
+  },
+  {
+   "t": 18.0,
+   "onsets": 12,
+   "sounding": 15,
+   "pitch_mean": 58.2
+  },
+  {
+   "t": 19.0,
+   "onsets": 8,
+   "sounding": 15,
+   "pitch_mean": 60.1
+  },
+  {
+   "t": 20.0,
+   "onsets": 4,
+   "sounding": 7,
+   "pitch_mean": 61.3
+  },
+  {
+   "t": 21.0,
+   "onsets": 11,
+   "sounding": 16,
+   "pitch_mean": 60.5
+  },
+  {
+   "t": 22.0,
+   "onsets": 7,
+   "sounding": 10,
+   "pitch_mean": 59.8
+  },
+  {
+   "t": 23.0,
+   "onsets": 3,
+   "sounding": 7,
+   "pitch_mean": 57.6
+  },
+  {
+   "t": 24.0,
+   "onsets": 7,
+   "sounding": 9,
+   "pitch_mean": 59.1
+  },
+  {
+   "t": 25.0,
+   "onsets": 8,
+   "sounding": 13,
+   "pitch_mean": 60.9
+  },
+  {
+   "t": 26.0,
+   "onsets": 6,
+   "sounding": 12,
+   "pitch_mean": 64.5
+  },
+  {
+   "t": 27.0,
+   "onsets": 17,
+   "sounding": 20,
+   "pitch_mean": 62.5
+  },
+  {
+   "t": 28.0,
+   "onsets": 4,
+   "sounding": 10,
+   "pitch_mean": 60.6
+  },
+  {
+   "t": 29.0,
+   "onsets": 8,
+   "sounding": 11,
+   "pitch_mean": 63.8
+  },
+  {
+   "t": 30.0,
+   "onsets": 10,
+   "sounding": 15,
+   "pitch_mean": 60.3
+  },
+  {
+   "t": 31.0,
+   "onsets": 9,
+   "sounding": 15,
+   "pitch_mean": 58.5
+  },
+  {
+   "t": 32.0,
+   "onsets": 8,
+   "sounding": 13,
+   "pitch_mean": 59.5
+  },
+  {
+   "t": 33.0,
+   "onsets": 17,
+   "sounding": 19,
+   "pitch_mean": 61.3
+  },
+  {
+   "t": 34.0,
+   "onsets": 7,
+   "sounding": 12,
+   "pitch_mean": 60.5
+  },
+  {
+   "t": 35.0,
+   "onsets": 9,
+   "sounding": 13,
+   "pitch_mean": 61.2
+  },
+  {
+   "t": 36.0,
+   "onsets": 14,
+   "sounding": 17,
+   "pitch_mean": 59.6
+  },
+  {
+   "t": 37.0,
+   "onsets": 12,
+   "sounding": 18,
+   "pitch_mean": 61.8
+  },
+  {
+   "t": 38.0,
+   "onsets": 7,
+   "sounding": 10,
+   "pitch_mean": 62.1
+  },
+  {
+   "t": 39.0,
+   "onsets": 11,
+   "sounding": 14,
+   "pitch_mean": 58.5
+  },
+  {
+   "t": 40.0,
+   "onsets": 5,
+   "sounding": 10,
+   "pitch_mean": 69.1
+  },
+  {
+   "t": 41.0,
+   "onsets": 5,
+   "sounding": 8,
+   "pitch_mean": 67.4
+  },
+  {
+   "t": 42.0,
+   "onsets": 14,
+   "sounding": 15,
+   "pitch_mean": 68.6
+  },
+  {
+   "t": 43.0,
+   "onsets": 11,
+   "sounding": 14,
+   "pitch_mean": 60.7
+  },
+  {
+   "t": 44.0,
+   "onsets": 6,
+   "sounding": 10,
+   "pitch_mean": 60.8
+  },
+  {
+   "t": 45.0,
+   "onsets": 6,
+   "sounding": 8,
+   "pitch_mean": 62.5
+  },
+  {
+   "t": 46.0,
+   "onsets": 4,
+   "sounding": 7,
+   "pitch_mean": 59.1
+  },
+  {
+   "t": 47.0,
+   "onsets": 7,
+   "sounding": 8,
+   "pitch_mean": 62.0
+  },
+  {
+   "t": 48.0,
+   "onsets": 10,
+   "sounding": 13,
+   "pitch_mean": 64.1
+  },
+  {
+   "t": 49.0,
+   "onsets": 8,
+   "sounding": 11,
+   "pitch_mean": 62.4
+  },
+  {
+   "t": 50.0,
+   "onsets": 10,
+   "sounding": 12,
+   "pitch_mean": 65.2
+  },
+  {
+   "t": 51.0,
+   "onsets": 22,
+   "sounding": 22,
+   "pitch_mean": 61.8
+  },
+  {
+   "t": 52.0,
+   "onsets": 13,
+   "sounding": 21,
+   "pitch_mean": 59.0
+  },
+  {
+   "t": 53.0,
+   "onsets": 7,
+   "sounding": 12,
+   "pitch_mean": 55.9
+  },
+  {
+   "t": 54.0,
+   "onsets": 17,
+   "sounding": 19,
+   "pitch_mean": 58.2
+  },
+  {
+   "t": 55.0,
+   "onsets": 14,
+   "sounding": 19,
+   "pitch_mean": 56.9
+  },
+  {
+   "t": 56.0,
+   "onsets": 2,
+   "sounding": 8,
+   "pitch_mean": 58.2
+  },
+  {
+   "t": 57.0,
+   "onsets": 14,
+   "sounding": 17,
+   "pitch_mean": 60.7
+  },
+  {
+   "t": 58.0,
+   "onsets": 7,
+   "sounding": 11,
+   "pitch_mean": 58.5
+  },
+  {
+   "t": 59.0,
+   "onsets": 12,
+   "sounding": 15,
+   "pitch_mean": 57.7
+  },
+  {
+   "t": 60.0,
+   "onsets": 14,
+   "sounding": 17,
+   "pitch_mean": 57.9
+  },
+  {
+   "t": 61.0,
+   "onsets": 13,
+   "sounding": 18,
+   "pitch_mean": 58.9
+  },
+  {
+   "t": 62.0,
+   "onsets": 14,
+   "sounding": 20,
+   "pitch_mean": 58.8
+  },
+  {
+   "t": 63.0,
+   "onsets": 27,
+   "sounding": 33,
+   "pitch_mean": 58.5
+  },
+  {
+   "t": 64.0,
+   "onsets": 16,
+   "sounding": 24,
+   "pitch_mean": 59.5
+  },
+  {
+   "t": 65.0,
+   "onsets": 13,
+   "sounding": 18,
+   "pitch_mean": 59.0
+  },
+  {
+   "t": 66.0,
+   "onsets": 17,
+   "sounding": 21,
+   "pitch_mean": 56.7
+  },
+  {
+   "t": 67.0,
+   "onsets": 16,
+   "sounding": 23,
+   "pitch_mean": 53.9
+  },
+  {
+   "t": 68.0,
+   "onsets": 13,
+   "sounding": 18,
+   "pitch_mean": 59.8
+  },
+  {
+   "t": 69.0,
+   "onsets": 21,
+   "sounding": 27,
+   "pitch_mean": 60.9
+  },
+  {
+   "t": 70.0,
+   "onsets": 17,
+   "sounding": 24,
+   "pitch_mean": 59.7
+  },
+  {
+   "t": 71.0,
+   "onsets": 21,
+   "sounding": 27,
+   "pitch_mean": 54.5
+  },
+  {
+   "t": 72.0,
+   "onsets": 17,
+   "sounding": 22,
+   "pitch_mean": 54.6
+  },
+  {
+   "t": 73.0,
+   "onsets": 18,
+   "sounding": 24,
+   "pitch_mean": 55.2
+  },
+  {
+   "t": 74.0,
+   "onsets": 12,
+   "sounding": 17,
+   "pitch_mean": 56.7
+  },
+  {
+   "t": 75.0,
+   "onsets": 15,
+   "sounding": 18,
+   "pitch_mean": 56.3
+  },
+  {
+   "t": 76.0,
+   "onsets": 7,
+   "sounding": 12,
+   "pitch_mean": 53.6
+  },
+  {
+   "t": 77.0,
+   "onsets": 5,
+   "sounding": 9,
+   "pitch_mean": 45.6
+  },
+  {
+   "t": 78.0,
+   "onsets": 9,
+   "sounding": 13,
+   "pitch_mean": 57.7
+  },
+  {
+   "t": 79.0,
+   "onsets": 7,
+   "sounding": 11,
+   "pitch_mean": 61.1
+  },
+  {
+   "t": 80.0,
+   "onsets": 4,
+   "sounding": 7,
+   "pitch_mean": 61.7
+  },
+  {
+   "t": 81.0,
+   "onsets": 7,
+   "sounding": 8,
+   "pitch_mean": 57.5
+  },
+  {
+   "t": 82.0,
+   "onsets": 5,
+   "sounding": 8,
+   "pitch_mean": 52.6
+  },
+  {
+   "t": 83.0,
+   "onsets": 10,
+   "sounding": 11,
+   "pitch_mean": 55.7
+  },
+  {
+   "t": 84.0,
+   "onsets": 13,
+   "sounding": 18,
+   "pitch_mean": 56.6
+  },
+  {
+   "t": 85.0,
+   "onsets": 9,
+   "sounding": 13,
+   "pitch_mean": 59.7
+  },
+  {
+   "t": 86.0,
+   "onsets": 6,
+   "sounding": 7,
+   "pitch_mean": 48.1
+  },
+  {
+   "t": 87.0,
+   "onsets": 5,
+   "sounding": 6,
+   "pitch_mean": 51.3
+  },
+  {
+   "t": 88.0,
+   "onsets": 5,
+   "sounding": 9,
+   "pitch_mean": 50.8
+  },
+  {
+   "t": 89.0,
+   "onsets": 3,
+   "sounding": 5,
+   "pitch_mean": 47.2
+  },
+  {
+   "t": 90.0,
+   "onsets": 3,
+   "sounding": 5,
+   "pitch_mean": 47.2
+  },
+  {
+   "t": 91.0,
+   "onsets": 1,
+   "sounding": 3,
+   "pitch_mean": 49.0
+  },
+  {
+   "t": 92.0,
+   "onsets": 0,
+   "sounding": 2,
+   "pitch_mean": 47.0
+  }
+ ],
+ "boundary_candidates": [
+  {
+   "t": 6.0,
+   "diff": 0.769
+  },
+  {
+   "t": 16.0,
+   "diff": 0.865
+  },
+  {
+   "t": 26.0,
+   "diff": 0.708
+  },
+  {
+   "t": 30.0,
+   "diff": 0.621
+  },
+  {
+   "t": 38.0,
+   "diff": 0.875
+  },
+  {
+   "t": 44.0,
+   "diff": 0.946
+  },
+  {
+   "t": 48.0,
+   "diff": 1.315
+  },
+  {
+   "t": 52.0,
+   "diff": 0.531
+  },
+  {
+   "t": 56.0,
+   "diff": 0.773
+  },
+  {
+   "t": 60.0,
+   "diff": 1.396
+  },
+  {
+   "t": 68.0,
+   "diff": 0.538
+  },
+  {
+   "t": 74.0,
+   "diff": 1.663
+  },
+  {
+   "t": 78.0,
+   "diff": 1.038
+  },
+  {
+   "t": 82.0,
+   "diff": 0.696
+  },
+  {
+   "t": 88.0,
+   "diff": 1.323
+  }
+ ]
+}

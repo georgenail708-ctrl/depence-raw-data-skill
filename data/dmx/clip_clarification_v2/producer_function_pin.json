@@ -1,0 +1,56 @@
+{
+  "source_path": "/workspace/shared/depence_tail/phase_metadata_redacted/02_工具链/batch_build.py",
+  "sha256_redacted_review_copy": "a01cc108e8c5626f18ccf532875dcee46ab7c68fd7afcef9ba02a8970cd38087",
+  "function": "process_dmxt",
+  "line_evidence": [
+    {
+      "line": 348,
+      "text": "                if not c.get('frames_blob'): continue"
+    },
+    {
+      "line": 360,
+      "text": "                fb = c['frames_blob']"
+    },
+    {
+      "line": 361,
+      "text": "                raw = np.frombuffer(zlib.decompress(base64.b64decode(fb['b'])), dtype=np.uint8).reshape(fb['n'], 512)"
+    },
+    {
+      "line": 362,
+      "text": "                unis = fb['unis']; m = fb['m']; ts = fb['ts']"
+    },
+    {
+      "line": 363,
+      "text": "                tmax = int(max(ts)) + 1 if ts else 1"
+    },
+    {
+      "line": 366,
+      "text": "                    idx_u, idx_t = np.array(m, dtype=np.int64), np.array([int(x) for x in ts], dtype=np.int64)"
+    },
+    {
+      "line": 371,
+      "text": "                                 'start_time': c.get('start_time'), 'duration': c.get('duration'),"
+    },
+    {
+      "line": 374,
+      "text": "                arrs = np.zeros((len(unis), tmax, 512), dtype=np.uint8)"
+    },
+    {
+      "line": 376,
+      "text": "                    arrs[m[i], int(ts[i]), :] = raw[i]"
+    },
+    {
+      "line": 379,
+      "text": "                meta.append({'clip': ci, 'label': c.get('label'), 'start_time': c.get('start_time'),"
+    },
+    {
+      "line": 380,
+      "text": "                             'duration': c.get('duration'), 'unis': unis,"
+    },
+    {
+      "line": 396,
+      "text": "            np.savez_compressed(npz, **store)"
+    }
+  ],
+  "scope": "Static text review only. Supplier code not executed. Actual original timestamp arrays unavailable in handoff; no inferred lost-sample count."
+}

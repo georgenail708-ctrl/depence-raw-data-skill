@@ -1,0 +1,8 @@
+{
+  "context_count": 96,
+  "fully_matched_contexts": 2,
+  "xml_fixture_count": 721,
+  "xml_sha256": "096a1c85a26ab95ac479c2bac214d689a24caab20118dc0298830118ff6b5951",
+  "projection_sha256": "6cefaa9976c94f57aef5553f705892b2c37c83098ab8afc2a714e350b6344597",
+  "scope": "Only all-base-fixture-field-matched current contexts use exact fixture-owned XML semantics, repairing global mode overwrite conflicts; other contexts retain raw existing data. No historical output ownership established."
+}

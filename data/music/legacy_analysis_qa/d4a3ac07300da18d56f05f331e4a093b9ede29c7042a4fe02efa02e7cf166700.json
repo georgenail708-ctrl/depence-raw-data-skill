@@ -1,0 +1,1 @@
+{"duration_s": 13.42, "tempo": 123.05, "beat_times": [9.613, 10.101, 10.635, 11.146, 11.703, 12.283], "rms_1s": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0033, 0.0022, 0.1611, 0.1043, 0.1039, 0.6466], "chords_1s": [[0, "C"], [8, "Gm"], [9, "A#"], [12, "D#"]], "structure_boundaries_s": [], "onsets_count": 6, "tool": "librosa deterministic pipeline v1"}

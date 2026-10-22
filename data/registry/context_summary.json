@@ -1,0 +1,60 @@
+{
+  "project_members_checked": 473,
+  "unique_project_hashes": 93,
+  "semantics": {
+    "cumulative index over patch order fixtures x non-virtual mode slots; OSS/frames channel-IDs map through this table": 79,
+    "FLAT GLOBAL DMX INDEX: cid = dmx_line0*512 + addr1-1 + slot-1 (universe = dmx_line0 0-based, slot = addr within universe). Verified against OSS renders (93% direct hit; misses = post-render patch drift). Overlapping addresses (same cid from multiple fixtures) listed in address_overlaps.": 14
+  },
+  "unique_contexts_with_overlap": 17,
+  "sum_overlap_addresses_across_unique_contexts": 4238,
+  "unique_contexts_missing_source_overlap_field": 79,
+  "unique_contexts_table_disagrees_flat_address": 89,
+  "errors": [
+    {
+      "member": "01_数据集_songs/喷泉编曲至冬70_至冬.project.json",
+      "error_type": "AttributeError",
+      "reason": "'list' object has no attribute 'items'"
+    },
+    {
+      "member": "01_数据集_songs/喷泉编曲至冬70_驭光裁影.project.json",
+      "error_type": "AttributeError",
+      "reason": "'list' object has no attribute 'items'"
+    },
+    {
+      "member": "01_数据集_songs/水仙十字_throughtheemberwindfrontier.project.json",
+      "error_type": "AttributeError",
+      "reason": "'list' object has no attribute 'items'"
+    },
+    {
+      "member": "01_数据集_songs/水仙十字_танецледяныхкристаллов.project.json",
+      "error_type": "AttributeError",
+      "reason": "'list' object has no attribute 'items'"
+    },
+    {
+      "member": "01_数据集_songs/水仙十字_幽灯所及之崖glimmersend.project.json",
+      "error_type": "AttributeError",
+      "reason": "'list' object has no attribute 'items'"
+    },
+    {
+      "member": "01_数据集_songs/水仙十字_泊船入梦mooredindreams.project.json",
+      "error_type": "AttributeError",
+      "reason": "'list' object has no attribute 'items'"
+    },
+    {
+      "member": "01_数据集_songs/水仙十字_雨林琉璃.project.json",
+      "error_type": "AttributeError",
+      "reason": "'list' object has no attribute 'items'"
+    },
+    {
+      "member": "01_数据集_songs/至冬_至冬.project.json",
+      "error_type": "AttributeError",
+      "reason": "'list' object has no attribute 'items'"
+    },
+    {
+      "member": "01_数据集_songs/至冬_驭光裁影.project.json",
+      "error_type": "AttributeError",
+      "reason": "'list' object has no attribute 'items'"
+    }
+  ],
+  "whole_archive_integrity": "pending"
+}

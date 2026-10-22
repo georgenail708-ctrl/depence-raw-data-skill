@@ -1,0 +1,9 @@
+{
+  "name": "08_MIDI与分析缓存/midi库/098_lclick.wav.mid",
+  "bytes": 41,
+  "crc32": "53e8d426",
+  "sha256": "5e1fc29474515d2234552099e345a227cda4c9799e476494dd7c43a127cd1264",
+  "expected_member_sha256_checked": true,
+  "archive_verification": "historical_receipt_only; run verify for local parts",
+  "classification": "raw_source_bytes; contents not certified as accurate"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "03_\u6837\u4f8b\u6e90\u6587\u4ef6_\u6c34\u4ed9\u5341\u5b57/project.xml",
+  "size": 25041259,
+  "crc32": "ee57d917",
+  "sha256": "096a1c85a26ab95ac479c2bac214d689a24caab20118dc0298830118ff6b5951",
+  "whole_archive_sha256_verified": false,
+  "projection_gzip_bytes": 876569,
+  "all_sources": 4924,
+  "feature_definitions": 276,
+  "attribute_definitions": 5196,
+  "objects": 4045,
+  "profiles": 1008,
+  "audio_matches": 0,
+  "peak_rss_kib": 85056,
+  "full_xml_persisted": false
+}

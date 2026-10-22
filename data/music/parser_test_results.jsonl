@@ -1,0 +1,2 @@
+{"status": "passed", "controls": ["note_on_attack_velocity", "note_off_release_velocity", "note_on_zero", "running_status", "tempo_change", "meter_preservation", "bank", "program", "CC64", "pitchbend", "truncated_chunk", "invalid_running_status", "unsupported_SMPTE", "bad_data_byte", "overlong_VLQ"]}
+{"status": "passed", "controls": ["sysex_F0_full_payload", "sysex_F7_full_payload", "FIFO_overlap_flags", "unmatched_on", "unmatched_off"]}

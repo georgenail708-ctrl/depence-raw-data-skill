@@ -1,0 +1,191 @@
+{
+  "schema": "depence.local-parts.v1",
+  "archive_sha256": "6caa72e1b0c9f3e9f949d503c0a546fa89b8eeffb153ad7b80ea000c49a6f1cb",
+  "archive_bytes": 3647094034,
+  "parts": [
+    {
+      "filename": "Depence原始数据交接_20261022.zip.000",
+      "size": 209715200,
+      "sha256": "8585fdc963cf176b1ef42a8c72965818f5f6b8a0940e0345ebd4f4952557bcc8",
+      "offset": 0,
+      "drive_file_id": "1F8i1YFKagMk4s3perU9rcZXTJK6qerB0",
+      "modified_time": "2026-10-22T07:21:05.370Z",
+      "created_time": "2026-10-22T07:21:05.370Z",
+      "original_drive_file_id": "12TvpoeEcs1AWSDf6uChmjTGYls9h2_cM"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.001",
+      "size": 209715200,
+      "sha256": "0a005d685974977ba1b52f3f6328289bf1744318692ce9aea8f72cf2c35d5442",
+      "offset": 209715200,
+      "drive_file_id": "1Cev85ufDzNDG96TiSlLYwCRvoo0bTaW7",
+      "modified_time": "2026-10-22T07:21:36.940Z",
+      "created_time": "2026-10-22T07:21:36.940Z",
+      "original_drive_file_id": "1a3x-7A36bl66TF5sbdlY2J53AnVqrRZm"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.002",
+      "size": 209715200,
+      "sha256": "e37f7c73f7254779fc015d852d39a7bedd34cdd2829a32a74fe0b552ede80613",
+      "offset": 419430400,
+      "drive_file_id": "1LKdnj4BUwN2ysORaTceOMxwMfgmXLAgt",
+      "modified_time": "2026-10-22T07:21:40.286Z",
+      "created_time": "2026-10-22T07:21:40.286Z",
+      "original_drive_file_id": "1UsghWOQiWYbGssI6ntcA7Nveu61uzTCX"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.003",
+      "size": 209715200,
+      "sha256": "5d291dc244df562869fbef56c7bfa7a210deb14e2c2238ba5a19ee33ca995cef",
+      "offset": 629145600,
+      "drive_file_id": "1znS_RV1RsI7AzbQexdLXmfvbjrsBVqId",
+      "modified_time": "2026-10-22T07:21:43.816Z",
+      "created_time": "2026-10-22T07:21:43.816Z",
+      "original_drive_file_id": "1QESO6MdlFeYcaAf87ZRlGD3tNGtRVQDW"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.004",
+      "size": 209715200,
+      "sha256": "10bae1e766ae947e2e729e2f7ad344cf1cd644574d7be62e76ae9425e0081589",
+      "offset": 838860800,
+      "drive_file_id": "1bJfrv0eyDL-cErFWAeOql-NMu5fA8tUN",
+      "modified_time": "2026-10-22T07:21:47.632Z",
+      "created_time": "2026-10-22T07:21:47.632Z",
+      "original_drive_file_id": "1P5TczSxt6rgm_VxEeV0jx1UUxm-DONIr"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.005",
+      "size": 209715200,
+      "sha256": "be5b403536e86391a7f8043c0f3b39d34f36d6fbc507e22826b2208bb64303b5",
+      "offset": 1048576000,
+      "drive_file_id": "1jyxIDvH5ayuDEFa70PUbUDuMJqn8Y6KM",
+      "modified_time": "2026-10-22T07:21:50.689Z",
+      "created_time": "2026-10-22T07:21:50.689Z",
+      "original_drive_file_id": "11cIwgGV9kAy50OCnpQLry41xZdfTKz7J"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.006",
+      "size": 209715200,
+      "sha256": "c1e8f7b0b77e60be8a4a022dcf5cddb7d58dc4593317e00baaa0f49e0a9e0660",
+      "offset": 1258291200,
+      "drive_file_id": "1PQ__wTCdrhxLhg_5evSDdEBAaploHGzK",
+      "modified_time": "2026-10-22T07:21:54.811Z",
+      "created_time": "2026-10-22T07:21:54.811Z",
+      "original_drive_file_id": "1XWlwRxnvwGlPFXg2inGPFgTy_xt77Rel"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.007",
+      "size": 209715200,
+      "sha256": "966bbe5abc2e6a97325b96d3fd54c760758c17127a03b818c195fafc6594d960",
+      "offset": 1468006400,
+      "drive_file_id": "1NdoFDocGjKBmlDZsrGG65upokn-p01Fu",
+      "modified_time": "2026-10-22T07:22:02.847Z",
+      "created_time": "2026-10-22T07:22:02.847Z",
+      "original_drive_file_id": "1mMg0J2R62wi-XaJcWt05EKgf67C6FKqK"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.008",
+      "size": 209715200,
+      "sha256": "47bf5a7dc8c3d51b1a9655cd5680b381f8cf5135c1bf04409e0dbf3bcdb036c1",
+      "offset": 1677721600,
+      "drive_file_id": "1ISov-WzuZC6bfYYi24iMz0wRiKivlJQd",
+      "modified_time": "2026-10-22T07:21:59.602Z",
+      "created_time": "2026-10-22T07:21:59.602Z",
+      "original_drive_file_id": "1dYiWamUVj8wnMVMfIKZ8oA8CFd7eA-z3"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.009",
+      "size": 209715200,
+      "sha256": "f9c38ac63c58dc924ece9a853e5656d4ca73d118e6f08f724d389be575e37882",
+      "offset": 1887436800,
+      "drive_file_id": "1ZmO7yDquq6H-Jn5uRSzEvRBeujWUUUh9",
+      "modified_time": "2026-10-22T07:22:06.383Z",
+      "created_time": "2026-10-22T07:22:06.383Z",
+      "original_drive_file_id": "1Nze6bvzHtK-dZmtsGEGyrRZIbrXFkcpN"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.010",
+      "size": 209715200,
+      "sha256": "d841bc6b3a1858746e410bc4734d93fde97eef796f5d477beea34b7990866320",
+      "offset": 2097152000,
+      "drive_file_id": "1m_Po9M-gyTpT7Epw8mSrznS_FvG3KdOg",
+      "modified_time": "2026-10-22T07:26:07.170Z",
+      "created_time": "2026-10-22T07:26:07.170Z",
+      "original_drive_file_id": "1mexNpIiwzIRJ5LSMJDHc1-wHUBR-CxkS"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.011",
+      "size": 209715200,
+      "sha256": "eaab3b737969d0c5a58b7f0428b932539bdea40a6e4a368b23012d5d83f7b1b3",
+      "offset": 2306867200,
+      "drive_file_id": "1AJDsLcKaI2SMyHn7Rz1cUD6sDATwTwv7",
+      "modified_time": "2026-10-22T07:22:11.772Z",
+      "created_time": "2026-10-22T07:22:11.772Z",
+      "original_drive_file_id": "1JYhMmndsvUg4m4gMSIT5GJ2p59NL7oGL"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.012",
+      "size": 209715200,
+      "sha256": "11727b194331715eeecec998e2599d39f8a67f185a64e05a3004093d5fc2d3d0",
+      "offset": 2516582400,
+      "drive_file_id": "1B-Ap8zPQ9JopG3cid8AYc36dDlT0rSef",
+      "modified_time": "2026-10-22T07:22:14.978Z",
+      "created_time": "2026-10-22T07:22:14.978Z",
+      "original_drive_file_id": "1uMQmoGyp_2FfCbxys7eSOL0cQiy-G3h2"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.013",
+      "size": 209715200,
+      "sha256": "bca097fef1ad5e6fec560eb56f5ddef42d78efc92d1eaf882b6307644e4bb3bc",
+      "offset": 2726297600,
+      "drive_file_id": "1vuu20H5V0ycoksENFFi2uqN3AE4kzB4p",
+      "modified_time": "2026-10-22T07:24:39.007Z",
+      "created_time": "2026-10-22T07:24:39.007Z",
+      "original_drive_file_id": "1_Ckc4a8kiKQuqLu8P67OXYdV_lg-FlcK"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.014",
+      "size": 209715200,
+      "sha256": "1bcab7c6c056d23f79488def774258698c0aea6bbed6da7aca9b9c130f069aa5",
+      "offset": 2936012800,
+      "drive_file_id": "1kH_SwdRonSKb_kql0hxS0Ag3SKWTo5UD",
+      "modified_time": "2026-10-22T07:25:05.334Z",
+      "created_time": "2026-10-22T07:25:05.334Z",
+      "original_drive_file_id": "1ny9Q9X7JrK40MGdjhVnLEwpKu7iaciC0"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.015",
+      "size": 209715200,
+      "sha256": "28688c3396c825df8de6566811e905cb8f39356ac91abb3fae107d679250559d",
+      "offset": 3145728000,
+      "drive_file_id": "1FD8p77VlfanO3ygcg54koR2LAguzU0s5",
+      "modified_time": "2026-10-22T07:25:14.420Z",
+      "created_time": "2026-10-22T07:25:14.420Z",
+      "original_drive_file_id": "19G8Gp_7x3yDfsPM1TPlQIMV9-KZEzIcT"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.016",
+      "size": 209715200,
+      "sha256": "47f15fd9d68e7938ea518012d0bc71d892abdff62fef52dd3a460f8dcfa829c8",
+      "offset": 3355443200,
+      "drive_file_id": "1wtAp3gPNf7VXz7S9cK5_ZlXl-B_Dxji3",
+      "modified_time": "2026-10-22T07:25:20.370Z",
+      "created_time": "2026-10-22T07:25:20.370Z",
+      "original_drive_file_id": "1o-yKsP4w9VDWsLHRa9bc0dIDLUiXlCoS"
+    },
+    {
+      "filename": "Depence原始数据交接_20261022.zip.017",
+      "size": 81935634,
+      "sha256": "6c70f0a841c7b3086d4de0118b3ab2179f00d0d02a522add3978ba3a15f225ca",
+      "offset": 3565158400,
+      "drive_file_id": "1_QdswX1loLJcbixfPAKxwE27r9LM4IYl",
+      "modified_time": "2026-10-22T07:25:25.342Z",
+      "created_time": "2026-10-22T07:25:25.342Z",
+      "original_drive_file_id": "1kPPu3raPoPAVs3ySUAGPbTzXv_yTybhK"
+    }
+  ],
+  "dependency": "External original split archive required. Not embedded in this skill.",
+  "locator_set": "private_owner_backup_full_byte_verified",
+  "source_folder_id": "1AXhniVjoDLfhXHsOrR3Lg48k-knOT4Fz",
+  "verification_receipt": "catalog/source_copy_integrity_receipt.json"
+}

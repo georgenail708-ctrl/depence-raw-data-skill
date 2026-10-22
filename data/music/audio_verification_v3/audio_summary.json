@@ -1,0 +1,36 @@
+{
+  "expected_audio_members": 192,
+  "actual_complete_byte_validations": 192,
+  "all_expected_members_covered": true,
+  "header_probe_status": {
+    "header_probe_passed": 191,
+    "header_probe_failed": 1
+  },
+  "compressed_bytes_verified": 3255278320,
+  "uncompressed_bytes_hashed": 3854390623,
+  "unique_exact_sha256": 66,
+  "duplicate_byte_groups": 33,
+  "members_in_duplicate_groups": 159,
+  "header_formats": {
+    "wav": 99,
+    "mp3": 92,
+    "null": 1
+  },
+  "source_record_rows_checked_for_audio_hash_claims": 517,
+  "source_record_rows_with_audio_hash_claims": 0,
+  "no_persistent_audio_copies": true,
+  "interpretation_limits": [
+    "No listening or semantic song recognition",
+    "No full decoding validation",
+    "No transcription generation or accuracy certification",
+    "No learned aesthetic rules",
+    "No crossmodal offset/drift validation",
+    "Identical audio bytes do not imply duplicate choreography"
+  ],
+  "missing_members": [],
+  "accepted_prefix_unchanged": true,
+  "transport_interruption_count": 1,
+  "resume_status": "completed once; all192 unique expected members accepted",
+  "transport_redirect_policy": "inherited urllib default; no explicit no-redirect guarantee",
+  "header_probe_failure_interpretation": "one .flac-named member has ISO-BMFF ftyp/isom header; actual MOV/MP4-family demuxer was outside restricted whitelist; codec/duration unmeasured, not evidence of corrupt source"
+}

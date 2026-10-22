@@ -1,0 +1,16 @@
+{
+  "unique_members_bytes_verified": 0,
+  "unique_members_raw_read_full_reported": 0,
+  "unique_members_semantic_review_full_reported": 0,
+  "unique_original_archive_members": 2551,
+  "unique_derived_components": 26,
+  "source_groups": 517,
+  "asset_references": 3017,
+  "unique_members": 2577,
+  "bytes_verified": 0,
+  "raw_read_full_reported": 0,
+  "semantic_review_full_reported": 0,
+  "accepted_missing_scene_frames": 127,
+  "all_available_assets_review_reported": false,
+  "full_project_authenticity_or_audio_alignment": "not_established_by_coverage_ledger"
+}

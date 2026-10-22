@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "supersedes_loader_only": "load_music.py",
+  "data_manifest": {
+    "path": "music_manifest.json",
+    "sha256": "a3f437e3afbbfffa4df96fb70e6144ae90d5599e6b93023b1a6391fc39d6c122"
+  },
+  "integrity_contract": "Pin the v2 manifest externally; v2 loader itself pins immutable v1 data manifest and verifies every requested source/derivative/note/fact byte string before decode/return. Existing evidence and v1 seal unchanged.",
+  "files": [
+    {
+      "path": "load_music_v2.py",
+      "size": 6187,
+      "sha256": "4c149d47f083b1d25769ddb367132b091002576a286692e17aa737af1a8e1a2f"
+    },
+    {
+      "path": "test_load_music_v2.py",
+      "size": 2882,
+      "sha256": "f29957342df8b154971a4e6f43afe9625d87d410cab3371982db2a1e3573b0a7"
+    },
+    {
+      "path": "load_music_v2_test_results.json",
+      "size": 436,
+      "sha256": "c1aa649b6a63536cf8aea3306348d0d22cef39192a5a7da384d076b35fa010ab"
+    }
+  ]
+}

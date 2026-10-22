@@ -1,0 +1,108 @@
+{
+  "schema": "authored_audio_clock_bridge.v4",
+  "status": "sealed; authored interval repair and strict unbound-pair gates; zero certified media/frame synchronized pairs",
+  "source_archive_sha256": "6caa72e1b0c9f3e9f949d503c0a546fa89b8eeffb153ad7b80ea000c49a6f1cb",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4142,
+      "sha256": "d56649faf8d364d272e7795b21fae5f1f4f902e8242e19c98aba5b7598065f9c"
+    },
+    {
+      "path": "authored_timeline.json",
+      "bytes": 43666,
+      "sha256": "711d4de1ed157a890bee9cad5364139f6fa18ce99ca46d6a850d70e708c5287e"
+    },
+    {
+      "path": "timeline_reader.py",
+      "bytes": 3876,
+      "sha256": "c405ce945e56f1b1be52ea7df3078cc1e760086fab39333d69447bafc10d055d"
+    },
+    {
+      "path": "test_timeline_reader.py",
+      "bytes": 2672,
+      "sha256": "8a0ee9cb0aa0f146ceb1311827e676b3ff960ced3e4609a4b5c80303edecd1a6"
+    },
+    {
+      "path": "reader_test_receipt.json",
+      "bytes": 669,
+      "sha256": "c2ba0f4819978d784a7dd4874854ce6b0dd18609f18a1dfffbfe3f6eeba4a86d"
+    },
+    {
+      "path": "pair_status_by_source_id.jsonl",
+      "bytes": 489621,
+      "sha256": "d9b9050c56f7e842d876cae1f75dccfe44c107626623f3eb67bc18fa68925705"
+    },
+    {
+      "path": "unlinked_audio_assets.jsonl",
+      "bytes": 65713,
+      "sha256": "633d1498e6a0c45baa7f2eae87856b67bff59fc73373a123d9b926817f23acce"
+    },
+    {
+      "path": "clock_evidence_comparison.json",
+      "bytes": 36387,
+      "sha256": "037e146ff6e5f76a057c152bccfb1f11a88934edcbfd6b6b2e3e22e92f098c60"
+    },
+    {
+      "path": "oss_header_evidence.json",
+      "bytes": 1121,
+      "sha256": "f716a31f1053c150caf610ce0ba1b14336a237886d80a7f10095056c277f6531"
+    },
+    {
+      "path": "source_show_validation.json",
+      "bytes": 279,
+      "sha256": "0dfdf52e72d27f573c95add39b695230eb78ea72d423fd9ee6ccc00b4a91a47a"
+    },
+    {
+      "path": "primary_member_binding_scan.json",
+      "bytes": 3994079,
+      "sha256": "0a8aa0910c42d2039222daf8814d6cd4c8631103495fdee0de8d3b56d7ebfb96"
+    },
+    {
+      "path": "project_audio_guid_search.json",
+      "bytes": 702,
+      "sha256": "693095ed64224bacd0edada9d44c926ec0e6048bd760891aaf8bd44f0e3ceb0a"
+    },
+    {
+      "path": "project_xml_source_receipt.json",
+      "bytes": 209,
+      "sha256": "76ea6c1bdce7d03a9848ede85b4303043124e5b55c690c9b61928516dcab07e5"
+    },
+    {
+      "path": "resource_search_summary.json",
+      "bytes": 5897,
+      "sha256": "026ee7a492b45d42c6779d08cb671b43317d32d203939e9593f4a3062bdd5dd1"
+    },
+    {
+      "path": "build_timeline.py",
+      "bytes": 4279,
+      "sha256": "e5ef3258429661c69f32ceb6e4c9a92e9f7aef75c5f7f0108cfdc0a7e96fa6e0"
+    },
+    {
+      "path": "build_pair_status.py",
+      "bytes": 2337,
+      "sha256": "d09415d60ad462ba2f63deaba282ae75aca450335663da11521e63f23b8fee07"
+    }
+  ],
+  "payload_bytes": 4655649,
+  "source_ID_coverage": 517,
+  "verified_audio_assets_preserved": 192,
+  "authored_show_blocks": 6,
+  "record_to_show_exact_provenance_matches": 4,
+  "certified_ready_pairs": 0,
+  "reader_tests_passed": 16,
+  "immutable_prior_component_manifests": {
+    "music_manifest.json": "a3f437e3afbbfffa4df96fb70e6144ae90d5599e6b93023b1a6391fc39d6c122",
+    "music_manifest_v2.json": "7101d7b6245f58631cff79a9d877d61064617105e7f3b5eb673d7bb1cd6f943a",
+    "audio_verification_v3/audio_manifest_v3.json": "0bb377f74a54f0f1599aea57ffd073152e7253087d36f92d06f3adbadaa0f916"
+  },
+  "operational_API": "timeline_reader.load(expected_timeline_sha256), map_local_time, map_show_time, map_frame_nominal; unsupported offsets/solo fail closed",
+  "exclude_from_packaging": [
+    "source_show.xml",
+    "read_show.py",
+    "read_oss_header.py",
+    "scan_binding_members.py",
+    "__pycache__"
+  ],
+  "scope": "Source fields and exact authored interval arithmetic; unit-rate audio positions and60fps frame times remain explicitly candidates. No identity forced by names,duration,order,lag optimization or audio-content inference."
+}

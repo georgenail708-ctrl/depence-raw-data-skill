@@ -1,0 +1,94 @@
+{
+ "path": "D:\\fountain-prep\\midi\\094_long term project.2wav.wav.mid",
+ "name": "094_long term project.2wav.wav.mid",
+ "duration_s": 8.19,
+ "tracks": [
+  {
+   "name": "",
+   "program": [
+    0,
+    4
+   ],
+   "notes": 17,
+   "span": [
+    0.557,
+    8.132
+   ]
+  }
+ ],
+ "track_count": 1,
+ "notes": 17,
+ "note_density_per_s": 2.08,
+ "pitch_range": [
+  38,
+  67
+ ],
+ "pitch_class_top": {
+  "D": 13,
+  "F#": 2,
+  "G": 1,
+  "D#": 1
+ },
+ "grid_1s": [
+  {
+   "t": 0.0,
+   "onsets": 3,
+   "sounding": 3,
+   "pitch_mean": 42.0
+  },
+  {
+   "t": 1.0,
+   "onsets": 2,
+   "sounding": 4,
+   "pitch_mean": 47.0
+  },
+  {
+   "t": 2.0,
+   "onsets": 3,
+   "sounding": 6,
+   "pitch_mean": 46.0
+  },
+  {
+   "t": 3.0,
+   "onsets": 1,
+   "sounding": 3,
+   "pitch_mean": 51.3
+  },
+  {
+   "t": 4.0,
+   "onsets": 5,
+   "sounding": 6,
+   "pitch_mean": 53.7
+  },
+  {
+   "t": 5.0,
+   "onsets": 1,
+   "sounding": 4,
+   "pitch_mean": 54.2
+  },
+  {
+   "t": 6.0,
+   "onsets": 0,
+   "sounding": 2,
+   "pitch_mean": 44.0
+  },
+  {
+   "t": 7.0,
+   "onsets": 2,
+   "sounding": 4,
+   "pitch_mean": 53.0
+  },
+  {
+   "t": 8.0,
+   "onsets": 0,
+   "sounding": 3,
+   "pitch_mean": 50.0
+  }
+ ],
+ "boundary_candidates": [
+  {
+   "t": 4.0,
+   "diff": 0.429
+  }
+ ]
+}

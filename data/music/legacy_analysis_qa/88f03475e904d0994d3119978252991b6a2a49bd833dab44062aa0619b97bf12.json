@@ -1,0 +1,19 @@
+{
+ "song_id": "tothemoon_blk2_43s",
+ "frame_count": 1346,
+ "duration_s": 22.433333333333334,
+ "families": {
+  "led": 13758,
+  "pump_or_water_switch": 792
+ },
+ "pump_channels": 792,
+ "notes": 293,
+ "onset_coverage": 0.604,
+ "accent_notes": 88,
+ "accent_coverage": 0.614,
+ "best_shift_s": 0.25,
+ "coverage_at_best_shift": 0.631,
+ "leading_bursts_0_2p6s": 2,
+ "bursts_total": 75,
+ "leading_ratio": 0.027
+}
