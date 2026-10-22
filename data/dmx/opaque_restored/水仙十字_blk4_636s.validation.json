@@ -1,0 +1,21 @@
+{
+  "song_id": "水仙十字_blk4_636s",
+  "layer": "rendered_output_raw_variant",
+  "decoding_status": "OPAQUE; no DMX frame interpretation",
+  "source": {
+    "name": "03_样例源文件_水仙十字/正式节目-2026-10-8-19-23-21.oss",
+    "size": 3110346,
+    "crc32": "73b43f7b",
+    "sha256": "bb7c80a6a3eef54bf88b3ac2bb5812a764c713d3cbe1b4781aad0fa1360fee09",
+    "whole_archive_sha256_verified": false
+  },
+  "records": 5613,
+  "empty_payload_records": 2379,
+  "nonempty_divisible8_records": 309,
+  "payload_bytes": 2930522,
+  "source_reconstruction_sha256": "bb7c80a6a3eef54bf88b3ac2bb5812a764c713d3cbe1b4781aad0fa1360fee09",
+  "source_reconstruction_byte_count": 3110346,
+  "source_reconstruction_exact": true,
+  "output": "水仙十字_blk4_636s.opaque_complete.npz",
+  "output_sha256": "8581cae92f918245517de9b3029ed170142c038b2af1fa36a3e93ff8571420fd"
+}

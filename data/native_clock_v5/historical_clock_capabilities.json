@@ -1,0 +1,1586 @@
+{
+  "schema": "depence.historical_base_clock_capabilities.v5",
+  "rows": [
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "306a1377-1291-43d1-8c82-a159aa2ff353",
+      "start_time": 61.47965090038519,
+      "duration": 4.125,
+      "playback_rate": 1.0,
+      "source_duration": 4.125,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        4.125
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "d0843b19-ad28-4984-8143-775c5cc00b98",
+      "start_time": 61.85624007748093,
+      "duration": 4.325,
+      "playback_rate": 1.0,
+      "source_duration": 4.325,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        4.325
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "b189ab72-4e7d-4012-8827-6270ca8adb79",
+      "start_time": 40.32752964460289,
+      "duration": 5.875,
+      "playback_rate": 1.0,
+      "source_duration": 5.875,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        5.875
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "08a77c11-6ec4-4154-9447-91afec3a2216",
+      "start_time": 36.33703701854667,
+      "duration": 2.828925521714195,
+      "playback_rate": 1.0,
+      "source_duration": 3.725,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        2.121694141285646
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "53751289-4368-4b8d-8e7c-73d94d813b47",
+      "start_time": 43.399255002396295,
+      "duration": 4.0,
+      "playback_rate": 1.0,
+      "source_duration": 4.0,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        3.0
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "9061732b-b393-4cfe-b444-158ffc6515e4",
+      "start_time": 33.38658620119469,
+      "duration": 4.5738492378323485,
+      "playback_rate": 0.75,
+      "source_duration": 3.4303869283742614,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": false,
+      "safe_local_interval": [
+        0.0,
+        3.4303869283742614
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "9572a64a-1baf-49fb-9034-d8d48b1873cc",
+      "start_time": 46.98962467617345,
+      "duration": 5.944430637093323,
+      "playback_rate": 1.0,
+      "source_duration": 4.425000000000001,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        5.944430637093323
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "ce9d3284-928a-4dc1-a577-590edbe1d1d8",
+      "start_time": 7.868480084947553,
+      "duration": 6.125000000000001,
+      "playback_rate": 1.0,
+      "source_duration": 6.125000000000001,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        6.125000000000001
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "460a928a-9ec0-49cc-80af-217c11288519",
+      "start_time": 19.432674381934874,
+      "duration": 1.913202496340034,
+      "playback_rate": 1.0,
+      "source_duration": 1.913202496340034,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        1.4349018722550255
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "9a1c5f7c-0490-412e-b50c-0faeb6270fc3",
+      "start_time": 28.697123337819068,
+      "duration": 5.023951429032355,
+      "playback_rate": 1.0,
+      "source_duration": 5.023951429032355,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        3.767963571774266
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "d6c366c6-6840-49ce-8517-616c6a91a8ee",
+      "start_time": 37.790967127705706,
+      "duration": 4.6000000000000005,
+      "playback_rate": 1.0,
+      "source_duration": 4.6000000000000005,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        4.6000000000000005
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "3db893af-9a7d-4da6-9dd5-f073af7593de",
+      "start_time": 9.064028136236775,
+      "duration": 4.608596286675219,
+      "playback_rate": 0.4218161638056738,
+      "source_duration": 1.9439804061744144,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": false,
+      "safe_local_interval": [
+        0.0,
+        4.608596286675219
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "04265a75-637e-4ba1-9a1b-17fde2ce1a25",
+      "start_time": 21.35829695914145,
+      "duration": 3.423441617880691,
+      "playback_rate": 1.0,
+      "source_duration": 3.423441617880691,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        3.423441617880691
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "38493a85-55b7-423f-987b-400ea1d65ed8",
+      "start_time": 29.281635947415538,
+      "duration": 11.847380985227048,
+      "playback_rate": 1.0,
+      "source_duration": 4.125,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        8.885535738920286
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "df1ab5e7-81b4-4448-b367-e8e8bd040db4",
+      "start_time": 4.930747216167454,
+      "duration": 6.082424948212683,
+      "playback_rate": 1.0,
+      "source_duration": 6.082424948212683,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        6.082424948212683
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "ee9a7cc3-d9d3-476b-be41-26545cf20016",
+      "start_time": 14.102041673022713,
+      "duration": 4.990559723786359,
+      "playback_rate": 0.75,
+      "source_duration": 3.7429197928397695,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": false,
+      "safe_local_interval": [
+        0.0,
+        3.7429197928397695
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "820afa46-67b6-48ee-9b45-b8ad3303b01b",
+      "start_time": 33.61243115844878,
+      "duration": 7.115169511076994,
+      "playback_rate": 1.0,
+      "source_duration": 4.525,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        5.336377133307746
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "cbb53477-17db-4b3e-adde-a64ff7fd85af",
+      "start_time": 51.78203427084345,
+      "duration": 4.275,
+      "playback_rate": 1.0,
+      "source_duration": 4.275,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        3.2062500000000003
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "e8f8386a-eb9a-470f-b2bb-059f24c7ea64",
+      "start_time": 5.018017078400506,
+      "duration": 20.77783529822121,
+      "playback_rate": 1.0,
+      "source_duration": 5.300000000000001,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        20.77783529822121
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "5f791646-b560-46b2-80d2-2187ecb90374",
+      "start_time": 62.65599184054937,
+      "duration": 18.352474485669653,
+      "playback_rate": 1.0,
+      "source_duration": 18.352474485669653,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        18.352474485669653
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "f1d9c007-c692-4f98-8c77-7c940aa76719",
+      "start_time": 81.25552573890332,
+      "duration": 23.891874281828276,
+      "playback_rate": 1.0,
+      "source_duration": 23.891874281828276,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        23.891874281828276
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "77f043cc-5968-4f7f-9f40-fe903672fd96",
+      "start_time": 57.790961305261895,
+      "duration": 3.5913995205940736,
+      "playback_rate": 1.0,
+      "source_duration": 3.5913995205940736,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        3.5913995205940736
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "c66280b6-2c39-4a80-8bca-e0ef56a12c19",
+      "start_time": 60.342579232767974,
+      "duration": 2.872616943615995,
+      "playback_rate": 1.0,
+      "source_duration": 2.872616943615995,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        2.872616943615995
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "f188910d-4d1f-4a9f-956a-43af7bbc7d59",
+      "start_time": 74.56520404815468,
+      "duration": 7.689965795021465,
+      "playback_rate": 1.0,
+      "source_duration": 7.689965795021465,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        7.689965795021465
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "d613ed58-59a1-448d-b8b3-1c7d4553e1b9",
+      "start_time": 53.381766080916094,
+      "duration": 4.048694985877276,
+      "playback_rate": 1.0,
+      "source_duration": 4.048694985877276,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        4.048694985877276
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "0f8c87fb-ed95-4ed7-85a2-db772dd654c4",
+      "start_time": 82.25516984317615,
+      "duration": 19.224914487553704,
+      "playback_rate": 1.0,
+      "source_duration": 19.224914487553704,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        19.224914487553704
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "8989038d-abbd-4648-9434-8682f3b4d898",
+      "start_time": 55.627959874450745,
+      "duration": 5.185657276431847,
+      "playback_rate": 1.0,
+      "source_duration": 5.185657276431847,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        5.185657276431847
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "05f90436-01e5-41f2-b601-007b85aa0b4e",
+      "start_time": 0.0,
+      "duration": 29.628118228121256,
+      "playback_rate": 1.0,
+      "source_duration": 29.409943572538626,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        29.628118228121256
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "7d8f5ff1-46bc-430d-be5a-be7c60749170",
+      "start_time": 65.09006762214607,
+      "duration": 9.61245724377686,
+      "playback_rate": 1.0,
+      "source_duration": 9.61245724377686,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        9.61245724377686
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "1f0e9622-e9a7-45c4-9bb7-3a77b50bfa8a",
+      "start_time": 100.58749901523628,
+      "duration": 10.848344603691018,
+      "playback_rate": 1.0,
+      "source_duration": 10.848344603691018,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        10.848344603691018
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "21bf8fe4-f558-4903-bd96-9c93e19fb172",
+      "start_time": 29.254797730532005,
+      "duration": 23.41044916871909,
+      "playback_rate": 1.0,
+      "source_duration": 23.41044916871909,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        23.41044916871909
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "2ba535dd-1dcf-4ceb-8b3b-21f7ca0a123a",
+      "start_time": 47.0338504011688,
+      "duration": 25.7,
+      "playback_rate": 1.0,
+      "source_duration": 25.7,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        25.7
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "e7635208-2dc4-4733-be8d-5278fa3f8ec8",
+      "start_time": 23.281490233795424,
+      "duration": 24.756916665536338,
+      "playback_rate": 1.0,
+      "source_duration": 24.756916665536338,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        24.756916665536338
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "b550c130-921e-4e6f-833f-1a7db36ec5a1",
+      "start_time": 58.652609584415586,
+      "duration": 14.175,
+      "playback_rate": 1.0,
+      "source_duration": 14.175,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        14.175
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "6f2d1bbd-697e-470f-9c18-92c83e3c2fc4",
+      "start_time": 99.07195121901265,
+      "duration": 24.2,
+      "playback_rate": 1.0,
+      "source_duration": 24.2,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        24.2
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "f0510921-9de1-481f-b292-5995ee95d099",
+      "start_time": 127.72725586898869,
+      "duration": 22.90994609652799,
+      "playback_rate": 1.0,
+      "source_duration": 22.90994609652799,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        22.90994609652799
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "a96f51f8-60ab-492a-b6d9-248fb6081f7f",
+      "start_time": 0.0,
+      "duration": 23.8,
+      "playback_rate": 1.0,
+      "source_duration": 23.8,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        23.8
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "c8235617-2bfa-4d74-8518-4e4d9cfa4219",
+      "start_time": 72.37958358558835,
+      "duration": 23.8,
+      "playback_rate": 1.0,
+      "source_duration": 23.8,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        23.8
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "00567a33-659e-4dac-a1a4-4223f8f2c62e",
+      "start_time": 150.6404816561737,
+      "duration": 26.55700215219653,
+      "playback_rate": 0.75,
+      "source_duration": 19.9177516141474,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": false,
+      "safe_local_interval": [
+        0.0,
+        26.55700215219653
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "0540d65e-e8b4-4df3-9977-330465876ba6",
+      "start_time": 181.68489779046408,
+      "duration": 12.81346112941143,
+      "playback_rate": 1.0,
+      "source_duration": 12.81346112941143,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        12.81346112941143
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "038855fc-0cf4-41e4-af36-253f258214df",
+      "start_time": 59.00316498712659,
+      "duration": 2.225,
+      "playback_rate": 1.0,
+      "source_duration": 2.225,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        1.6687500000000002
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "d9dccf8c-ec7b-4ab4-b20b-b6b2bf8e3afe",
+      "start_time": 59.69182156777802,
+      "duration": 3.025,
+      "playback_rate": 1.0,
+      "source_duration": 3.025,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        2.26875
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "5ba6ff85-92f4-49ed-84a3-4615bbe602cd",
+      "start_time": 65.80274320711806,
+      "duration": 5.925,
+      "playback_rate": 1.0,
+      "source_duration": 5.925,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        5.925
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "595b5e1f-3d78-4a6e-9067-d733b58d78ce",
+      "start_time": 122.62224454026183,
+      "duration": 4.925,
+      "playback_rate": 1.0,
+      "source_duration": 4.925,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        3.6937499999999996
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "cefec294-fe73-46df-abb1-e1716e996535",
+      "start_time": 126.56302601467564,
+      "duration": 2.375,
+      "playback_rate": 1.0,
+      "source_duration": 2.375,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        1.78125
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "7f25fe13-3b5e-48d3-b1e2-363fd503902d",
+      "start_time": 133.58049988322736,
+      "duration": 6.425,
+      "playback_rate": 1.0,
+      "source_duration": 6.425,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        4.81875
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "a239b31e-aa7a-4f0b-a182-102ae5273b18",
+      "start_time": 149.7492542363949,
+      "duration": 2.3,
+      "playback_rate": 1.0,
+      "source_duration": 2.3,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        1.7249999999999999
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "a3e8e79a-1682-4eae-a01a-37c3a44798b6",
+      "start_time": 47.622859602025876,
+      "duration": 4.707224217216023,
+      "playback_rate": 1.0,
+      "source_duration": 4.707224217216023,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        3.5304181629120173
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "94e08094-de1b-43a3-a948-7596f4c37f1c",
+      "start_time": 52.46661684856094,
+      "duration": 1.1716611459252206,
+      "playback_rate": 1.0,
+      "source_duration": 1.1716611459252206,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        0.8787458594439155
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "bf69f97d-54d7-4c2b-9dca-ce991984f7d6",
+      "start_time": 53.874305898486156,
+      "duration": 1.9675064525914152,
+      "playback_rate": 1.0,
+      "source_duration": 1.9675064525914152,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        1.4756298394435614
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "d4381eb3-1f3f-4ad0-acba-e6b370727d01",
+      "start_time": 55.84181235107757,
+      "duration": 5.683115371108758,
+      "playback_rate": 1.0,
+      "source_duration": 3.912906091108759,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        4.262336528331568
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "6e2d65c8-6a84-4338-b3e2-b5f58f59e338",
+      "start_time": 61.584272838302866,
+      "duration": 4.95,
+      "playback_rate": 1.0,
+      "source_duration": 4.95,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        3.7125000000000004
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "3bed2dac-5413-42c2-8af2-6269897414c5",
+      "start_time": 99.52453116966115,
+      "duration": 3.390625142838175,
+      "playback_rate": 1.0,
+      "source_duration": 3.390625142838175,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        2.5429688571286313
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "34a9720b-5892-4014-a863-3cc701911409",
+      "start_time": 102.37757396114372,
+      "duration": 3.1878046981913,
+      "playback_rate": 1.0,
+      "source_duration": 3.1878046981913,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        2.390853523643475
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "55eb5afb-77f5-43fb-a453-9ad4395ce8df",
+      "start_time": 105.56537865933502,
+      "duration": 3.0150747043785344,
+      "playback_rate": 1.0,
+      "source_duration": 3.0150747043785344,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        2.261306028283901
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "e48651ca-60ba-49b9-9232-fa1c304bff0e",
+      "start_time": 108.58045336371356,
+      "duration": 2.3604446383416047,
+      "playback_rate": 1.0,
+      "source_duration": 2.3604446383416047,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        1.7703334787562035
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "aaa7086e-2dd1-4a5a-9550-19af0faf5a85",
+      "start_time": 110.94089800205516,
+      "duration": 13.75890756296485,
+      "playback_rate": 1.0,
+      "source_duration": 13.75890756296485,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        10.319180672223638
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "sequential_requires_full_branch_context",
+      "clip_id": "a93e080c-0984-402c-8721-5e77c23760a3",
+      "start_time": 128.4789466529076,
+      "duration": 6.69658951258159,
+      "playback_rate": 1.0,
+      "source_duration": 10.375,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "sequential",
+      "resize_cycle": true,
+      "safe_local_interval": null,
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "c69223ce-a59b-4e1d-bd66-265ee862c8a4",
+      "start_time": 148.57803408432557,
+      "duration": 2.7,
+      "playback_rate": 1.0,
+      "source_duration": 2.7,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        2.0250000000000004
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "0d826a81-05be-4c56-8587-7e4b1fa9bb84",
+      "start_time": 47.814440647811296,
+      "duration": 23.80475636355899,
+      "playback_rate": 1.0,
+      "source_duration": 11.975,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        23.80475636355899
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "d5d00ccd-ad11-41bd-b79a-3d08cdfca4c9",
+      "start_time": 98.6417275781758,
+      "duration": 6.35,
+      "playback_rate": 1.0,
+      "source_duration": 6.35,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        4.762499999999999
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "84011ece-3c22-4b7b-9347-a56fe484e7ca",
+      "start_time": 126.35601475515605,
+      "duration": 3.778257368156119,
+      "playback_rate": 1.0,
+      "source_duration": 3.778257368156119,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        2.833693026117089
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "a086df27-9e24-4075-af59-3039ad4e18ed",
+      "start_time": 133.73618528250455,
+      "duration": 5.625,
+      "playback_rate": 1.0,
+      "source_duration": 5.625,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        4.21875
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "0f4b3273-3086-4488-b425-d42929ffaa8e",
+      "start_time": 140.06952347423433,
+      "duration": 10.975,
+      "playback_rate": 1.0,
+      "source_duration": 10.975,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        10.975
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "3cd2f315-4f2d-431d-a744-e68cbfdf979e",
+      "start_time": 173.28859769542953,
+      "duration": 3.625,
+      "playback_rate": 1.0,
+      "source_duration": 3.625,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        2.71875
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "4c8de3c9-6a03-4ec2-b6d5-6ebb8b326b87",
+      "start_time": 22.70793060991204,
+      "duration": 25.964844960337672,
+      "playback_rate": 1.0,
+      "source_duration": 25.964844960337672,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        25.964844960337672
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "9cf436e5-8452-4d24-989c-b737f3697f1a",
+      "start_time": 71.64430829471232,
+      "duration": 31.57959642999739,
+      "playback_rate": 1.0,
+      "source_duration": 32.325,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        31.57959642999739
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_safe_interior_only",
+      "clip_id": "0b98f963-bc52-4f93-9824-e44162181833",
+      "start_time": 138.39287140229905,
+      "duration": 5.225,
+      "playback_rate": 1.0,
+      "source_duration": 5.225,
+      "run_mode": "normal",
+      "hold_mode": "last_frame",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        3.9187499999999997
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [
+        "observed timer interval",
+        "hold boundary latch",
+        "consumed and covered channel masks"
+      ],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "6c64ce46-7eb3-484e-80df-5b74769f4f95",
+      "start_time": 149.02510139273363,
+      "duration": 27.575,
+      "playback_rate": 1.0,
+      "source_duration": 27.575,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        27.575
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "bdd1513c-f9e4-4fad-9f5d-bc9daf0a1c77",
+      "start_time": 22.88991811016557,
+      "duration": 13.1,
+      "playback_rate": 1.0,
+      "source_duration": 13.1,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        13.1
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "de4e6843-5991-4288-a74c-8c0083a5b996",
+      "start_time": 69.44941560807993,
+      "duration": 30.10385258431019,
+      "playback_rate": 1.0,
+      "source_duration": 30.10385258431019,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        30.10385258431019
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "187609e7-3d1f-4dd9-a980-9ffdf11cafec",
+      "start_time": 149.22906564492808,
+      "duration": 44.7,
+      "playback_rate": 1.0,
+      "source_duration": 44.7,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        44.7
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "base_clock_support": "base_clock_full_authored_interval",
+      "clip_id": "1a4dd492-0ad7-4a3e-a502-34d7fc582b39",
+      "start_time": 32.633984123932414,
+      "duration": 17.3,
+      "playback_rate": 1.0,
+      "source_duration": 17.3,
+      "run_mode": "normal",
+      "hold_mode": "none",
+      "sequence_mode": "parallel",
+      "resize_cycle": true,
+      "safe_local_interval": [
+        0.0,
+        17.3
+      ],
+      "safe_interval_end_exclusive": true,
+      "hold_edge_requirements": [],
+      "final_output_or_audio_pair_certified": false
+    }
+  ]
+}

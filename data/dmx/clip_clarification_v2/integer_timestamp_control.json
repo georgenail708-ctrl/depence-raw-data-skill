@@ -1,0 +1,31 @@
+{
+  "type": "synthetic illustration only",
+  "timestamps_from_user_example": [
+    0.0,
+    0.075,
+    0.1,
+    0.125
+  ],
+  "synthetic_universe_map": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "synthetic_values": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "integer_indices": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "resulting_values": [
+    4
+  ],
+  "conclusion": "int(ts) is many-to-one for fractional timestamps. This does not establish that these four timestamps/values occurred together in an uploaded original DMXT."
+}

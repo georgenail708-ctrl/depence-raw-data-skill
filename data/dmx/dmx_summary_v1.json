@@ -1,0 +1,23 @@
+{
+  "version": "v1",
+  "all_sources": 517,
+  "provisional_retained_plus_reinstated": 212,
+  "selection_note": "Identity remains subject to registry/context/music reconciliation; 305 matching NPZ pairs do not establish whole-song identity.",
+  "acceptance_counts": {
+    "corrected_raw_delta_reconstruction": 24,
+    "supplied_dense_matches_supplied_raw_deltas_source_authenticity_separate": 15,
+    "integer-time-repacked_clip_arrays_native_sample_fidelity_unverified": 9,
+    "unverified_dense_no_supplied_raw_or_source": 8,
+    "complete_opaque_source_preserved_NOT_decoded_frames": 2,
+    "opaque_filtered_payload_only_source_completeness_unverified": 2,
+    "saved_facts_only_placeholder_NOT_output_frames": 138,
+    "derived_approximation_NOT_recorded_output": 14
+  },
+  "corrected_ids": 24,
+  "sample_oss_count": 26,
+  "sample_structure": "All26 parse at exact boundaries, NORM markers, prev-size links, contiguous increasing frame indices, and valid tail marker/last-frame.",
+  "source_scope": "Only supplied sample OSS checked. No absent archive authenticity inferred.",
+  "unknown_contract": "Before first write and never-written channels are UNKNOWN, not zero.",
+  "supplied_script_execution": false,
+  "frozen_manifest_sha256": "c6835873e0d1c8709ee7fa06c912921dd7b18fdd52d6030f5c7e7303f1398d2c"
+}

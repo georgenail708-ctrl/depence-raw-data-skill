@@ -1,0 +1,500 @@
+{
+  "files": [
+    {
+      "path": "/workspace/shared/depence_dmx_audit/actual_zero_repro.json",
+      "bytes": 5677,
+      "sha256": "f9a79766ec93bcfb2bed265ff5ea7ff67fb3149574d04b22108c1ff5d8bdbe3b"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/audit_npz.py",
+      "bytes": 9338,
+      "sha256": "6c7e28e1187456f5f464fc87cc2c28542e8aadd5d5a2ff9257d272565f219e37"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/audit_source_oss.py",
+      "bytes": 4714,
+      "sha256": "b74ecb47778070a590a968bb2a5d3186f6401fb3493815cf8089536bde82c6bb"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/glimmers_end.corrected.npz",
+      "bytes": 911623,
+      "sha256": "c59c93fab1f7b45322e87150dbc81ee6a9eff892f76358bad880f69401baee6d"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/glimmers_end.validation.json",
+      "bytes": 21564,
+      "sha256": "2cc6101a807689dd9f15ac449b7ee2a2a0cebd11a24b0c9741a4d9223af9c6c2"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk11_15s.corrected.npz",
+      "bytes": 11565,
+      "sha256": "5b6b22cb0eb18a2fb7f1f11d70dba8aed1275d0bcf7773d0cf24d88f603bd69b"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk11_15s.validation.json",
+      "bytes": 7775,
+      "sha256": "9a9e56ad1990c0b1a471617ccd0e55ca8e4d7a0a5fa461cf282e574ae3734454"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk1_84s.corrected.npz",
+      "bytes": 51250,
+      "sha256": "259fe4d031f9e4fbf98fecbaf0ebb5180e1ea096a835b630178375b39505e834"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk1_84s.validation.json",
+      "bytes": 7724,
+      "sha256": "e965aaaf5400fa62f95d866f40de4a7b1cf067dc6e782740f4fd3084d66bb24f"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk1_87s.corrected.npz",
+      "bytes": 49845,
+      "sha256": "e2406d326eabdf19a7f46efe78bdd9f9f6c2d3944bf5e6c01029b23d665d0ad4"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk1_87s.validation.json",
+      "bytes": 7747,
+      "sha256": "2d6b6d8336b2865341c33bbcc9fcd3fb147b7ec0175d9c4085d6a8248da2cac3"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk2_121s.corrected.npz",
+      "bytes": 37296,
+      "sha256": "442daf9dc578c1295eb096a5a7f35b9e41103692590840d4c0c4946b8cca90b2"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk2_121s.validation.json",
+      "bytes": 7942,
+      "sha256": "1efbf631152bd528d528341f714b7a77d047c1d7bb6a8eca41f865d9d5f62426"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk2_28s.corrected.npz",
+      "bytes": 23145,
+      "sha256": "08e73ec3b11dd4ba104b850c35f3aa96fcfc7755cbff714bb4c8ae59d8a5db15"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk2_28s.validation.json",
+      "bytes": 8131,
+      "sha256": "c717c484f648909e5a1d1a93503fd71fe4d8486b604d617417cb06811dfcefe2"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk4_160s.corrected.npz",
+      "bytes": 19578,
+      "sha256": "2c3950b6e54ce68f99f14fa3e552bba118a63b798a968ebec8e58988636d5cdf"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk4_160s.validation.json",
+      "bytes": 8027,
+      "sha256": "609bafc7b9fc0cf64fc37b193a1283c6d22b12162d8e9f00cfc2fc820ae00db3"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk4_55s.corrected.npz",
+      "bytes": 21536,
+      "sha256": "33372d9e3267139056ddbdcd05ac6f2efb29b84bbe76d544255058ad2cab76fc"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk4_55s.validation.json",
+      "bytes": 8082,
+      "sha256": "6f7c17516355b47f371f1f859df5092408548ab62ba8469a219f68face1c59f8"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk5_173s.corrected.npz",
+      "bytes": 35346,
+      "sha256": "1697ab046671e917c3a26c5f60edb8176adc82be9e716d3169e53bac8c56c6cf"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk5_173s.validation.json",
+      "bytes": 8006,
+      "sha256": "9c77205d3f7a257110e02132594577f7b8d23b9a92fdc67037c47884e8571700"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk5_177s.corrected.npz",
+      "bytes": 73754,
+      "sha256": "6854208705ff7b8dca8d97ce4905e000a6d28a96c51e4c65a615df20ca1963fc"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk5_177s.validation.json",
+      "bytes": 7706,
+      "sha256": "a40a4041477ce932eb9da63b447dddaac82cba35de936e2fcf79a721f5cc4aa6"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk7_208s.corrected.npz",
+      "bytes": 32148,
+      "sha256": "5c69796e79873a0dd96125b607dfccae7850eb7b0170b7a2ffd84f086aa70b65"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk7_208s.validation.json",
+      "bytes": 7702,
+      "sha256": "bd6e778e21ce7f993cee15fa86fb753ab903333d32ef19a10bcef3db33565ad1"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk8_118s.corrected.npz",
+      "bytes": 30476,
+      "sha256": "96fb7b1768a6bc878150bd182906e591c9b9895fe82c6d69e0b80fd110246bc3"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk8_118s.validation.json",
+      "bytes": 8409,
+      "sha256": "6f00b61d04ee485241a046a3270c9984d61a89029883d0869d1dad6bb3cdbc06"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk9_145s.corrected.npz",
+      "bytes": 45670,
+      "sha256": "33fcd572d158de2a946b723769273020241e85e5fbe548521a79559695e27002"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/pengquan124_blk9_145s.validation.json",
+      "bytes": 8392,
+      "sha256": "23a99d86030967698c78b818662107d5cc4f6bbfa3b9ddbc897aface975f02bb"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk0_0s.corrected.npz",
+      "bytes": 3727794,
+      "sha256": "86ce752c2af02fea76fc4d7c933e6c64f3fe29aaacc6da5790eac096f85aadcf"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk0_0s.validation.json",
+      "bytes": 143819,
+      "sha256": "92205f6d0a4d47f9ab155b1871c4167fdf44797f97ea7f5ef1ba1c4c77d15a96"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk0_21s.corrected.npz",
+      "bytes": 1380289,
+      "sha256": "7be1d9e55508767d5823f89a2a2549d138a4bf977108f94978426aea8a53fb6e"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk0_21s.validation.json",
+      "bytes": 157210,
+      "sha256": "1872bcebae53328fd3ce4cfcac6c49e903717defbd6d1f7c4265458a195981cf"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk1_0s.corrected.npz",
+      "bytes": 451257,
+      "sha256": "d3699fb99518e5ec2a8c8ff64453d8a418056494184385048efb0a376484c231"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk1_0s.validation.json",
+      "bytes": 81351,
+      "sha256": "4760dc57cbf9702cbca878ad165d7dfc05188b1c5a0efd2894cea8e2d4110a4b"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk2_43s.corrected.npz",
+      "bytes": 890218,
+      "sha256": "a2291281ff87b18037a0e4a96bf92808de41e5609d9aca604408c0f6fec190ea"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk2_43s.validation.json",
+      "bytes": 213940,
+      "sha256": "11e65e4f455b8434923d0d79e2106012312a573495fc2cad67b47e50db5fca36"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk5_97s.corrected.npz",
+      "bytes": 283446,
+      "sha256": "c9e997da8a7988efe368fda17e643c3fb06b476d3d5df4abc914176d447bce81"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk5_97s.validation.json",
+      "bytes": 81505,
+      "sha256": "df2332001960f7eb058e370722e969654f917ae712a9ea30ed2f2c3e41b58954"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk6_112s.corrected.npz",
+      "bytes": 826000,
+      "sha256": "085c7440267d25ca5b02533bc917acdae5f70b3d4bac6a83e2b3c8ce57f54146"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/tothemoon_blk6_112s.validation.json",
+      "bytes": 81360,
+      "sha256": "f59a111ff652c0d0a68d84d01f5cb3d220211de36191790c73b5df84cf83f91e"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/卡通项目1_blk0_0s.corrected.npz",
+      "bytes": 591824,
+      "sha256": "18e2b6c80ae6cac77c7616af66b50d5137d99fa8ce9fe61caee4f2a3b66d8c69"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/卡通项目1_blk0_0s.validation.json",
+      "bytes": 19735,
+      "sha256": "5194be627e5631e7470de56d4322428e6b40718281d30125f971b93254a5f960"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/水仙十字_blk0_0s.corrected.npz",
+      "bytes": 911623,
+      "sha256": "c59c93fab1f7b45322e87150dbc81ee6a9eff892f76358bad880f69401baee6d"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/水仙十字_blk0_0s.validation.json",
+      "bytes": 21265,
+      "sha256": "3ec5659d543e30f73595c8d489394910bffafce54da25dfcab09159bab3aa1c8"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/水仙十字_blk1_119s.corrected.npz",
+      "bytes": 487494,
+      "sha256": "5b540f0272c266095a32db12fe6144c98ff5d350477b8a5feeb29562cd8cef52"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/水仙十字_blk1_119s.validation.json",
+      "bytes": 22115,
+      "sha256": "b11f241c99fdd8a7675aa7f68cf02cc70da5ce9ab2f7c397b1a5b8861124f635"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/水仙十字_blk2_240s.corrected.npz",
+      "bytes": 1101102,
+      "sha256": "aa49bcac69c714dd32c3c7ecb026bd02aa50464852e6101c324a46ea999067db"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/水仙十字_blk2_240s.validation.json",
+      "bytes": 20597,
+      "sha256": "52a9fd06170736538a4ee9fcb64a48e380c5bb37e59a4fec1d4aad8607be402e"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/水仙十字_blk3_438s.corrected.npz",
+      "bytes": 999003,
+      "sha256": "6bb3e1adc5fe1d21ae0ea4242471b67d1b92d1a8192c72b67fe41e9e96bd249e"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/corrected/水仙十字_blk3_438s.validation.json",
+      "bytes": 27638,
+      "sha256": "f39f03c95e8702dbdf6b4297980184971f7f5b80dcab1f90c1013f935456c05d"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/direct_zero_write.json",
+      "bytes": 510,
+      "sha256": "cf4c70e0d2403027b72eaf630aee8b0c092da1be014c8faa08d361b20d63ebc1"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/dmx_manifest_v1.jsonl",
+      "bytes": 1042793,
+      "sha256": "c6835873e0d1c8709ee7fa06c912921dd7b18fdd52d6030f5c7e7303f1398d2c"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/dmx_summary_v1.json",
+      "bytes": 1307,
+      "sha256": "5872a76c5350fadb3f939a20737e01c8296650217cfdec11e0c34074b2ed0ffa"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/duplicate_array_comparisons.json",
+      "bytes": 96748,
+      "sha256": "389b07cf69a7de2e3a336ad7a39477479de8deb27214b530a0dbee79f68bf374"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/false_dedup_evidence.json",
+      "bytes": 2459,
+      "sha256": "95e6c1051c98ab306a9c26c46d49f65625651f4b96252ebdfcf6729fd31ab56d"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/freeze_manifest.py",
+      "bytes": 5400,
+      "sha256": "61342675af8c569d7a32dfc174e30ecf31eb3317bb75d92474d7312d416e1d57"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/npz_audit.jsonl",
+      "bytes": 807718,
+      "sha256": "5e36134d11064aa4a4cb829a565d168e10364d2452af4af5324925373d244cb1"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/npz_audit_latest.jsonl",
+      "bytes": 741098,
+      "sha256": "5272413b69f788b2a20f79b43f60e67f308713a10c68df6789845c5212fb6817"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/npz_summary.json",
+      "bytes": 1068,
+      "sha256": "0693a1165c280580e084a98935f0af583507b768d4011e9bbe0d04c338645736"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/opaque_restored/水仙十字_blk4_636s.opaque_complete.npz",
+      "bytes": 735283,
+      "sha256": "8581cae92f918245517de9b3029ed170142c038b2af1fa36a3e93ff8571420fd"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/opaque_restored/水仙十字_blk4_636s.validation.json",
+      "bytes": 867,
+      "sha256": "21cb87e70d266c1d994b9635f18b3459d8daf1da6569fc61b002734d912c9f24"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/opaque_restored/水仙十字_blk5_727s.opaque_complete.npz",
+      "bytes": 2509366,
+      "sha256": "5216e6d05034ac2562ea4b0afa700cd1296dfee191e3459d3df883a08d18d238"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/opaque_restored/水仙十字_blk5_727s.validation.json",
+      "bytes": 868,
+      "sha256": "298b4175b0fd7499fa3c28386550a51024e3830645c673d5b43a4e194c5a2b78"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk10_176s.npz",
+      "bytes": 3003,
+      "sha256": "5034ed42159decd31d0ce3f776ca88dffa981c6bc3f96e1b0f4412935594a78b"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk10_176s.raw.npz",
+      "bytes": 1907,
+      "sha256": "6cd568adbf6020c9fbc330022da03e0f231933be19d5a461350da5e4f3f92d24"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk1_23s.npz",
+      "bytes": 5703,
+      "sha256": "bc452a400bc50abc64bacd11ddc1747153929acf106ed6efb34d3b0b701d87d7"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk1_23s.raw.npz",
+      "bytes": 2208,
+      "sha256": "c4d9ed3c723516680b989c8e9c3bd227fc780988dabd3ebb5761594fffbcd655"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk3_142s.npz",
+      "bytes": 13698,
+      "sha256": "6b0c1bd5993ca216239220eaee6215893a9c7feb40490fd9374bdccab4d3dbf1"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk3_142s.raw.npz",
+      "bytes": 3213,
+      "sha256": "c3d5be38162f988b7c8b30adeb223f60c04913d29a33ead7568a1c293a159e27"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk3_152s.npz",
+      "bytes": 7892,
+      "sha256": "cd3e8e3b14f8977b9bb81602c00d26af9f4943092d946d32804dd84b11a96172"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk3_152s.raw.npz",
+      "bytes": 2561,
+      "sha256": "644ec3971bea0ed43b55dfaabf2066dc547d6a3682814c7b0d05143400f73a89"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk3_43s.npz",
+      "bytes": 11486,
+      "sha256": "bf0b4af230f48262f435f9e73f434a4079044ed04f2b11598b694b7efba1603c"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk3_43s.raw.npz",
+      "bytes": 3077,
+      "sha256": "a99e87c8192cf883337a2ac622fe6257c29f67b54e099d8d883546497ce089e4"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk5_70s.npz",
+      "bytes": 11737,
+      "sha256": "9770e516e1f3b33306ba5d0a8e43cac0af4d83790deec156fc177549cb5018f7"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk5_70s.raw.npz",
+      "bytes": 3118,
+      "sha256": "606fcfd0ff539f281eea51ca1a4fdac0b4df8cc19a2a31cc979144e77c6171a6"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk6_194s.npz",
+      "bytes": 12659,
+      "sha256": "207bd950ebc589df2d7a985b0b391769804e4680f5e874e322a81f4f8d35d9c4"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk6_194s.raw.npz",
+      "bytes": 3188,
+      "sha256": "6a8cd29e88b7e5a3dc8d12ac2fa9916f92fffebab288e067b807ac7bf11ad64e"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk7_113s.npz",
+      "bytes": 5617,
+      "sha256": "91ef3106bfa8a4d7e33e6be79a02e0e78f0bb0e9bf46acf93251585cdeb22e7f"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/pengquan124_blk7_113s.raw.npz",
+      "bytes": 2316,
+      "sha256": "054df42304036b8093777c496bb4227bc8e525c194a6154e44a6cbf2d2af6fed"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/probe_zero.py",
+      "bytes": 3080,
+      "sha256": "c8f8c89c69557c5c09e9d5ecc56285265bfd43f97c1e4fd80fc77df3d7095a71"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/repair_all_owned.py",
+      "bytes": 5051,
+      "sha256": "b79e4182442f84004dd48bf3fed6088602066604435e3c44eded2101cf6ab7a1"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/repair_repro_owned.py",
+      "bytes": 3527,
+      "sha256": "44ec03b6909f9b48f206c7510d06c13dd6e21d7dfd47f408846bcb5682346897"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/repair_repro_validation.json",
+      "bytes": 1221,
+      "sha256": "dc60b6d6567ffe29b8a3175dc0946751ffdaec3305cda556dbc6a85d4b37aef0"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/repair_summary.json",
+      "bytes": 73,
+      "sha256": "81e6a5d70a7292eefe34339c936ae982360b2a94c5d300318c76628acb40e8a2"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/repro_corrected.npz",
+      "bytes": 30476,
+      "sha256": "96fb7b1768a6bc878150bd182906e591c9b9895fe82c6d69e0b80fd110246bc3"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/repro_primary.npz",
+      "bytes": 30472,
+      "sha256": "a1e127649d66588e7caaefd5841be9f99f9a5dc295a57c2623f96ae28a7b7f63"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/repro_raw.npz",
+      "bytes": 21994,
+      "sha256": "5057f18497281a4a6b1b5fa9dc1f4babd30fa95298441664b7a924f9e7e61eb1"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/restore_opaque_owned.py",
+      "bytes": 3441,
+      "sha256": "63f96831f05af4f0a389cc5a8b828cebd9b07825dcbe0823c27d2a070799e8e4"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/run_summary.json",
+      "bytes": 85,
+      "sha256": "ea7658e7240351d6b984f4baa6f681e1321b32273fd662ebb0d746a57d5f94f8"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/source_matches.json",
+      "bytes": 1351,
+      "sha256": "9317794a9d715f1de57b9f1421728bf96495203ed09349ee8cb04fec29ea08a9"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/source_oss_audit.jsonl",
+      "bytes": 44613,
+      "sha256": "6140d0f43a0e9f6535a2f7551376108451db7048c826bb05c82eb1cfc91451bd"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/summarize_npz.py",
+      "bytes": 2086,
+      "sha256": "bc7767f1c33d863ec8159d01f75f890e03ac545fba49cb7bae1c7ed6c11458d9"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/variant_array_validation.json",
+      "bytes": 781,
+      "sha256": "47d2671394f9f9b9b5bbcd1f3cd13a63d48465ecbf40733f040d728065a6af50"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/zero_probe.json",
+      "bytes": 12360,
+      "sha256": "7fbac546a16d3911e8b9829031e6d5208d39122be5068b82d8341788b33ff7e9"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/至冬城堡_blk0_0s.original.npz",
+      "bytes": 2240133,
+      "sha256": "2a948e7b312cbf4b4ceaa1f3514dc2f6582d53df338a4dd76f3816d309f85387"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/至冬城堡_blk0_0s.original.validation.json",
+      "bytes": 223,
+      "sha256": "8d18bb2187d5b64600725791a1a5d79e8f7b1cae70b444ceecb7358a642b44f8"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/至冬城堡_blk1_300s.original.npz",
+      "bytes": 1434332,
+      "sha256": "4faeab27f2104a7af47609430f92ccb5840e87612702124784f388f32bc7e852"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/至冬城堡_blk1_300s.original.validation.json",
+      "bytes": 225,
+      "sha256": "17efbc17450cc6dd21e107c1fe613ea58a9c787f59b71f06d9f4b6855423a170"
+    }
+  ],
+  "total_bytes": 23875145
+}

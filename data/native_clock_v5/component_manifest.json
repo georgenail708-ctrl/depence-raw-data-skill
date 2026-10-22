@@ -1,0 +1,82 @@
+{
+  "schema": "depence.native_clock_component.v5",
+  "created_utc": "2026-10-22T09:28:11.061519+00:00",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4090,
+      "sha256": "80413dfee9fc7032720e346a53fd57c54b83461e8c150feaf073d69ab176c008"
+    },
+    {
+      "path": "all_26_headers.json",
+      "bytes": 33175,
+      "sha256": "5abd0da07a2a32fab3324a8c3f5a0aa695c5aa570075c0989c83a2c145081bdf"
+    },
+    {
+      "path": "historical_clip_clock.py",
+      "bytes": 4771,
+      "sha256": "1c11b33ec9267be84c96aaeb1f9b95bc72be5ee4357cd5d04096608660ce8659"
+    },
+    {
+      "path": "historical_clock_capabilities.json",
+      "bytes": 51821,
+      "sha256": "20855a0789afd0231cc38eb3670782e1aa001727cdc0968c51532b5dc4b887f9"
+    },
+    {
+      "path": "historical_clock_test_receipt.json",
+      "bytes": 244,
+      "sha256": "d873f394a642ddec395dc733e2a7dcb3ecc2d85e31a0caae2008cccd6ea56e22"
+    },
+    {
+      "path": "historical_water_native_clips.json.gz",
+      "bytes": 1115144,
+      "sha256": "53a2ed7ed3011869a1591e160bd4a8b9629fefc226bc75c0b5569c7159e3b8a5"
+    },
+    {
+      "path": "native_clip_reader.py",
+      "bytes": 3506,
+      "sha256": "4fef68b908436312c42b21051221eb2d480ac3da1bdc5586687c9c6e6bd37dfd"
+    },
+    {
+      "path": "native_clock_proof_neutral.json",
+      "bytes": 13025,
+      "sha256": "825a9bb0bb34a8f9ae5d5f2a88da02817f9243c1b51690b9d9ba97506b56eddc"
+    },
+    {
+      "path": "native_reader_test_receipt.json",
+      "bytes": 324,
+      "sha256": "a809eb688111c8ff10d2ff2bbfe152cf5f8e42d30dc37c2e8459da8acdc1d7a5"
+    },
+    {
+      "path": "native_supplement_receipt.json",
+      "bytes": 584,
+      "sha256": "f15ef200a9170669fc376d2be06b3d0fd43adcac959dee7ccbaa8ea3be8d00d0"
+    },
+    {
+      "path": "old_dmxt_projection_comparison.json",
+      "bytes": 112339,
+      "sha256": "9590ab6b8a9449e1ad1cdf63d6854454464f26ea807098edf5c7c77874243497"
+    },
+    {
+      "path": "test_historical_clip_clock.py",
+      "bytes": 5917,
+      "sha256": "2328f3475b033d1839cb12842cb05cec195b2489d101388f084015af03d88017"
+    },
+    {
+      "path": "test_native_clip_reader.py",
+      "bytes": 4702,
+      "sha256": "e5cce4b497ae24327ad1416b5ee871f6fdc3686e47b962c270e058aaab6b522d"
+    }
+  ],
+  "total_bytes": 1349642,
+  "native_events_preserved": 54732,
+  "historical_clips": 73,
+  "current_native_identity_certified": false,
+  "audio_frame_pairs_certified": 0,
+  "native_reader_tests": 9,
+  "historical_base_clock_tests": 11,
+  "prior_v2_unchanged": true,
+  "delivery_whitelist_only": true,
+  "excluded_collection_and_build_scripts": 4,
+  "source_excerpts_embedded": false
+}

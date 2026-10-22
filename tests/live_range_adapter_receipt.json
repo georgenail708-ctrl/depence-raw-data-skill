@@ -1,0 +1,57 @@
+{
+  "name": "01_数据集_songs/a1_1035.analysis.json",
+  "bytes": 2352,
+  "crc32": "26a9a714",
+  "sha256": "f52148e00a90e594aa8d3e05eb7da3b1ac41efff37795fdb6262d7cc80c8dd7e",
+  "expected_member_sha256_checked": true,
+  "archive_verification": "historical_receipt_only; run verify for local parts",
+  "classification": "raw_source_bytes; contents not certified as accurate",
+  "source_pin": {
+    "id": "12TvpoeEcs1AWSDf6uChmjTGYls9h2_cM",
+    "title": "Depence原始数据交接_20261022.zip.000",
+    "mime_type": "application/x-zip",
+    "size": "209715200",
+    "url": null,
+    "file_or_folder": "file",
+    "created_time": "2026-10-22T06:22:52.254Z",
+    "modified_time": "2026-10-22T06:20:42.176Z",
+    "parent_ids": null,
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "ranges": [
+    {
+      "part": 0,
+      "start": 5706,
+      "bytes": 30,
+      "status": 206,
+      "strict_content_range_passed": true
+    },
+    {
+      "part": 0,
+      "start": 5736,
+      "bytes": 40,
+      "status": 206,
+      "strict_content_range_passed": true
+    },
+    {
+      "part": 0,
+      "start": 5776,
+      "bytes": 1080,
+      "status": 206,
+      "strict_content_range_passed": true
+    }
+  ],
+  "range_bytes": 1150,
+  "source_hashes": {
+    "scripts/range_source.py": "13b02464f95ced9f33bcd22e086a145042a17d52ad2ad5c1a42421d2a7ba6695",
+    "scripts/archive_reader.py": "b13d543826b6953739c5e0b712b4986a2987e88a4fba61472b6a88ed2b147af0",
+    "catalog/archive_parts.json": "ffabc1302678e06f088e6787d0b6683f8cfc3bb42ad27311344edaefe1893b36",
+    "catalog/archive_entries.json": "a935db39c988e46a3a44cb83d339c1f91ecc64288431a4b1115cde9b9587f5a7"
+  },
+  "grant_persisted": false
+}

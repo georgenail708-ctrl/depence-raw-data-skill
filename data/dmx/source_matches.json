@@ -1,0 +1,52 @@
+[
+  {
+    "id": "水仙十字_blk1_119s",
+    "kind": "raw_projection",
+    "sources": [
+      "03_样例源文件_水仙十字/正式节目-2026-10-9-14-45-28.oss"
+    ]
+  },
+  {
+    "id": "水仙十字_blk3_438s",
+    "kind": "raw_projection",
+    "sources": [
+      "03_样例源文件_水仙十字/正式节目-2026-10-9-15-7-57.oss"
+    ]
+  },
+  {
+    "id": "水仙十字_blk0_0s",
+    "kind": "raw_projection",
+    "sources": [
+      "03_样例源文件_水仙十字/正式节目-2026-10-9-14-39-52.oss"
+    ]
+  },
+  {
+    "id": "水仙十字_blk2_240s",
+    "kind": "raw_projection",
+    "sources": [
+      "03_样例源文件_水仙十字/正式节目-2026-10-9-14-56-23.oss"
+    ]
+  },
+  {
+    "id": "水仙十字_blk4_636s",
+    "kind": "variant_filtered_projection",
+    "sources": [
+      "03_样例源文件_水仙十字/正式节目-2026-10-8-19-23-21.oss"
+    ],
+    "total_records": 5613,
+    "preserved_variant_records": 2925,
+    "omitted_nonempty_records": 309,
+    "omitted_payload_bytes": 135872
+  },
+  {
+    "id": "水仙十字_blk5_727s",
+    "kind": "variant_filtered_projection",
+    "sources": [
+      "03_样例源文件_水仙十字/正式节目-2026-10-8-22-53-52.oss"
+    ],
+    "total_records": 12643,
+    "preserved_variant_records": 5500,
+    "omitted_nonempty_records": 782,
+    "omitted_payload_bytes": 1337200
+  }
+]

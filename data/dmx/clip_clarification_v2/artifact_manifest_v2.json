@@ -1,0 +1,130 @@
+{
+  "files": [
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/archive_native_sample_candidates.json",
+      "bytes": 199,
+      "sha256": "fd72e4bc51283f873059a2184f62fca4ba4f4768cad70f0514ef79d5ab6bc21a"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/clarification_summary_v2.json",
+      "bytes": 2431,
+      "sha256": "67ab3b5ea712d154cecb803cfe50444142e50186764d3a9e2b6eab14a85e81b0"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/inspect_clips_owned.py",
+      "bytes": 4931,
+      "sha256": "de68ac2cf7925f31a00b851edccb73c3298636e2f0cbf9b6aef7523506ced063"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/integer_timestamp_control.json",
+      "bytes": 506,
+      "sha256": "62063f3f32ddc6472d07c2e2491e072681e7f1cf5a1b262bc12873d4a4924f36"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/nine_clip_full_field_audit.jsonl",
+      "bytes": 2236874,
+      "sha256": "a342af6dec9145cdcfbcd908e7d3854385320b559b774f20c62dd832d3899a6b"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/producer_function_pin.json",
+      "bytes": 1875,
+      "sha256": "1db15f9c9d034de8a9b20310303afe69989c3c8455b092df7325826c6ad6fd1b"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/喷泉编曲至冬70_至冬.npz",
+      "bytes": 23539,
+      "sha256": "33df89ad198b20c128157200fc01c802460928a2e93908f802c0bb0a96557eff"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/喷泉编曲至冬70_至冬.record.json.gz",
+      "bytes": 177993,
+      "sha256": "cf05108b7e68532555bbd698e3e923472a220332bc3fd8a0ea32ab532e5c50af"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/喷泉编曲至冬70_驭光裁影.npz",
+      "bytes": 101914,
+      "sha256": "506970b96f722a25d19f39c48c9c18aa8c3a67d35441843e5efab91de329dfd7"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/喷泉编曲至冬70_驭光裁影.record.json.gz",
+      "bytes": 255405,
+      "sha256": "036ea40676b2e3cb30906ff95adcb10c2cde018082d2c25d78a75a434901f32f"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_throughtheemberwindfrontier.npz",
+      "bytes": 36898,
+      "sha256": "e1b7f82a86daddd8a0a6ca979171ad2bb908fb93b202b28663be961b0e19a0ca"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_throughtheemberwindfrontier.record.json.gz",
+      "bytes": 150843,
+      "sha256": "a28cf81637c36e64324bd3d74334a0695b9015f29ffc91b7e3fd96b51997b156"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_танецледяныхкристаллов.npz",
+      "bytes": 69896,
+      "sha256": "aa578faa6b58e03fbf56c39e12b7675a1d8e95b885a7f918e0ce6553e5b7b678"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_танецледяныхкристаллов.record.json.gz",
+      "bytes": 161576,
+      "sha256": "6af205df96fe2f45f56b506eb02fe377915cdb1513be6a7b3c0d0ba6fa67a445"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_幽灯所及之崖glimmersend.npz",
+      "bytes": 28489,
+      "sha256": "2d5dadfd24e0d08385e797d21d5db6bac167b33e01e1411dc4cf839ba01abcbc"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_幽灯所及之崖glimmersend.record.json.gz",
+      "bytes": 88900,
+      "sha256": "d230f1e8bfa1e26545917ee09e304fcea933f880f65213adc3dfde0c08085161"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_泊船入梦mooredindreams.npz",
+      "bytes": 20985,
+      "sha256": "0c83a51a8a16892b97e3352e639d08f432e7dcb0fab2d5fb2da5914d0ba80313"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_泊船入梦mooredindreams.record.json.gz",
+      "bytes": 19564,
+      "sha256": "70b44dff7d6e1f0cb0fdaade184383076729a72bc5955c114d12068ce245a72d"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_雨林琉璃.npz",
+      "bytes": 23823,
+      "sha256": "e991de31f39931f9b0d0660f3fe2e4e7a35ea79167f5890986fb34c8f2e98aad"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/水仙十字_雨林琉璃.record.json.gz",
+      "bytes": 165512,
+      "sha256": "2ba5d0bfb54ca415db91bd6691d110bf89413e22d14fc21bcbcefea82c613432"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/至冬_至冬.npz",
+      "bytes": 149207,
+      "sha256": "8b850cd260caeb95b8d19d42b6e9543707519b9583e09330d4d797943777a339"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/至冬_至冬.record.json.gz",
+      "bytes": 336699,
+      "sha256": "1616767dff50d8ba79a5090c4101d518ebc65d5e90d42672a08dcd8e29f85462"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/至冬_驭光裁影.npz",
+      "bytes": 119126,
+      "sha256": "5207b93c160079d5fa98a2569d61db01077b5a5a816425f87c275be2aca64c62"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/review_inputs/至冬_驭光裁影.record.json.gz",
+      "bytes": 322706,
+      "sha256": "cb5168d5bc0463cf604a9e79b730cd597302ec521aaaad21ecd851d374a3a2f6"
+    },
+    {
+      "path": "/workspace/shared/depence_dmx_audit/clip_clarification_v2/run_receipt.json",
+      "bytes": 78,
+      "sha256": "798fe79d346778abdf3c2902420bcf6f639271e79da48535681ed05e7f2d5b3e"
+    }
+  ],
+  "total_bytes": 4499969
+}

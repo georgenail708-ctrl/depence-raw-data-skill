@@ -1,0 +1,12 @@
+{
+  "base_registry": "canonical_registry_v3.jsonl",
+  "base_registry_sha256": "16fb3f182fb96903ee1d70af87200286a53f6b5ea27e33a068f30be0be7478c4",
+  "overlay": "registry_policy_overlay_v4.jsonl",
+  "accepted_terminal_scene_frame_missing_count": 127,
+  "accepted_scene_audio_member_presence": 125,
+  "accepted_scene_analysis_json_presence": 125,
+  "accepted_scene_music_object_presence": 125,
+  "dmx_manifest_sha256": "c6835873e0d1c8709ee7fa06c912921dd7b18fdd52d6030f5c7e7303f1398d2c",
+  "corrected_capture_current_patch_coverage_rows": 24,
+  "precedence": "User terminal-scope policy overrides earlier unfinished-task labels ONLY for127 listed scene frame absences. Frozen DMX manifest supersedes historical v3 frame evidence. Original artifacts and sealed phase1 unchanged. Other quality gates unchanged."
+}

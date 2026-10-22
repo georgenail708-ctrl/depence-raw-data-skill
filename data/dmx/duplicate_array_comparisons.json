@@ -1,0 +1,2450 @@
+[
+  {
+    "song_id": "至冬城堡_blk1_300s",
+    "duplicate_of": "至冬城堡_blk0_0s",
+    "layer": "rendered_output_raw_variant",
+    "full_array_fingerprint_equal": false,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "dubai1_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "wet绑灯迪拜_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加中式背景加灯_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜111_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_1035",
+    "duplicate_of": "a1_1035",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "dubai1_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "wet绑灯迪拜_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加中式背景加灯_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜111_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_animal",
+    "duplicate_of": "a1_animal",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "dubai1_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "wet绑灯迪拜_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加中式背景加灯_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜111_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_loveinthedark",
+    "duplicate_of": "a1_loveinthedark",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "dubai1_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "wet绑灯迪拜_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加中式背景加灯_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新版迪拜_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜111_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜原文件_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜音乐喷泉可行版_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_op",
+    "duplicate_of": "a1_op",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "dubai1_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "wet绑灯迪拜_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加中式背景加灯_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新版迪拜_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜111_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜原文件_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜音乐喷泉可行版_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_windthroughvidaya",
+    "duplicate_of": "a1_windthroughvidaya",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "dubai1_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "wet绑灯迪拜_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加中式背景加灯_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜111_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_海露港",
+    "duplicate_of": "a1_海露港",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_50第二首",
+    "duplicate_of": "dubai1_50第二首",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_50第二首",
+    "duplicate_of": "dubai1_50第二首",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_50第二首",
+    "duplicate_of": "dubai1_50第二首",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_50第二首",
+    "duplicate_of": "dubai1_50第二首",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_50第二首",
+    "duplicate_of": "dubai1_50第二首",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_50第二首",
+    "duplicate_of": "dubai1_50第二首",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_50第二首",
+    "duplicate_of": "dubai1_50第二首",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_kaiert",
+    "duplicate_of": "dubai1_kaiert",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_kaiert",
+    "duplicate_of": "dubai1_kaiert",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_kaiert",
+    "duplicate_of": "dubai1_kaiert",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_kaiert",
+    "duplicate_of": "dubai1_kaiert",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_kaiert",
+    "duplicate_of": "dubai1_kaiert",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_kaiert",
+    "duplicate_of": "dubai1_kaiert",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_natalan",
+    "duplicate_of": "dubai1_natalan",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_natalan",
+    "duplicate_of": "dubai1_natalan",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_natalan",
+    "duplicate_of": "dubai1_natalan",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_natalan",
+    "duplicate_of": "dubai1_natalan",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_natalan",
+    "duplicate_of": "dubai1_natalan",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_natalan",
+    "duplicate_of": "dubai1_natalan",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_natalan",
+    "duplicate_of": "dubai1_natalan",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_natalan",
+    "duplicate_of": "dubai1_natalan",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_natalan",
+    "duplicate_of": "dubai1_natalan",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_不眠之夜",
+    "duplicate_of": "dubai1_不眠之夜",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_不眠之夜",
+    "duplicate_of": "dubai1_不眠之夜",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_不眠之夜",
+    "duplicate_of": "dubai1_不眠之夜",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_不眠之夜",
+    "duplicate_of": "dubai1_不眠之夜",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_不眠之夜",
+    "duplicate_of": "dubai1_不眠之夜",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_不眠之夜",
+    "duplicate_of": "dubai1_不眠之夜",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_不眠之夜",
+    "duplicate_of": "dubai1_不眠之夜",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_不眠之夜",
+    "duplicate_of": "dubai1_不眠之夜",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_不眠之夜",
+    "duplicate_of": "dubai1_不眠之夜",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_午夜特快",
+    "duplicate_of": "dubai1_午夜特快",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_午夜特快",
+    "duplicate_of": "dubai1_午夜特快",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_午夜特快",
+    "duplicate_of": "dubai1_午夜特快",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_午夜特快",
+    "duplicate_of": "dubai1_午夜特快",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_午夜特快",
+    "duplicate_of": "dubai1_午夜特快",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_午夜特快",
+    "duplicate_of": "dubai1_午夜特快",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_午夜特快",
+    "duplicate_of": "dubai1_午夜特快",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_午夜特快",
+    "duplicate_of": "dubai1_午夜特快",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_午夜特快",
+    "duplicate_of": "dubai1_午夜特快",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_希望有羽毛和翅膀",
+    "duplicate_of": "dubai1_希望有羽毛和翅膀",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_希望有羽毛和翅膀",
+    "duplicate_of": "dubai1_希望有羽毛和翅膀",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_希望有羽毛和翅膀",
+    "duplicate_of": "dubai1_希望有羽毛和翅膀",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_希望有羽毛和翅膀",
+    "duplicate_of": "dubai1_希望有羽毛和翅膀",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_希望有羽毛和翅膀",
+    "duplicate_of": "dubai1_希望有羽毛和翅膀",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_希望有羽毛和翅膀",
+    "duplicate_of": "dubai1_希望有羽毛和翅膀",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_希望有羽毛和翅膀",
+    "duplicate_of": "dubai1_希望有羽毛和翅膀",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "tothemoon_若我不曾见过太阳",
+    "duplicate_of": "dubai1_若我不曾见过太阳",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "加火_若我不曾见过太阳",
+    "duplicate_of": "dubai1_若我不曾见过太阳",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "替换圆新编_若我不曾见过太阳",
+    "duplicate_of": "dubai1_若我不曾见过太阳",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第一版_若我不曾见过太阳",
+    "duplicate_of": "dubai1_若我不曾见过太阳",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_若我不曾见过太阳",
+    "duplicate_of": "dubai1_若我不曾见过太阳",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲_若我不曾见过太阳",
+    "duplicate_of": "dubai1_若我不曾见过太阳",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜绑灯加百变_若我不曾见过太阳",
+    "duplicate_of": "dubai1_若我不曾见过太阳",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重新开始_若我不曾见过太阳",
+    "duplicate_of": "dubai1_若我不曾见过太阳",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_若我不曾见过太阳",
+    "duplicate_of": "dubai1_若我不曾见过太阳",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维三仪矩阵_daylight",
+    "duplicate_of": "hjc二维矩阵修改版_daylight",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维百变矩阵_daylight",
+    "duplicate_of": "hjc二维矩阵修改版_daylight",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "修改灯光_daylight",
+    "duplicate_of": "hjc二维矩阵修改版_daylight",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵_daylight",
+    "duplicate_of": "hjc二维矩阵修改版_daylight",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵新_daylight",
+    "duplicate_of": "hjc二维矩阵修改版_daylight",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵最新版1_daylight",
+    "duplicate_of": "hjc二维矩阵修改版_daylight",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维三仪矩阵_test",
+    "duplicate_of": "hjc二维矩阵修改版_test",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维百变矩阵_test",
+    "duplicate_of": "hjc二维矩阵修改版_test",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "修改灯光_test",
+    "duplicate_of": "hjc二维矩阵修改版_test",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵_test",
+    "duplicate_of": "hjc二维矩阵修改版_test",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵新_test",
+    "duplicate_of": "hjc二维矩阵修改版_test",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵最新版1_test",
+    "duplicate_of": "hjc二维矩阵修改版_test",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维三仪矩阵_test2",
+    "duplicate_of": "hjc二维矩阵修改版_test2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维百变矩阵_test2",
+    "duplicate_of": "hjc二维矩阵修改版_test2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "修改灯光_test2",
+    "duplicate_of": "hjc二维矩阵修改版_test2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵_test2",
+    "duplicate_of": "hjc二维矩阵修改版_test2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵新_test2",
+    "duplicate_of": "hjc二维矩阵修改版_test2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵最新版1_test2",
+    "duplicate_of": "hjc二维矩阵修改版_test2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维三仪矩阵_vortex",
+    "duplicate_of": "hjc二维矩阵修改版_vortex",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维百变矩阵_vortex",
+    "duplicate_of": "hjc二维矩阵修改版_vortex",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "修改灯光_vortex",
+    "duplicate_of": "hjc二维矩阵修改版_vortex",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵_vortex",
+    "duplicate_of": "hjc二维矩阵修改版_vortex",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵新_vortex",
+    "duplicate_of": "hjc二维矩阵修改版_vortex",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵最新版1_vortex",
+    "duplicate_of": "hjc二维矩阵修改版_vortex",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维三仪矩阵_梦从",
+    "duplicate_of": "hjc二维矩阵修改版_梦从",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维百变矩阵_梦从",
+    "duplicate_of": "hjc二维矩阵修改版_梦从",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "修改灯光_梦从",
+    "duplicate_of": "hjc二维矩阵修改版_梦从",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵_梦从",
+    "duplicate_of": "hjc二维矩阵修改版_梦从",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵新_梦从",
+    "duplicate_of": "hjc二维矩阵修改版_梦从",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵最新版1_梦从",
+    "duplicate_of": "hjc二维矩阵修改版_梦从",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_何者",
+    "duplicate_of": "tothemoon_何者",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_何者",
+    "duplicate_of": "tothemoon_何者",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "wettest2_zledathememusic",
+    "duplicate_of": "wetprojecttest_zledathememusic",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "一号_zledathememusic",
+    "duplicate_of": "wetprojecttest_zledathememusic",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "九龙湖新版绑灯_zledathememusic",
+    "duplicate_of": "wetprojecttest_zledathememusic",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新保存_zledathememusic",
+    "duplicate_of": "wetprojecttest_zledathememusic",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新设备测试绑灯二维_zledathememusic",
+    "duplicate_of": "wetprojecttest_zledathememusic",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_zledathememusic",
+    "duplicate_of": "wetprojecttest_zledathememusic",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "设备测试场_zledathememusic",
+    "duplicate_of": "wetprojecttest_zledathememusic",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "wettest2_白龙少年",
+    "duplicate_of": "wetprojecttest_白龙少年",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "一号_白龙少年",
+    "duplicate_of": "wetprojecttest_白龙少年",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "九龙湖新版绑灯_白龙少年",
+    "duplicate_of": "wetprojecttest_白龙少年",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新保存_白龙少年",
+    "duplicate_of": "wetprojecttest_白龙少年",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新设备测试绑灯二维_白龙少年",
+    "duplicate_of": "wetprojecttest_白龙少年",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_白龙少年",
+    "duplicate_of": "wetprojecttest_白龙少年",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "设备测试场_白龙少年",
+    "duplicate_of": "wetprojecttest_白龙少年",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "一号_nb2",
+    "duplicate_of": "wettest2_nb2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "九龙湖新版绑灯_nb2",
+    "duplicate_of": "wettest2_nb2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新保存_nb2",
+    "duplicate_of": "wettest2_nb2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新设备测试绑灯二维_nb2",
+    "duplicate_of": "wettest2_nb2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_nb2",
+    "duplicate_of": "wettest2_nb2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "设备测试场_nb2",
+    "duplicate_of": "wettest2_nb2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "一号_共逐星华",
+    "duplicate_of": "wettest2_共逐星华",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "九龙湖新版绑灯_共逐星华",
+    "duplicate_of": "wettest2_共逐星华",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新保存_共逐星华",
+    "duplicate_of": "wettest2_共逐星华",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新设备测试绑灯二维_共逐星华",
+    "duplicate_of": "wettest2_共逐星华",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_共逐星华",
+    "duplicate_of": "wettest2_共逐星华",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "设备测试场_共逐星华",
+    "duplicate_of": "wettest2_共逐星华",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "一号_编曲练习1",
+    "duplicate_of": "wettest2_编曲练习1",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "九龙湖新版绑灯_编曲练习1",
+    "duplicate_of": "wettest2_编曲练习1",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新保存_编曲练习1",
+    "duplicate_of": "wettest2_编曲练习1",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新设备测试绑灯二维_编曲练习1",
+    "duplicate_of": "wettest2_编曲练习1",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_编曲练习1",
+    "duplicate_of": "wettest2_编曲练习1",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "设备测试场_编曲练习1",
+    "duplicate_of": "wettest2_编曲练习1",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "中式旅游风景区aaaaa_一带一路",
+    "duplicate_of": "中式旅游风景区2aaaaa_一带一路",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "中式旅游风景区aaaaa_商单",
+    "duplicate_of": "中式旅游风景区2aaaaa_商单",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "中式旅游风景区aaaaa_测试2",
+    "duplicate_of": "中式旅游风景区2aaaaa_测试2",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维三仪矩阵_借过一下",
+    "duplicate_of": "中科棕榈岛新一代设备_借过一下",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "全绑灯最高规格雪山白乐宫_借过一下",
+    "duplicate_of": "中科棕榈岛新一代设备_借过一下",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "改版a修改气爆圆二维弧线跑泉_借过一下",
+    "duplicate_of": "中科棕榈岛新一代设备_借过一下",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "移动位置_借过一下",
+    "duplicate_of": "中科棕榈岛新一代设备_借过一下",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "空模板_借过一下",
+    "duplicate_of": "中科棕榈岛新一代设备_借过一下",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "窑湖中科_借过一下",
+    "duplicate_of": "中科棕榈岛新一代设备_借过一下",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山场景a_借过一下",
+    "duplicate_of": "中科棕榈岛新一代设备_借过一下",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维三仪矩阵_风居住的街道",
+    "duplicate_of": "中科棕榈岛新一代设备_风居住的街道",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "全绑灯最高规格雪山白乐宫_风居住的街道",
+    "duplicate_of": "中科棕榈岛新一代设备_风居住的街道",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "改版a修改气爆圆二维弧线跑泉_风居住的街道",
+    "duplicate_of": "中科棕榈岛新一代设备_风居住的街道",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "移动位置_风居住的街道",
+    "duplicate_of": "中科棕榈岛新一代设备_风居住的街道",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "空模板_风居住的街道",
+    "duplicate_of": "中科棕榈岛新一代设备_风居住的街道",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "窑湖中科_风居住的街道",
+    "duplicate_of": "中科棕榈岛新一代设备_风居住的街道",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山场景a_风居住的街道",
+    "duplicate_of": "中科棕榈岛新一代设备_风居住的街道",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新设备测试绑灯二维_彩鹞栉春风",
+    "duplicate_of": "九龙湖新版绑灯_彩鹞栉春风",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_彩鹞栉春风",
+    "duplicate_of": "九龙湖新版绑灯_彩鹞栉春风",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "设备测试场_彩鹞栉春风",
+    "duplicate_of": "九龙湖新版绑灯_彩鹞栉春风",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新保存_雨",
+    "duplicate_of": "九龙湖新版绑灯_雨",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "新设备测试绑灯二维_雨",
+    "duplicate_of": "九龙湖新版绑灯_雨",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_雨",
+    "duplicate_of": "九龙湖新版绑灯_雨",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "设备测试场_雨",
+    "duplicate_of": "九龙湖新版绑灯_雨",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "弧线精细编曲_40",
+    "duplicate_of": "二号1_40",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "永利1_40",
+    "duplicate_of": "二号1_40",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "永利1_402",
+    "duplicate_of": "二号1_402",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "弧线精细编曲_pearls",
+    "duplicate_of": "二号1_pearls",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "永利1_pearls",
+    "duplicate_of": "二号1_pearls",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "二维百变矩阵_music11",
+    "duplicate_of": "二维三仪矩阵_music11",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "矩阵新_music11",
+    "duplicate_of": "二维三仪矩阵_music11",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "最新改小喷泉_东京上空",
+    "duplicate_of": "二维未改动版_东京上空",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "简单的广场小喷泉_东京上空",
+    "duplicate_of": "二维未改动版_东京上空",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "最新改小喷泉_折枝落梦",
+    "duplicate_of": "二维未改动版_折枝落梦",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "简单的广场小喷泉_折枝落梦",
+    "duplicate_of": "二维未改动版_折枝落梦",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重构版云朵公园_测试",
+    "duplicate_of": "云朵公园_测试",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "重构版云朵公园_琉璃",
+    "duplicate_of": "云朵公园_琉璃",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "移动位置_daydreamer",
+    "duplicate_of": "全绑灯最高规格雪山白乐宫_daydreamer",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "窑湖中科_daydreamer",
+    "duplicate_of": "全绑灯最高规格雪山白乐宫_daydreamer",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "公园方案2_演示1",
+    "duplicate_of": "公园壹号_演示1",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "纯净版_60v3第三首",
+    "duplicate_of": "冬季海港_60v3第三首",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "纯净版_60v3第四首",
+    "duplicate_of": "冬季海港_60v3第四首",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "纯净版_开场节目变亦不变",
+    "duplicate_of": "冬季海港_开场节目变亦不变",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "迪拜城市2_开场节目变亦不变",
+    "duplicate_of": "冬季海港_开场节目变亦不变",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "纯净版_总合成",
+    "duplicate_of": "冬季海港_总合成",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "纯净版_月之少女哥伦比娅主题曲v3",
+    "duplicate_of": "冬季海港_月之少女哥伦比娅主题曲v3",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合3_runaway",
+    "duplicate_of": "壹号_runaway",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合水景喷泉_runaway",
+    "duplicate_of": "壹号_runaway",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "换编曲测试_runaway",
+    "duplicate_of": "壹号_runaway",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_runaway",
+    "duplicate_of": "壹号_runaway",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜wet_runaway",
+    "duplicate_of": "壹号_runaway",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合3_从这里走向wet",
+    "duplicate_of": "壹号_从这里走向wet",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合水景喷泉_从这里走向wet",
+    "duplicate_of": "壹号_从这里走向wet",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "换编曲测试_从这里走向wet",
+    "duplicate_of": "壹号_从这里走向wet",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_从这里走向wet",
+    "duplicate_of": "壹号_从这里走向wet",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "灯光修改1_从这里走向wet",
+    "duplicate_of": "壹号_从这里走向wet",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜wet_从这里走向wet",
+    "duplicate_of": "壹号_从这里走向wet",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合3_凌华ep",
+    "duplicate_of": "壹号_凌华ep",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合水景喷泉_凌华ep",
+    "duplicate_of": "壹号_凌华ep",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "换编曲测试_凌华ep",
+    "duplicate_of": "壹号_凌华ep",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_凌华ep",
+    "duplicate_of": "壹号_凌华ep",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "灯光修改1_凌华ep",
+    "duplicate_of": "壹号_凌华ep",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜wet_凌华ep",
+    "duplicate_of": "壹号_凌华ep",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合3_废墟的温泉街",
+    "duplicate_of": "壹号_废墟的温泉街",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合水景喷泉_废墟的温泉街",
+    "duplicate_of": "壹号_废墟的温泉街",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "换编曲测试_废墟的温泉街",
+    "duplicate_of": "壹号_废墟的温泉街",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_废墟的温泉街",
+    "duplicate_of": "壹号_废墟的温泉街",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜wet_废墟的温泉街",
+    "duplicate_of": "壹号_废墟的温泉街",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合3_草龙王",
+    "duplicate_of": "壹号_草龙王",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合水景喷泉_草龙王",
+    "duplicate_of": "壹号_草龙王",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "换编曲测试_草龙王",
+    "duplicate_of": "壹号_草龙王",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_草龙王",
+    "duplicate_of": "壹号_草龙王",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜wet_草龙王",
+    "duplicate_of": "壹号_草龙王",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合3_铃芽户缔",
+    "duplicate_of": "壹号_铃芽户缔",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "大型综合水景喷泉_铃芽户缔",
+    "duplicate_of": "壹号_铃芽户缔",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "换编曲测试_铃芽户缔",
+    "duplicate_of": "壹号_铃芽户缔",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "星空灯测试_铃芽户缔",
+    "duplicate_of": "壹号_铃芽户缔",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "灯光修改1_铃芽户缔",
+    "duplicate_of": "壹号_铃芽户缔",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "第二迪拜wet_铃芽户缔",
+    "duplicate_of": "壹号_铃芽户缔",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "宜宾小坝广场喷泉31_rememberoursummerfrogmonster",
+    "duplicate_of": "宜宾小坝广场喷泉0515_rememberoursummerfrogmonster",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "宜宾小坝广场喷泉28_从现在到未来韦唯周深萧敬腾郁可唯王祖蓝李亚男刘敏伶盛梅肖",
+    "duplicate_of": "宜宾小坝广场喷泉0515_从现在到未来韦唯周深萧敬腾郁可唯王祖蓝李亚男刘敏伶盛梅肖",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "宜宾小坝广场喷泉31_从现在到未来韦唯周深萧敬腾郁可唯王祖蓝李亚男刘敏伶盛梅肖",
+    "duplicate_of": "宜宾小坝广场喷泉0515_从现在到未来韦唯周深萧敬腾郁可唯王祖蓝李亚男刘敏伶盛梅肖",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "宜宾小坝广场喷泉31_星辰大海",
+    "duplicate_of": "宜宾小坝广场喷泉0515_星辰大海",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "宜宾小坝广场喷泉31_生日祝福歌",
+    "duplicate_of": "宜宾小坝广场喷泉0515_生日祝福歌",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "宜宾小坝广场喷泉31_美丽中国",
+    "duplicate_of": "宜宾小坝广场喷泉0515_美丽中国",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "设备测试场_浮光",
+    "duplicate_of": "新设备测试绑灯二维_浮光",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "最终版2_浮生",
+    "duplicate_of": "最终版1_浮生",
+    "layer": "saved_scene_facts",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": null,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_blk3_65s",
+    "duplicate_of": "tothemoon_blk3_65s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_blk3_65s",
+    "duplicate_of": "tothemoon_blk3_65s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_blk4_86s",
+    "duplicate_of": "tothemoon_blk4_86s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_blk4_86s",
+    "duplicate_of": "tothemoon_blk4_86s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_blk1_0s",
+    "duplicate_of": "tothemoon_blk1_0s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_blk1_0s",
+    "duplicate_of": "tothemoon_blk1_0s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_blk5_97s",
+    "duplicate_of": "tothemoon_blk5_97s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_blk5_97s",
+    "duplicate_of": "tothemoon_blk5_97s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_blk6_112s",
+    "duplicate_of": "tothemoon_blk6_112s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_blk6_112s",
+    "duplicate_of": "tothemoon_blk6_112s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_blk2_43s",
+    "duplicate_of": "tothemoon_blk2_43s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_blk2_43s",
+    "duplicate_of": "tothemoon_blk2_43s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "编曲1_blk0_21s",
+    "duplicate_of": "tothemoon_blk0_21s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  },
+  {
+    "song_id": "雪山1_blk0_21s",
+    "duplicate_of": "tothemoon_blk0_21s",
+    "layer": "rendered_output",
+    "full_array_fingerprint_equal": true,
+    "raw_fingerprint_equal": true,
+    "identity_acceptance": "NOT established by arrays; patch/music/scene/timing provenance join required"
+  }
+]

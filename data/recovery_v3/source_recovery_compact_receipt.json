@@ -1,0 +1,119 @@
+{
+  "schema": "depence_source_recovery_receipt.v1",
+  "completed_utc": "2026-10-22T09:30:00Z",
+  "scope": "Read-only connected Drive and pre-existing cloud artifacts. No supplied project code or archive payload was executed.",
+  "source_identity": [
+    {
+      "drive_id": "1iSvRd6GbRSj36PLM-3RFcMfWLnzNT5pb",
+      "name": "水仙十字.dmxt",
+      "bytes": 11255595,
+      "sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "verification": "Complete streamed SHA256 matched existing fixture",
+      "previous_revision": null,
+      "six_audio_guid_matches": 0
+    },
+    {
+      "drive_id": "1VHWpaPyKj35PHEUGuRxkvoDp5fZ_4F_9",
+      "name": "To The Moon项目.dmxt",
+      "bytes": 91008023,
+      "sha256": "5557ec978b33c74d89d0116ee0fd7a65c4487c6a82c36d6fb6e95d8db60dafe3",
+      "verification": "Complete streamed SHA256 matched existing fixture",
+      "previous_revision": null,
+      "six_audio_guid_matches": 0
+    }
+  ],
+  "coverage": {
+    "drive_root_items_listed": 86,
+    "drive_recovery_folder_items_listed": 424,
+    "existing_zip_file_tables_scanned": 590,
+    "existing_zip_valid_tables": 585,
+    "existing_zip_invalid_test_stubs": 5,
+    "existing_zip_relevant_entries": 399,
+    "existing_tar_tables_scanned": 25,
+    "existing_tar_tables_completed": 25,
+    "existing_tar_relevant_entries": 208,
+    "zip_tar_relevant_entry_extensions": [
+      "dmxt"
+    ],
+    "original_ultra_7z_drive_id": "1E0bcvV2Id-i8miZSQTgnuWRDrUt53XER",
+    "original_ultra_7z_bytes": 35420379,
+    "original_ultra_7z_sha256": "65f11504502d2a866ab93fa505d73450113941c617e393aea4384594b53f3595",
+    "original_ultra_7z_members_scanned": 24781,
+    "source_native_or_audio_members_found_in_7z": 0
+  },
+  "project_xml_encoded_registry_check": {
+    "sha256": "096a1c85a26ab95ac479c2bac214d689a24caab20118dc0298830118ff6b5951",
+    "bytes": 25041259,
+    "fields_checked": 1042461,
+    "canonical_base64_fields_decoded": 7326,
+    "decoded_bytes": 219768,
+    "guid_encodings_checked": [
+      "ASCII",
+      "compact ASCII",
+      "UTF-16LE",
+      "UTF-16BE",
+      "UUID binary big endian",
+      "UUID binary little endian"
+    ],
+    "six_guid_hits": 0,
+    "full_xml_persisted": false
+  },
+  "old_moon_comparison": {
+    "clip_ids": 81,
+    "matching_source_sha_in_all517_record_audits": 0,
+    "matching_clip_ids_in_all517_record_audits": 0,
+    "matching_clip_ids_in_all9_full_saved_clip_records": 0,
+    "current_same_name_groups_are_depence_rendered_output": true,
+    "conclusion": "No exact current-source or saved-clip identity established."
+  },
+  "historical_audio_evidence": {
+    "scope": "Historical report facts, not a new playback test or proof of current global absence.",
+    "reports": [
+      {
+        "sha256": "04b5b484f08bf284a6161572fd2cf9f67a784916b33450d16515df50f38744bb",
+        "bytes": 64209,
+        "fact": "Both exact old Water program audio paths were marked exists:false in the preserved save report."
+      },
+      {
+        "sha256": "b181f85bd7ff4ae7816ea4b0e3e03666f2a61d1ffe4586978c3e8ae346f0be90",
+        "bytes": 53113,
+        "fact": "Both exact old Water program audio paths were marked resolved:false in the preserved playback report."
+      }
+    ],
+    "program_media_paths": [
+      "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3"
+    ],
+    "actual_media_bytes_recovered": false
+  },
+  "targets": [
+    "0cba8d07-4dd9-4766-8b3f-febbffbbdc7a",
+    "32514b1d-4aaf-4491-867c-0b29bdfdbf15",
+    "34d492a9-ee27-432d-b15b-b9db2f452761",
+    "48682837-68c6-4785-a228-492886ccc27c",
+    "69d5d216-522b-4f64-a4e3-06251d130abb",
+    "d6dea3d9-4a99-447f-b8be-800f3cb298d0"
+  ],
+  "blockers": [
+    {
+      "kind": "missing_source_relation",
+      "detail": "The inspected evidence does not supply the six authored audio GUID to exact media bytes relation."
+    },
+    {
+      "kind": "restricted_weak_lead",
+      "detail": "Library metadata listed WATER_A_METADATA_AND_RECOVERY.zip and WATER_B_METADATA_AND_RECOVERY.zip, but read returned403 scope_violation. No retry or alternate access. Their actual relevance to source audio is unproven."
+    }
+  ],
+  "limitations": [
+    "No arbitrary encrypted/custom-encoded GUID decoding or nested-archive recursion.",
+    "Negative generic Drive search is not exhaustive binary-content absence.",
+    "Not every remote historical recovery archive was downloaded.",
+    "Old Water subobject comparisons do not establish current whole-project or exact current audio identity."
+  ],
+  "resource_bounds": {
+    "max_measured_peak_rss_kib": 94596,
+    "raw_archive_or_full_xml_persisted": false,
+    "signed_urls_or_credentials_persisted": false
+  },
+  "ready_exact_media_pairs_established_by_this_recovery": 0
+}

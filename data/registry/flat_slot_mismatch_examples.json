@@ -1,0 +1,121 @@
+{
+  "source_member": "01_数据集_songs/tothemoon_derived_d0d904acdb8347bc96e3.project.json",
+  "source_validation": {
+    "name": "01_数据集_songs/tothemoon_derived_d0d904acdb8347bc96e3.project.json",
+    "size": 2628437,
+    "crc32": "e77fd881",
+    "sha256": "30a2f31cf5aea208f9ab3f6def34908d7368a30bcedb26562ab1c1190c098611",
+    "whole_archive_sha256_verified": false
+  },
+  "issue": "Flat-declared table uses mode-list ordinal instead of explicit slot1",
+  "examples": [
+    {
+      "provided_table_key": "25156",
+      "provided_table_row": {
+        "fixture_guid": "b6142964-fef3-4ac6-b895-f73137ae6c9d",
+        "fixture_name": "LaserLink",
+        "slot": 5,
+        "slot_name": "Red",
+        "dmx_line0": 49,
+        "addr1": 65,
+        "pos_x_cm": "-10747.86",
+        "pos_y_cm": "2782.781"
+      },
+      "fixture": {
+        "name": "LaserLink",
+        "dmx_line0": "49",
+        "addr1": "65",
+        "mode_guid": "050f9399-eb96-41a4-b46b-b0b29b83ba8e",
+        "pos_x_cm": "-10747.86",
+        "pos_y_cm": "2782.781",
+        "pos_z_cm": "416.9699",
+        "rot": [
+          "0",
+          "0",
+          "0"
+        ],
+        "manufacturer": "Lightline"
+      },
+      "mode_slot": {
+        "name": "Red",
+        "slot1": "6",
+        "slot_type": "0",
+        "virtual": false,
+        "parameter": "3"
+      },
+      "actual_physical_flat_address": 25157
+    },
+    {
+      "provided_table_key": "25157",
+      "provided_table_row": {
+        "fixture_guid": "b6142964-fef3-4ac6-b895-f73137ae6c9d",
+        "fixture_name": "LaserLink",
+        "slot": 6,
+        "slot_name": "Green",
+        "dmx_line0": 49,
+        "addr1": 65,
+        "pos_x_cm": "-10747.86",
+        "pos_y_cm": "2782.781"
+      },
+      "fixture": {
+        "name": "LaserLink",
+        "dmx_line0": "49",
+        "addr1": "65",
+        "mode_guid": "050f9399-eb96-41a4-b46b-b0b29b83ba8e",
+        "pos_x_cm": "-10747.86",
+        "pos_y_cm": "2782.781",
+        "pos_z_cm": "416.9699",
+        "rot": [
+          "0",
+          "0",
+          "0"
+        ],
+        "manufacturer": "Lightline"
+      },
+      "mode_slot": {
+        "name": "Green",
+        "slot1": "7",
+        "slot_type": "0",
+        "virtual": false,
+        "parameter": "3"
+      },
+      "actual_physical_flat_address": 25158
+    },
+    {
+      "provided_table_key": "25158",
+      "provided_table_row": {
+        "fixture_guid": "b6142964-fef3-4ac6-b895-f73137ae6c9d",
+        "fixture_name": "LaserLink",
+        "slot": 7,
+        "slot_name": "Blue",
+        "dmx_line0": 49,
+        "addr1": 65,
+        "pos_x_cm": "-10747.86",
+        "pos_y_cm": "2782.781"
+      },
+      "fixture": {
+        "name": "LaserLink",
+        "dmx_line0": "49",
+        "addr1": "65",
+        "mode_guid": "050f9399-eb96-41a4-b46b-b0b29b83ba8e",
+        "pos_x_cm": "-10747.86",
+        "pos_y_cm": "2782.781",
+        "pos_z_cm": "416.9699",
+        "rot": [
+          "0",
+          "0",
+          "0"
+        ],
+        "manufacturer": "Lightline"
+      },
+      "mode_slot": {
+        "name": "Blue",
+        "slot1": "8",
+        "slot_type": "0",
+        "virtual": false,
+        "parameter": "3"
+      },
+      "actual_physical_flat_address": 25159
+    }
+  ]
+}

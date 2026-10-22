@@ -1,0 +1,118 @@
+{
+  "schema": "depence.sanitized-records.v3",
+  "records": [
+    {
+      "source_song_id": "土库曼斯坦_blk0_0s",
+      "original_member": "01_数据集_songs/土库曼斯坦_blk0_0s.record.json",
+      "original_member_sha256": "be455a1088b780c8e5a312e2159d5133c43db8a63ad5acf0eb011dfb2145f438",
+      "original_member_crc32": "5bb7af55",
+      "bundle_relative_path": "data/hygiene_v3/records/土库曼斯坦_blk0_0s.record.json.gz",
+      "sanitized_sha256": "b1d06e08add033190e8fbfe036dd20380339fc0c2e419d4745f409fef2311c35",
+      "sanitized_gzip_sha256": "d3edecc8b6c8537eb639996ee0af3387f4a66765299e39082031073fa2a1c504",
+      "status": "transformed_not_original",
+      "removed_json_pointers": [
+        "/provenance/archive_decrypted"
+      ],
+      "structural_comparison": "All other keys, scalar values, array elements and ordering unchanged; JSON whitespace normalized"
+    },
+    {
+      "source_song_id": "土库曼斯坦_blk1_31s",
+      "original_member": "01_数据集_songs/土库曼斯坦_blk1_31s.record.json",
+      "original_member_sha256": "cd94341f19714f0e58cdd0dfda8a84c08705d6fcefcaba76aa9243faa8f00531",
+      "original_member_crc32": "2c86df60",
+      "bundle_relative_path": "data/hygiene_v3/records/土库曼斯坦_blk1_31s.record.json.gz",
+      "sanitized_sha256": "b805102489a3743cfaadef1c2d5d325992b13f45853d134c279c336f8874e586",
+      "sanitized_gzip_sha256": "37ce630826f0367e4c31b7a0a290e30103cd2a532dc8be71d501e53d4ea7fd53",
+      "status": "transformed_not_original",
+      "removed_json_pointers": [
+        "/provenance/archive_decrypted"
+      ],
+      "structural_comparison": "All other keys, scalar values, array elements and ordering unchanged; JSON whitespace normalized"
+    },
+    {
+      "source_song_id": "土库曼斯坦_blk2_63s",
+      "original_member": "01_数据集_songs/土库曼斯坦_blk2_63s.record.json",
+      "original_member_sha256": "c741286bc1d88c32d8a8dc1daf8064658283f3dfe18005a1fa8d51e022cff6a9",
+      "original_member_crc32": "4e901617",
+      "bundle_relative_path": "data/hygiene_v3/records/土库曼斯坦_blk2_63s.record.json.gz",
+      "sanitized_sha256": "d95365549a8af671bf05320b858f5d74c9818621898c027e4d4080335413d6c2",
+      "sanitized_gzip_sha256": "8da2ee735d57f72a1475971d6d637563f4d001929934da4f03cf09a413903329",
+      "status": "transformed_not_original",
+      "removed_json_pointers": [
+        "/provenance/archive_decrypted"
+      ],
+      "structural_comparison": "All other keys, scalar values, array elements and ordering unchanged; JSON whitespace normalized"
+    },
+    {
+      "source_song_id": "土库曼斯坦_blk3_86s",
+      "original_member": "01_数据集_songs/土库曼斯坦_blk3_86s.record.json",
+      "original_member_sha256": "bdc820036dafb23dc3904c944218137a85471743d3a4f160fddd0750a900eeb2",
+      "original_member_crc32": "90c85bd0",
+      "bundle_relative_path": "data/hygiene_v3/records/土库曼斯坦_blk3_86s.record.json.gz",
+      "sanitized_sha256": "0eb06d916058ed6522bcf64a76e7030d407726a4277f786c6567c8b632f7f863",
+      "sanitized_gzip_sha256": "6d03d5f059e2f545a926b91c93704508df2a96da6273985fcab75aa4cf415cca",
+      "status": "transformed_not_original",
+      "removed_json_pointers": [
+        "/provenance/archive_decrypted"
+      ],
+      "structural_comparison": "All other keys, scalar values, array elements and ordering unchanged; JSON whitespace normalized"
+    },
+    {
+      "source_song_id": "土库曼斯坦_blk4_94s",
+      "original_member": "01_数据集_songs/土库曼斯坦_blk4_94s.record.json",
+      "original_member_sha256": "b0ead92e21dba9603b36a95ce6040e8564693c2eb1edb04ecfd8d1eff824a4be",
+      "original_member_crc32": "2be84725",
+      "bundle_relative_path": "data/hygiene_v3/records/土库曼斯坦_blk4_94s.record.json.gz",
+      "sanitized_sha256": "53a1ee67bb8ff635d4ec84db906d9f4e3ac7b607e402c1b8380e38703e71fa32",
+      "sanitized_gzip_sha256": "57c7f9c62cb8a19e4803f310a28e6a4fcda0327f7260eb1a9380c660847bd138",
+      "status": "transformed_not_original",
+      "removed_json_pointers": [
+        "/provenance/archive_decrypted"
+      ],
+      "structural_comparison": "All other keys, scalar values, array elements and ordering unchanged; JSON whitespace normalized"
+    },
+    {
+      "source_song_id": "土库曼斯坦_blk5_103s",
+      "original_member": "01_数据集_songs/土库曼斯坦_blk5_103s.record.json",
+      "original_member_sha256": "04bc4a01aac9017d9e93062f81798dc551ae3a8dea01b2612b12e3e05b712ce4",
+      "original_member_crc32": "121a8c00",
+      "bundle_relative_path": "data/hygiene_v3/records/土库曼斯坦_blk5_103s.record.json.gz",
+      "sanitized_sha256": "1993f7de1a8e3dce9c49c8b183a91947131b06cff46fc0b4e6006160fae7dfea",
+      "sanitized_gzip_sha256": "bd47dd69c71c7a91d5ab44567e20fe1f8862be9ad53a5113773a14ccd3fc93ba",
+      "status": "transformed_not_original",
+      "removed_json_pointers": [
+        "/provenance/archive_decrypted"
+      ],
+      "structural_comparison": "All other keys, scalar values, array elements and ordering unchanged; JSON whitespace normalized"
+    },
+    {
+      "source_song_id": "土库曼斯坦_blk6_116s",
+      "original_member": "01_数据集_songs/土库曼斯坦_blk6_116s.record.json",
+      "original_member_sha256": "29c07428b55e474159846b61b975b395860f2f2a04375689a1f690f63e27c082",
+      "original_member_crc32": "2d1fe104",
+      "bundle_relative_path": "data/hygiene_v3/records/土库曼斯坦_blk6_116s.record.json.gz",
+      "sanitized_sha256": "4cb10e7000247017fd070a9e0bc9e341c84d26ddca372f1e0f37ff37fc2cac1c",
+      "sanitized_gzip_sha256": "2811ad7ff5cec5d39f851055ad50f2953ed1c1cc471ac08e7fc3f2042ce7c230",
+      "status": "transformed_not_original",
+      "removed_json_pointers": [
+        "/provenance/archive_decrypted"
+      ],
+      "structural_comparison": "All other keys, scalar values, array elements and ordering unchanged; JSON whitespace normalized"
+    },
+    {
+      "source_song_id": "土库曼斯坦_blk7_129s",
+      "original_member": "01_数据集_songs/土库曼斯坦_blk7_129s.record.json",
+      "original_member_sha256": "cf074eb1ab7ad951343fcbb0579e0dc21771e9e4cfddd69368f5c1ea7c4af8b1",
+      "original_member_crc32": "1893de9d",
+      "bundle_relative_path": "data/hygiene_v3/records/土库曼斯坦_blk7_129s.record.json.gz",
+      "sanitized_sha256": "50c61da7b17139ca603c7721ebc9375a3b99a0f7f87bfbdf4edcf0796c54580e",
+      "sanitized_gzip_sha256": "3018ce35e4727ab5e2b62c4b58f1f3d9efce080db458b5632a02f1a7e1c4e35c",
+      "status": "transformed_not_original",
+      "removed_json_pointers": [
+        "/provenance/archive_decrypted"
+      ],
+      "structural_comparison": "All other keys, scalar values, array elements and ordering unchanged; JSON whitespace normalized"
+    }
+  ],
+  "raw_original_backup_unchanged": true
+}

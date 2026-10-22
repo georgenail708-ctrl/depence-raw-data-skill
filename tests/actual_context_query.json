@@ -1,0 +1,14 @@
+{
+  "song": "水仙十字_blk2_240s",
+  "group": "42x 2-Axis Jet  - 15m ",
+  "count": 42,
+  "eof": true,
+  "source_conventions": {
+    "address_convention": "flat_index=dmx_line0*512+(addr1-1)+(slot1-1); physical slots only; boundary-invalid claims excluded and reported",
+    "rotation_units_and_axis_order": "not established by these JSON fields",
+    "source_channel_id_semantics": "cumulative index over patch order fixtures x non-virtual mode slots; OSS/frames channel-IDs map through this table",
+    "render_time_patch_verified": false
+  },
+  "current_collision_candidate_count": 166,
+  "claim": "Exact context fields only; no inferred historical frame ownership or physical action conversion"
+}

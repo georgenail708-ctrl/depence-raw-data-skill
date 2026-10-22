@@ -1,0 +1,2496 @@
+{
+  "schema": "depence.old_native_dmxt_projection_comparison.v5",
+  "source_path": "/workspace/scratch/3aa2b4a7f5f9/ultra_restore_20261012/restored_09f_baseline/worktree/validation-fixtures/水仙十字.dmxt",
+  "source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+  "clips_audited": 73,
+  "unique_metadata_projection_matches": 73,
+  "native_events": 54732,
+  "old_events_overwritten_by_exporter": 52684,
+  "native_identity_to_current_certified": false,
+  "interpretation": "Old native source is genuinely recovered for its own immutable version. Matching current metadata and integer-binned bytes is not proof that unretained subsecond data are unchanged.",
+  "peak_rss_kib": 120140,
+  "rows": [
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "306a1377-1291-43d1-8c82-a159aa2ff353",
+      "old_label": "REC 306a",
+      "old_native_event_count": 520,
+      "old_native_unique_times": 130,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.1,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.07500000000000018,
+      "old_fractional_events": 500,
+      "old_integer_bins": 20,
+      "old_events_overwritten_by_exporter": 500,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "08eb3d5917ed54b6f556c87ce07bfb69eb4a0ae2b34b4ecaa69f7862cdfe43cb",
+      "old_projection_sha256": "0302e2fa44931748f6c30a4609610be9eaafe1ee22af819a2ff59f50c96a37f6",
+      "old_projection_shape": [
+        4,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        0
+      ],
+      "metadata_and_projection_match_indices": [
+        0
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "d0843b19-ad28-4984-8143-775c5cc00b98",
+      "old_label": "REC d084",
+      "old_native_event_count": 552,
+      "old_native_unique_times": 138,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.3,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.075,
+      "old_fractional_events": 532,
+      "old_integer_bins": 20,
+      "old_events_overwritten_by_exporter": 532,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "4bfb66c36fa39a10b21d1ac93b13aff574d7ba538b3b194e8362c8db61039c73",
+      "old_projection_sha256": "cb0ee916b8c17d0280831db7892d43cac0f21255f4cebae25546b49006ba810f",
+      "old_projection_shape": [
+        4,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        1
+      ],
+      "metadata_and_projection_match_indices": [
+        1
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "b189ab72-4e7d-4012-8827-6270ca8adb79",
+      "old_label": "REC b189",
+      "old_native_event_count": 182,
+      "old_native_unique_times": 182,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 5.85,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.1,
+      "old_fractional_events": 179,
+      "old_integer_bins": 6,
+      "old_events_overwritten_by_exporter": 176,
+      "old_overwrites_with_different_body": 69,
+      "native_interleaved_u64_f64_body_sha256": "e38dccd4bf230b371031ca95d6ed08e75900465508a345015dc7bf08cbf1bab6",
+      "old_projection_sha256": "c9d734e153054a2fb66e70f44c38815547fca858ec420317b0451294813bacad",
+      "old_projection_shape": [
+        1,
+        6,
+        512
+      ],
+      "metadata_candidate_indices": [
+        2
+      ],
+      "metadata_and_projection_match_indices": [
+        2
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "08a77c11-6ec4-4154-9447-91afec3a2216",
+      "old_label": "REC 08a7",
+      "old_native_event_count": 118,
+      "old_native_unique_times": 118,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.7,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.075,
+      "old_fractional_events": 114,
+      "old_integer_bins": 4,
+      "old_events_overwritten_by_exporter": 114,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "30c558eff6a4477ba7eac9a03e475d8b9b79d7dd03ccc098c8cbc2b5b8d20625",
+      "old_projection_sha256": "6cf174e567132fbc796b5143b835f0c7ff5959782a2aa251a08daf87bf7649ea",
+      "old_projection_shape": [
+        1,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        3
+      ],
+      "metadata_and_projection_match_indices": [
+        3
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "53751289-4368-4b8d-8e7c-73d94d813b47",
+      "old_label": "REC 5375",
+      "old_native_event_count": 126,
+      "old_native_unique_times": 126,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.975,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.1,
+      "old_fractional_events": 122,
+      "old_integer_bins": 4,
+      "old_events_overwritten_by_exporter": 122,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "40914a3ef777f69a7b526f5dc0ad20fe7bda2b8f7d2ffda2d2a1cd5b18b3b1f4",
+      "old_projection_sha256": "b43df239f1b44f9fa98c0f777a0287db5dc6bfe1e2b798a5aaa2e76f0d8ef36b",
+      "old_projection_shape": [
+        1,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        4
+      ],
+      "metadata_and_projection_match_indices": [
+        4
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "9061732b-b393-4cfe-b444-158ffc6515e4",
+      "old_label": "REC 9061-L",
+      "old_native_event_count": 107,
+      "old_native_unique_times": 107,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.4,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.10000000000000009,
+      "old_fractional_events": 103,
+      "old_integer_bins": 4,
+      "old_events_overwritten_by_exporter": 103,
+      "old_overwrites_with_different_body": 38,
+      "native_interleaved_u64_f64_body_sha256": "4b39e2b923d59194cbf8665e3c3fd6252f452dad6a23ed1bfc1a2f57af751a54",
+      "old_projection_sha256": "d3f3dd06cf5331c455beeca8f81d5c229af1f148d422bfec54f8cb5b2c004424",
+      "old_projection_shape": [
+        1,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        5
+      ],
+      "metadata_and_projection_match_indices": [
+        5
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "9572a64a-1baf-49fb-9034-d8d48b1873cc",
+      "old_label": "REC 9572",
+      "old_native_event_count": 140,
+      "old_native_unique_times": 140,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.4,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.1,
+      "old_fractional_events": 135,
+      "old_integer_bins": 5,
+      "old_events_overwritten_by_exporter": 135,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "2214549d99aa1ccaa91b113a125bebcc0c98c259d140194abff620b0077470d7",
+      "old_projection_sha256": "19e0144bb574e84929ebece4b3e03f5f5c9185513148759608cc2946e1b22610",
+      "old_projection_shape": [
+        1,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        6
+      ],
+      "metadata_and_projection_match_indices": [
+        6
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "ce9d3284-928a-4dc1-a577-590edbe1d1d8",
+      "old_label": "REC ce9d",
+      "old_native_event_count": 195,
+      "old_native_unique_times": 195,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 6.1000000000000005,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.07499999999999929,
+      "old_fractional_events": 194,
+      "old_integer_bins": 7,
+      "old_events_overwritten_by_exporter": 188,
+      "old_overwrites_with_different_body": 95,
+      "native_interleaved_u64_f64_body_sha256": "b4051559618db9ba7a5b36e135d3b2fef744839197069aeccac5ed91ddd7553c",
+      "old_projection_sha256": "afc06efffe331a7f6b64e8f173b289bfbfde87dfe68332d2df02de7cef529a14",
+      "old_projection_shape": [
+        1,
+        7,
+        512
+      ],
+      "metadata_candidate_indices": [
+        7
+      ],
+      "metadata_and_projection_match_indices": [
+        7
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "460a928a-9ec0-49cc-80af-217c11288519",
+      "old_label": "REC db13-R-L",
+      "old_native_event_count": 61,
+      "old_native_unique_times": 61,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 1.8709279086641502,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.04999999999999982,
+      "old_fractional_events": 60,
+      "old_integer_bins": 2,
+      "old_events_overwritten_by_exporter": 59,
+      "old_overwrites_with_different_body": 39,
+      "native_interleaved_u64_f64_body_sha256": "3e5d8b0a9e37a874544cde5b168e3d41f30d6bd2a552b0fccebc75d669f5e5fe",
+      "old_projection_sha256": "fa917795d26b90a0ce5d18232339eb004304c49428607dcb48b51eda97d04a79",
+      "old_projection_shape": [
+        1,
+        2,
+        512
+      ],
+      "metadata_candidate_indices": [
+        8
+      ],
+      "metadata_and_projection_match_indices": [
+        8
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "9a1c5f7c-0490-412e-b50c-0faeb6270fc3",
+      "old_label": "REC 9a1c-L",
+      "old_native_event_count": 161,
+      "old_native_unique_times": 161,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 5.0,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 156,
+      "old_integer_bins": 6,
+      "old_events_overwritten_by_exporter": 155,
+      "old_overwrites_with_different_body": 39,
+      "native_interleaved_u64_f64_body_sha256": "d87b8d2e2d26d1b9f013ea813dc6a7547a76c967116932cec902fcaf4646752d",
+      "old_projection_sha256": "2784dcb40c2a0f2407b101da9f9eb8c64c8159d8dd495187b4c480fdcca9d008",
+      "old_projection_shape": [
+        1,
+        6,
+        512
+      ],
+      "metadata_candidate_indices": [
+        9
+      ],
+      "metadata_and_projection_match_indices": [
+        9
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "d6c366c6-6840-49ce-8517-616c6a91a8ee",
+      "old_label": "REC d6c3",
+      "old_native_event_count": 145,
+      "old_native_unique_times": 145,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.575,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.1,
+      "old_fractional_events": 140,
+      "old_integer_bins": 5,
+      "old_events_overwritten_by_exporter": 140,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "fb45daa50a4a3016e40b0950bd7b286e11b5a3a9e986d6cddf9f83833024e05b",
+      "old_projection_sha256": "b7d5ab98d702b2ca9b212df91764e0fbbd0b6ed2f5339b815555c5a41c6db1e9",
+      "old_projection_shape": [
+        1,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        10
+      ],
+      "metadata_and_projection_match_indices": [
+        10
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "3db893af-9a7d-4da6-9dd5-f073af7593de",
+      "old_label": "REC 3db8-L-L",
+      "old_native_event_count": 60,
+      "old_native_unique_times": 60,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 1.925,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.07500000000000007,
+      "old_fractional_events": 59,
+      "old_integer_bins": 2,
+      "old_events_overwritten_by_exporter": 58,
+      "old_overwrites_with_different_body": 23,
+      "native_interleaved_u64_f64_body_sha256": "f81853a1fd0d4ec06b49e5713fe6a1d166f5f059d66c0baa6312743fa782d9bf",
+      "old_projection_sha256": "f635a294dfd3892ad014108272884bfca70b117a18ebe24784004fd37bc88d07",
+      "old_projection_shape": [
+        1,
+        2,
+        512
+      ],
+      "metadata_candidate_indices": [
+        11
+      ],
+      "metadata_and_projection_match_indices": [
+        11
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "04265a75-637e-4ba1-9a1b-17fde2ce1a25",
+      "old_label": "REC db13-R-R-L",
+      "old_native_event_count": 111,
+      "old_native_unique_times": 111,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.4077254123241154,
+      "old_positive_step_min": 0.007725412324115943,
+      "old_positive_step_max": 0.04999999999999982,
+      "old_fractional_events": 110,
+      "old_integer_bins": 4,
+      "old_events_overwritten_by_exporter": 107,
+      "old_overwrites_with_different_body": 56,
+      "native_interleaved_u64_f64_body_sha256": "46564a75443a4560a61403f6f6b47962236a63abec2943e1e7f9225ed665e319",
+      "old_projection_sha256": "7adb64c51a50e1d8439473b9856ac3c740bb74e26df7b5ec729c0c29311a0dee",
+      "old_projection_shape": [
+        1,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        12
+      ],
+      "metadata_and_projection_match_indices": [
+        12
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "38493a85-55b7-423f-987b-400ea1d65ed8",
+      "old_label": "REC 3849",
+      "old_native_event_count": 131,
+      "old_native_unique_times": 131,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.1,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.075,
+      "old_fractional_events": 127,
+      "old_integer_bins": 5,
+      "old_events_overwritten_by_exporter": 126,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "47e567ed025c2bdc5ce735d55514834c4e73a936902601d007bbdd6eefcc5fd2",
+      "old_projection_sha256": "f704db2731a2e49e6230c8d2ee7315bf2755d89879225e0e134d0fad7616f43e",
+      "old_projection_shape": [
+        1,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        13
+      ],
+      "metadata_and_projection_match_indices": [
+        13
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "df1ab5e7-81b4-4448-b367-e8e8bd040db4",
+      "old_label": "REC 383d-R",
+      "old_native_event_count": 191,
+      "old_native_unique_times": 191,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 6.057424948212683,
+      "old_positive_step_min": 0.007424948212682914,
+      "old_positive_step_max": 0.07500000000000018,
+      "old_fractional_events": 190,
+      "old_integer_bins": 7,
+      "old_events_overwritten_by_exporter": 184,
+      "old_overwrites_with_different_body": 75,
+      "native_interleaved_u64_f64_body_sha256": "49fedffaf84feaa430d5216092c27b7247d02e267838cb944193820d0cb3f0fa",
+      "old_projection_sha256": "951a0dced4cf873fa6fd04fef333302f0780974ed866068a81bc00938cfbcdd1",
+      "old_projection_shape": [
+        1,
+        7,
+        512
+      ],
+      "metadata_candidate_indices": [
+        14
+      ],
+      "metadata_and_projection_match_indices": [
+        14
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "ee9a7cc3-d9d3-476b-be41-26545cf20016",
+      "old_label": "REC ee9a-L",
+      "old_native_event_count": 120,
+      "old_native_unique_times": 120,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.6999999999999997,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.050000000000000266,
+      "old_fractional_events": 116,
+      "old_integer_bins": 4,
+      "old_events_overwritten_by_exporter": 116,
+      "old_overwrites_with_different_body": 76,
+      "native_interleaved_u64_f64_body_sha256": "24423f0c80a5716b7f719100b5be28fabc6320d1ec7e33eae9c70de320d3a334",
+      "old_projection_sha256": "8314399ba4f325b7c3c7ebf456a4086fcc009a71e73e9681a27502bf08d9ca31",
+      "old_projection_shape": [
+        1,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        15
+      ],
+      "metadata_and_projection_match_indices": [
+        15
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "820afa46-67b6-48ee-9b45-b8ad3303b01b",
+      "old_label": "REC 820a",
+      "old_native_event_count": 144,
+      "old_native_unique_times": 144,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.5,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.075,
+      "old_fractional_events": 139,
+      "old_integer_bins": 5,
+      "old_events_overwritten_by_exporter": 139,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "832ea98bfa7f5f831fc9225f0d5eed18bdbcda6a9604f00f7056d5c6d793d4b5",
+      "old_projection_sha256": "47de8e421da4fb0f41d6b08af977e7c97f43e264027598f5c428af5d32d49ab2",
+      "old_projection_shape": [
+        1,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        16
+      ],
+      "metadata_and_projection_match_indices": [
+        16
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "cbb53477-17db-4b3e-adde-a64ff7fd85af",
+      "old_label": "REC cbb5",
+      "old_native_event_count": 135,
+      "old_native_unique_times": 135,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.25,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.1,
+      "old_fractional_events": 130,
+      "old_integer_bins": 5,
+      "old_events_overwritten_by_exporter": 130,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "fac4825b76d77e895efbfb496f77bb4d93d8ccc3882ea4e065755e5bfbbaba37",
+      "old_projection_sha256": "9cbae2c9ee215f74bfc36a1fb6a216dee51b6639060f15d5201436f18ae700b1",
+      "old_projection_shape": [
+        1,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        17
+      ],
+      "metadata_and_projection_match_indices": [
+        17
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "e8f8386a-eb9a-470f-b2bb-059f24c7ea64",
+      "old_label": "REC e8f8",
+      "old_native_event_count": 168,
+      "old_native_unique_times": 168,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 5.275,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.10000000000000009,
+      "old_fractional_events": 164,
+      "old_integer_bins": 6,
+      "old_events_overwritten_by_exporter": 162,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "0bf69babfff9701d839a01e4a21c051110621e1687e0764cdd12e65889b318a5",
+      "old_projection_sha256": "89940b09528a001bc3aa99c765aae95a6d2b82c8d3a59e2d578ff06e9be90800",
+      "old_projection_shape": [
+        1,
+        6,
+        512
+      ],
+      "metadata_candidate_indices": [
+        18
+      ],
+      "metadata_and_projection_match_indices": [
+        18
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "5f791646-b560-46b2-80d2-2187ecb90374",
+      "old_label": "REC fd9d-R-L-L",
+      "old_native_event_count": 1176,
+      "old_native_unique_times": 588,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 18.335577318883562,
+      "old_positive_step_min": 0.010577318883562725,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 1174,
+      "old_integer_bins": 38,
+      "old_events_overwritten_by_exporter": 1138,
+      "old_overwrites_with_different_body": 1017,
+      "native_interleaved_u64_f64_body_sha256": "f6af29cb697a957ea269bd3daeef1deaeef75ff3f4891c5c3677adccaa60ba05",
+      "old_projection_sha256": "adc20ac63b3015fa3ba9666a87740114dc08cf16d70869eedae5c17cebb64af0",
+      "old_projection_shape": [
+        2,
+        19,
+        512
+      ],
+      "metadata_candidate_indices": [
+        19
+      ],
+      "metadata_and_projection_match_indices": [
+        19
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "f1d9c007-c692-4f98-8c77-7c940aa76719",
+      "old_label": "REC 7ee7-R",
+      "old_native_event_count": 1522,
+      "old_native_unique_times": 761,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 23.866874281828277,
+      "old_positive_step_min": 0.016874281828275883,
+      "old_positive_step_max": 0.10000000000000142,
+      "old_fractional_events": 1520,
+      "old_integer_bins": 48,
+      "old_events_overwritten_by_exporter": 1474,
+      "old_overwrites_with_different_body": 1085,
+      "native_interleaved_u64_f64_body_sha256": "88ab1cb7fbaf5cfbd12e724341e5c7e9aa0374846241386c6477bb0ae44b1460",
+      "old_projection_sha256": "20c5e4473d8e4855037a20a62802dd866bfe91b20e070408bbf0ac9c9497fe68",
+      "old_projection_shape": [
+        2,
+        24,
+        512
+      ],
+      "metadata_candidate_indices": [
+        20
+      ],
+      "metadata_and_projection_match_indices": [
+        20
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "77f043cc-5968-4f7f-9f40-fe903672fd96",
+      "old_label": "REC 7f65-R-L",
+      "old_native_event_count": 351,
+      "old_native_unique_times": 117,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.5858506947005804,
+      "old_positive_step_min": 0.010850694700581087,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 348,
+      "old_integer_bins": 12,
+      "old_events_overwritten_by_exporter": 339,
+      "old_overwrites_with_different_body": 180,
+      "native_interleaved_u64_f64_body_sha256": "fc7ed74d9ac873a6de40862f0f4e67278e5c2cdc01b22617352fd50259450ac1",
+      "old_projection_sha256": "d5cf1dc2de2eddaa7e7eb8d630db368ce514c15696b6bdb43ef0554a4b6d7978",
+      "old_projection_shape": [
+        3,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        21
+      ],
+      "metadata_and_projection_match_indices": [
+        21
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "c66280b6-2c39-4a80-8bca-e0ef56a12c19",
+      "old_label": "REC e11e-R-L",
+      "old_native_event_count": 465,
+      "old_native_unique_times": 93,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 2.859138524082292,
+      "old_positive_step_min": 0.009138524082291433,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 460,
+      "old_integer_bins": 15,
+      "old_events_overwritten_by_exporter": 450,
+      "old_overwrites_with_different_body": 140,
+      "native_interleaved_u64_f64_body_sha256": "07c7144b6c617ceadf4e43b9ccf00cd0167befba5e7d4579106eaee3b490f222",
+      "old_projection_sha256": "2146de5c648d12fc4b7b1c3c1bf8751620290ebc35a39790d41feff2e5177997",
+      "old_projection_shape": [
+        5,
+        3,
+        512
+      ],
+      "metadata_candidate_indices": [
+        22
+      ],
+      "metadata_and_projection_match_indices": [
+        22
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "f188910d-4d1f-4a9f-956a-43af7bbc7d59",
+      "old_label": "REC e4b5-R-L",
+      "old_native_event_count": 740,
+      "old_native_unique_times": 247,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 7.67172706920169,
+      "old_positive_step_min": 0.021727069201691762,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 737,
+      "old_integer_bins": 24,
+      "old_events_overwritten_by_exporter": 716,
+      "old_overwrites_with_different_body": 243,
+      "native_interleaved_u64_f64_body_sha256": "231034d946c8d119c8115407600a7e0835a78c22716e7922be04a3169d05b561",
+      "old_projection_sha256": "dde401034250c9503eff0168548ad0333f6e3da0748d0c04757a964c1b2dda22",
+      "old_projection_shape": [
+        3,
+        8,
+        512
+      ],
+      "metadata_candidate_indices": [
+        23
+      ],
+      "metadata_and_projection_match_indices": [
+        23
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "d613ed58-59a1-448d-b8b3-1c7d4553e1b9",
+      "old_label": "REC 54fe-R-L",
+      "old_native_event_count": 131,
+      "old_native_unique_times": 131,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.038013557579613,
+      "old_positive_step_min": 0.013013557579613089,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 130,
+      "old_integer_bins": 5,
+      "old_events_overwritten_by_exporter": 126,
+      "old_overwrites_with_different_body": 58,
+      "native_interleaved_u64_f64_body_sha256": "f92b77e23df7deb1b9a9906d62e2a9bc39492249dc8a39d74206e649be3be12e",
+      "old_projection_sha256": "566b26af8d94931eed328a71809c6a684c06dd5aa052435493ec0d56602019d5",
+      "old_projection_shape": [
+        1,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        24
+      ],
+      "metadata_and_projection_match_indices": [
+        24
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "0f8c87fb-ed95-4ed7-85a2-db772dd654c4",
+      "old_label": "REC 54d3-R-L",
+      "old_native_event_count": 2754,
+      "old_native_unique_times": 461,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 19.215723648703865,
+      "old_positive_step_min": 0.015723648703863446,
+      "old_positive_step_max": 0.07500000000000284,
+      "old_fractional_events": 2748,
+      "old_integer_bins": 120,
+      "old_events_overwritten_by_exporter": 2634,
+      "old_overwrites_with_different_body": 1229,
+      "native_interleaved_u64_f64_body_sha256": "40e1407ce34ad84757afdecec021b9abe2e823bd0e0b9721a2038f399dc157a3",
+      "old_projection_sha256": "905fc70d19cc59a7386f182019f81ea717fda1d00387692073ee767918cfcb74",
+      "old_projection_shape": [
+        6,
+        20,
+        512
+      ],
+      "metadata_candidate_indices": [
+        25
+      ],
+      "metadata_and_projection_match_indices": [
+        25
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "8989038d-abbd-4648-9434-8682f3b4d898",
+      "old_label": "REC f45a-R-L",
+      "old_native_event_count": 664,
+      "old_native_unique_times": 166,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 5.164850217763531,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 660,
+      "old_integer_bins": 24,
+      "old_events_overwritten_by_exporter": 640,
+      "old_overwrites_with_different_body": 276,
+      "native_interleaved_u64_f64_body_sha256": "f354385f7a4cdccceecdc3ec66844ff9e3564eb18c43a94aeb1450b61513e820",
+      "old_projection_sha256": "db521649ce8bd21ac88b39be8911709d1c1083d69fc9e3c05c9cf823bc2288bf",
+      "old_projection_shape": [
+        4,
+        6,
+        512
+      ],
+      "metadata_candidate_indices": [
+        26
+      ],
+      "metadata_and_projection_match_indices": [
+        26
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "05f90436-01e5-41f2-b601-007b85aa0b4e",
+      "old_label": "REC 05f9-L",
+      "old_native_event_count": 3744,
+      "old_native_unique_times": 937,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 29.400000000000002,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.07499999999999996,
+      "old_fractional_events": 3632,
+      "old_integer_bins": 120,
+      "old_events_overwritten_by_exporter": 3624,
+      "old_overwrites_with_different_body": 3433,
+      "native_interleaved_u64_f64_body_sha256": "17879e7390e7dbaefea044cfe1b4946c5ca550639d9b86d31377d39a89e61cfe",
+      "old_projection_sha256": "8d80ba43d36a91650e80d34376c9c321018e516a9fc8690f63ebe59fcd149ece",
+      "old_projection_shape": [
+        4,
+        30,
+        512
+      ],
+      "metadata_candidate_indices": [
+        27
+      ],
+      "metadata_and_projection_match_indices": [
+        27
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "7d8f5ff1-46bc-430d-be5a-be7c60749170",
+      "old_label": "REC 5c41-R-L",
+      "old_native_event_count": 1200,
+      "old_native_unique_times": 301,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 9.610839709287532,
+      "old_positive_step_min": 0.010839709287532528,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 1196,
+      "old_integer_bins": 40,
+      "old_events_overwritten_by_exporter": 1160,
+      "old_overwrites_with_different_body": 332,
+      "native_interleaved_u64_f64_body_sha256": "c447c6b940323540f83eb66a620080f311ef6a61090b8f67c67b1cf1fc4efabc",
+      "old_projection_sha256": "c0087903520a3eabf62ed4e23d9f83eeaa0b3b138bfc32b120f1e07f3b1c41d0",
+      "old_projection_shape": [
+        4,
+        10,
+        512
+      ],
+      "metadata_candidate_indices": [
+        28
+      ],
+      "metadata_and_projection_match_indices": [
+        28
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "1f0e9622-e9a7-45c4-9bb7-3a77b50bfa8a",
+      "old_label": "REC 05f9-L-L",
+      "old_native_event_count": 1380,
+      "old_native_unique_times": 346,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 10.825,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.07499999999999996,
+      "old_fractional_events": 1340,
+      "old_integer_bins": 44,
+      "old_events_overwritten_by_exporter": 1336,
+      "old_overwrites_with_different_body": 1292,
+      "native_interleaved_u64_f64_body_sha256": "50661d45e9a5c8fce5937c585639dc56a63686d65ca16f9bb1e8c667c39750cb",
+      "old_projection_sha256": "d0809c9b29c64c2f0022278955a672133a8a02e00a01a355105e300cf4ddf87c",
+      "old_projection_shape": [
+        4,
+        11,
+        512
+      ],
+      "metadata_candidate_indices": [
+        29
+      ],
+      "metadata_and_projection_match_indices": [
+        29
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "8d6eddbd-e5af-4892-b74f-a7a99abc9757",
+      "song_id": "水仙十字_幽灯所及之崖glimmersend",
+      "old_clip_id": "21bf8fe4-f558-4903-bd96-9c93e19fb172",
+      "old_label": "REC eb2f-R-L",
+      "old_native_event_count": 2862,
+      "old_native_unique_times": 718,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 23.38872435889772,
+      "old_positive_step_min": 0.013724358897720279,
+      "old_positive_step_max": 0.1750000000000007,
+      "old_fractional_events": 2858,
+      "old_integer_bins": 96,
+      "old_events_overwritten_by_exporter": 2766,
+      "old_overwrites_with_different_body": 2766,
+      "native_interleaved_u64_f64_body_sha256": "bff38059c77d9f892f3ccdd18b37a31d5ce880020f24dbcc8e9d66ffe8528d4c",
+      "old_projection_sha256": "bbbc3c214fbffdd7a77921eee6b5c4113f46a3e5eb954d5040619473455c60bb",
+      "old_projection_shape": [
+        4,
+        24,
+        512
+      ],
+      "metadata_candidate_indices": [
+        30
+      ],
+      "metadata_and_projection_match_indices": [
+        30
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_253ff0fdab7e.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_5326560e2b1b.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "2ba535dd-1dcf-4ceb-8b3b-21f7ca0a123a",
+      "old_label": "REC 2ba5",
+      "old_native_event_count": 1636,
+      "old_native_unique_times": 818,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 25.675,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.07499999999999996,
+      "old_fractional_events": 1588,
+      "old_integer_bins": 52,
+      "old_events_overwritten_by_exporter": 1584,
+      "old_overwrites_with_different_body": 1578,
+      "native_interleaved_u64_f64_body_sha256": "8a87d37a390a55554c527df9754ccbde06e000c41f380ce880f4cce3415155b9",
+      "old_projection_sha256": "47ab15829ae3fcd71780fb5ea216f8ecbf2dc1b19ea7c535814afc8f334fdba8",
+      "old_projection_shape": [
+        2,
+        26,
+        512
+      ],
+      "metadata_candidate_indices": [
+        0
+      ],
+      "metadata_and_projection_match_indices": [
+        0
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "e7635208-2dc4-4733-be8d-5278fa3f8ec8",
+      "old_label": "REC e763-L",
+      "old_native_event_count": 2476,
+      "old_native_unique_times": 621,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 24.75,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.07500000000000107,
+      "old_fractional_events": 2416,
+      "old_integer_bins": 100,
+      "old_events_overwritten_by_exporter": 2376,
+      "old_overwrites_with_different_body": 2317,
+      "native_interleaved_u64_f64_body_sha256": "0fdd4ebd2b2cf8ab79dccc733c30bd1b248fdec6b5753ea2399e0e3790c034f8",
+      "old_projection_sha256": "d6aab3902e187471a9ab6d32c6e7dc597e6673e28b72a92fd9324e30c5ec7232",
+      "old_projection_shape": [
+        4,
+        25,
+        512
+      ],
+      "metadata_candidate_indices": [
+        1
+      ],
+      "metadata_and_projection_match_indices": [
+        1
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "b550c130-921e-4e6f-833f-1a7db36ec5a1",
+      "old_label": "REC b550",
+      "old_native_event_count": 888,
+      "old_native_unique_times": 445,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 14.15,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.125,
+      "old_fractional_events": 860,
+      "old_integer_bins": 30,
+      "old_events_overwritten_by_exporter": 858,
+      "old_overwrites_with_different_body": 858,
+      "native_interleaved_u64_f64_body_sha256": "9b1ee0667258b8ce7fc144165823fc166b033d95d9b5e83bf04cd0069be02963",
+      "old_projection_sha256": "0ffd8b780f9a665d36f85bfb5d9210fddfcb20fb5b6730ce223fb09c36db8273",
+      "old_projection_shape": [
+        2,
+        15,
+        512
+      ],
+      "metadata_candidate_indices": [
+        2
+      ],
+      "metadata_and_projection_match_indices": [
+        2
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "6f2d1bbd-697e-470f-9c18-92c83e3c2fc4",
+      "old_label": "REC 6f2d",
+      "old_native_event_count": 2392,
+      "old_native_unique_times": 599,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 24.175,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.17499999999999893,
+      "old_fractional_events": 2348,
+      "old_integer_bins": 100,
+      "old_events_overwritten_by_exporter": 2292,
+      "old_overwrites_with_different_body": 2272,
+      "native_interleaved_u64_f64_body_sha256": "8a8eb8e1309dae578bd1b7caf9c4e3cf1c2ec645294dd302b42ae07f6e0dad93",
+      "old_projection_sha256": "f74a439840b190868ef0dc6f48cf02611fafc52297b966ff6048503390b1bc21",
+      "old_projection_shape": [
+        4,
+        25,
+        512
+      ],
+      "metadata_candidate_indices": [
+        3
+      ],
+      "metadata_and_projection_match_indices": [
+        3
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "f0510921-9de1-481f-b292-5995ee95d099",
+      "old_label": "REC f051-L",
+      "old_native_event_count": 4068,
+      "old_native_unique_times": 678,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 22.900000000000002,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.07500000000000018,
+      "old_fractional_events": 3972,
+      "old_integer_bins": 138,
+      "old_events_overwritten_by_exporter": 3930,
+      "old_overwrites_with_different_body": 989,
+      "native_interleaved_u64_f64_body_sha256": "31a4e1b5e9c992ffa70e15e385eb4ecacebcb30c272e30d04ba239db4b2d4f5e",
+      "old_projection_sha256": "046bdc55fcc579da464ddbcbd101f78d83381e04802d2bef8220ce635c064656",
+      "old_projection_shape": [
+        6,
+        23,
+        512
+      ],
+      "metadata_candidate_indices": [
+        4
+      ],
+      "metadata_and_projection_match_indices": [
+        4
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "a96f51f8-60ab-492a-b6d9-248fb6081f7f",
+      "old_label": "REC a96f",
+      "old_native_event_count": 2766,
+      "old_native_unique_times": 461,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 23.775000000000002,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.125,
+      "old_fractional_events": 2682,
+      "old_integer_bins": 144,
+      "old_events_overwritten_by_exporter": 2622,
+      "old_overwrites_with_different_body": 2494,
+      "native_interleaved_u64_f64_body_sha256": "db1607d9db5c4e352dd88a101915a7ab7658d3a9fc1bcf66f7081a11d4f18955",
+      "old_projection_sha256": "160ff1f537d38dc50ad3042a3f3fdb388206c5947accc07093b68e788a6f8186",
+      "old_projection_shape": [
+        6,
+        24,
+        512
+      ],
+      "metadata_candidate_indices": [
+        5
+      ],
+      "metadata_and_projection_match_indices": [
+        5
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "c8235617-2bfa-4d74-8518-4e4d9cfa4219",
+      "old_label": "REC a96f",
+      "old_native_event_count": 2766,
+      "old_native_unique_times": 461,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 23.775000000000002,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.125,
+      "old_fractional_events": 2682,
+      "old_integer_bins": 144,
+      "old_events_overwritten_by_exporter": 2622,
+      "old_overwrites_with_different_body": 2494,
+      "native_interleaved_u64_f64_body_sha256": "db1607d9db5c4e352dd88a101915a7ab7658d3a9fc1bcf66f7081a11d4f18955",
+      "old_projection_sha256": "160ff1f537d38dc50ad3042a3f3fdb388206c5947accc07093b68e788a6f8186",
+      "old_projection_shape": [
+        6,
+        24,
+        512
+      ],
+      "metadata_candidate_indices": [
+        6
+      ],
+      "metadata_and_projection_match_indices": [
+        6
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "00567a33-659e-4dac-a1a4-4223f8f2c62e",
+      "old_label": "REC 0056-L",
+      "old_native_event_count": 2364,
+      "old_native_unique_times": 394,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 19.875,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.1,
+      "old_fractional_events": 2316,
+      "old_integer_bins": 120,
+      "old_events_overwritten_by_exporter": 2244,
+      "old_overwrites_with_different_body": 2130,
+      "native_interleaved_u64_f64_body_sha256": "61bdc06a9135430f572471ada8f320e6658f8fcdb7e49585958c1aeb5f817f31",
+      "old_projection_sha256": "1adf7134261879e280f92884302cb8ab3a9331c466483c1ae11e63f8fc9c2a81",
+      "old_projection_shape": [
+        6,
+        20,
+        512
+      ],
+      "metadata_candidate_indices": [
+        7
+      ],
+      "metadata_and_projection_match_indices": [
+        7
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "0540d65e-e8b4-4df3-9977-330465876ba6",
+      "old_label": "REC beb9-R",
+      "old_native_event_count": 820,
+      "old_native_unique_times": 412,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 12.78846112941143,
+      "old_positive_step_min": 0.013461129411428185,
+      "old_positive_step_max": 0.07499999999999929,
+      "old_fractional_events": 818,
+      "old_integer_bins": 26,
+      "old_events_overwritten_by_exporter": 794,
+      "old_overwrites_with_different_body": 778,
+      "native_interleaved_u64_f64_body_sha256": "85ab2c9c85f43934c25876801d680d066f99ae6985bfe83ac274f2916ce1c63a",
+      "old_projection_sha256": "538a95e3730c072991eaaf760e775fbdb66c44037e92f8b1b4cab2849b46632e",
+      "old_projection_shape": [
+        2,
+        13,
+        512
+      ],
+      "metadata_candidate_indices": [
+        8
+      ],
+      "metadata_and_projection_match_indices": [
+        8
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "038855fc-0cf4-41e4-af36-253f258214df",
+      "old_label": "REC 0388",
+      "old_native_event_count": 140,
+      "old_native_unique_times": 70,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 2.2,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.050000000000000266,
+      "old_fractional_events": 136,
+      "old_integer_bins": 6,
+      "old_events_overwritten_by_exporter": 134,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "839204426f8c44bf147a37e9a5edf04909f6c499925cc07e70c412dca63f5a45",
+      "old_projection_sha256": "5bc4ef0225dcf8173cf3369d24b2aed7ffabc56b12e244ccb0c51340349ec1e8",
+      "old_projection_shape": [
+        2,
+        3,
+        512
+      ],
+      "metadata_candidate_indices": [
+        9
+      ],
+      "metadata_and_projection_match_indices": [
+        9
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "d9dccf8c-ec7b-4ab4-b20b-b6b2bf8e3afe",
+      "old_label": "REC d9dc",
+      "old_native_event_count": 194,
+      "old_native_unique_times": 98,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.0,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.050000000000000266,
+      "old_fractional_events": 188,
+      "old_integer_bins": 8,
+      "old_events_overwritten_by_exporter": 186,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "966fd87b58147819625b9e347b24e778307ebc86800de9d9a7eead16fcf1042e",
+      "old_projection_sha256": "c2f85eaede5ce7a0cddfe821cc4d58d8547e9a76c63fb5a483070b4ee766a2b3",
+      "old_projection_shape": [
+        2,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        10
+      ],
+      "metadata_and_projection_match_indices": [
+        10
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "5ba6ff85-92f4-49ed-84a3-4615bbe602cd",
+      "old_label": "REC 5ba6",
+      "old_native_event_count": 378,
+      "old_native_unique_times": 190,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 5.8999999999999995,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.050000000000000266,
+      "old_fractional_events": 368,
+      "old_integer_bins": 12,
+      "old_events_overwritten_by_exporter": 366,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "3516933e864508cc6b5653e285a733519e23377663c77e69996103b29f6afeb9",
+      "old_projection_sha256": "f248d244ca6a5d315ee39e8758d82341d592d26b5813f7591106398a778195ce",
+      "old_projection_shape": [
+        2,
+        6,
+        512
+      ],
+      "metadata_candidate_indices": [
+        11
+      ],
+      "metadata_and_projection_match_indices": [
+        11
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "595b5e1f-3d78-4a6e-9067-d733b58d78ce",
+      "old_label": "REC 595b",
+      "old_native_event_count": 314,
+      "old_native_unique_times": 157,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.8999999999999995,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.050000000000000266,
+      "old_fractional_events": 306,
+      "old_integer_bins": 10,
+      "old_events_overwritten_by_exporter": 304,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "cb096b9181d841f5e768a6f50b050483bb88b77e7ba0554542b73dc5e02d476a",
+      "old_projection_sha256": "8eb26cde6bb38ba1e182a7ab8b76e95f1ce406b33900cf80d198b9d34800926a",
+      "old_projection_shape": [
+        2,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        12
+      ],
+      "metadata_and_projection_match_indices": [
+        12
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "cefec294-fe73-46df-abb1-e1716e996535",
+      "old_label": "REC cefe",
+      "old_native_event_count": 150,
+      "old_native_unique_times": 75,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 2.35,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.07500000000000001,
+      "old_fractional_events": 146,
+      "old_integer_bins": 6,
+      "old_events_overwritten_by_exporter": 144,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "dd53f489c60a08851f3d1edb7ae2c16ad2f7b8414065388c76fb3881ea2762b2",
+      "old_projection_sha256": "aad55c85fb654d34843bdecc4cc4e2685b8db497339123a9f7f9e0a7766c8468",
+      "old_projection_shape": [
+        2,
+        3,
+        512
+      ],
+      "metadata_candidate_indices": [
+        13
+      ],
+      "metadata_and_projection_match_indices": [
+        13
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "7f25fe13-3b5e-48d3-b1e2-363fd503902d",
+      "old_label": "REC 7f25",
+      "old_native_event_count": 410,
+      "old_native_unique_times": 206,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 6.3999999999999995,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.07500000000000001,
+      "old_fractional_events": 398,
+      "old_integer_bins": 14,
+      "old_events_overwritten_by_exporter": 396,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "b7612d0b378c324a3c9c89932b15389fafaea683848fcff0be50a389edd3cd7e",
+      "old_projection_sha256": "056f07f688417575b8ec1adcf2c28ca199b783932c16e0907aea716f887e5fb7",
+      "old_projection_shape": [
+        2,
+        7,
+        512
+      ],
+      "metadata_candidate_indices": [
+        14
+      ],
+      "metadata_and_projection_match_indices": [
+        14
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "a239b31e-aa7a-4f0b-a182-102ae5273b18",
+      "old_label": "REC a239",
+      "old_native_event_count": 146,
+      "old_native_unique_times": 73,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 2.275,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.050000000000000266,
+      "old_fractional_events": 140,
+      "old_integer_bins": 6,
+      "old_events_overwritten_by_exporter": 140,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "dfb58fba94fdb59b856588a47a3ef1b343352222dba09d362569e32613c2bb69",
+      "old_projection_sha256": "c0370425dccefeac99808305ea35bcab47fba4faa7cfd60ef9dbe8333f8cda2a",
+      "old_projection_shape": [
+        2,
+        3,
+        512
+      ],
+      "metadata_candidate_indices": [
+        15
+      ],
+      "metadata_and_projection_match_indices": [
+        15
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "a3e8e79a-1682-4eae-a01a-37c3a44798b6",
+      "old_label": "REC a3e8-L-L",
+      "old_native_event_count": 298,
+      "old_native_unique_times": 149,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.699999999999999,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.07500000000000018,
+      "old_fractional_events": 290,
+      "old_integer_bins": 10,
+      "old_events_overwritten_by_exporter": 288,
+      "old_overwrites_with_different_body": 126,
+      "native_interleaved_u64_f64_body_sha256": "5cf46afb3f906385c92930ea4ee5625e811664019efce265b32e1350722818a5",
+      "old_projection_sha256": "ec7874eefd7193512c71025ef1f0144cfef44e18bcc73c55f7889b086bafc431",
+      "old_projection_shape": [
+        2,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        16
+      ],
+      "metadata_and_projection_match_indices": [
+        16
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "94e08094-de1b-43a3-a948-7596f4c37f1c",
+      "old_label": "REC a3e8-R-L",
+      "old_native_event_count": 78,
+      "old_native_unique_times": 39,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 1.1702148494649407,
+      "old_positive_step_min": 0.020214849464940343,
+      "old_positive_step_max": 0.04999999999999982,
+      "old_fractional_events": 76,
+      "old_integer_bins": 4,
+      "old_events_overwritten_by_exporter": 74,
+      "old_overwrites_with_different_body": 50,
+      "native_interleaved_u64_f64_body_sha256": "c760cde0cf204257ca341c9a376a7d87aa669dd04e854e3e9f271ca59898ade9",
+      "old_projection_sha256": "ea2347a3b4bd79d98815a312a6d8d2e5b909d6ed1bd53980f95491e7549ca065",
+      "old_projection_shape": [
+        2,
+        2,
+        512
+      ],
+      "metadata_candidate_indices": [
+        17
+      ],
+      "metadata_and_projection_match_indices": [
+        17
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "bf69f97d-54d7-4c2b-9dca-ce991984f7d6",
+      "old_label": "REC a3e8-R-R-L",
+      "old_native_event_count": 126,
+      "old_native_unique_times": 63,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 1.923553703539719,
+      "old_positive_step_min": 0.023553703539719528,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 124,
+      "old_integer_bins": 4,
+      "old_events_overwritten_by_exporter": 122,
+      "old_overwrites_with_different_body": 76,
+      "native_interleaved_u64_f64_body_sha256": "b21ff312eca2527d78549a92180cb45ffa4e4faa5c10e0281ca81c2e833241ee",
+      "old_projection_sha256": "936e9b37fbeb65a65af93d81462fdda2daf2cecc2da992706ba10fc63bb85a0d",
+      "old_projection_shape": [
+        2,
+        2,
+        512
+      ],
+      "metadata_candidate_indices": [
+        18
+      ],
+      "metadata_and_projection_match_indices": [
+        18
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "d4381eb3-1f3f-4ad0-acba-e6b370727d01",
+      "old_label": "REC a3e8-R-R-R-L",
+      "old_native_event_count": 254,
+      "old_native_unique_times": 127,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.906047250948305,
+      "old_positive_step_min": 0.0060472509483044945,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 252,
+      "old_integer_bins": 8,
+      "old_events_overwritten_by_exporter": 246,
+      "old_overwrites_with_different_body": 132,
+      "native_interleaved_u64_f64_body_sha256": "a3ecff617a9dd5d1f8de7aad3d91e2847ec3788fb6c4cf570457a53ee9c2133c",
+      "old_projection_sha256": "b62642a0cbeb51955625132aaafea2476de1e8333b99dcd86dbaf4ee37da885a",
+      "old_projection_shape": [
+        2,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        19
+      ],
+      "metadata_and_projection_match_indices": [
+        19
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "6e2d65c8-6a84-4338-b3e2-b5f58f59e338",
+      "old_label": "REC 6e2d",
+      "old_native_event_count": 176,
+      "old_native_unique_times": 88,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 4.925,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 2.1999999999999993,
+      "old_fractional_events": 172,
+      "old_integer_bins": 8,
+      "old_events_overwritten_by_exporter": 168,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "1c2cdae8042c5c72f193daf646f01f16ac6be02b32733c508f55dd8dabeee6f8",
+      "old_projection_sha256": "21fe9875c90beff4b7d0c45aabefcc3a592f4f724cb4773a4deb59f80dc219bb",
+      "old_projection_shape": [
+        2,
+        5,
+        512
+      ],
+      "metadata_candidate_indices": [
+        20
+      ],
+      "metadata_and_projection_match_indices": [
+        20
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "3bed2dac-5413-42c2-8af2-6269897414c5",
+      "old_label": "REC 3bed-L",
+      "old_native_event_count": 213,
+      "old_native_unique_times": 107,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.35,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.07500000000000001,
+      "old_fractional_events": 206,
+      "old_integer_bins": 9,
+      "old_events_overwritten_by_exporter": 204,
+      "old_overwrites_with_different_body": 66,
+      "native_interleaved_u64_f64_body_sha256": "cd78e00defdbc7635119525ffa1bce0cde94987895c5207c145861f9862ee2c3",
+      "old_projection_sha256": "b0259671073d4d83396890a6594cd5ed7d3622c01466c25e916f82667054f9d4",
+      "old_projection_shape": [
+        3,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        21
+      ],
+      "metadata_and_projection_match_indices": [
+        21
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "34a9720b-5892-4014-a863-3cc701911409",
+      "old_label": "REC 3bed-R-L",
+      "old_native_event_count": 207,
+      "old_native_unique_times": 105,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.1843748571618242,
+      "old_positive_step_min": 0.009374857161824846,
+      "old_positive_step_max": 0.050000000000000266,
+      "old_fractional_events": 204,
+      "old_integer_bins": 9,
+      "old_events_overwritten_by_exporter": 198,
+      "old_overwrites_with_different_body": 128,
+      "native_interleaved_u64_f64_body_sha256": "d74d83cfcf609c5aaa7db432db30566849d08fdeab8fbb0da6a61dc4a4d2e623",
+      "old_projection_sha256": "bf143d21da63b415cbd62cacb0ad43291907da09ea3720b13f8bcd93aaad5705",
+      "old_projection_shape": [
+        3,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        22
+      ],
+      "metadata_and_projection_match_indices": [
+        22
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "55eb5afb-77f5-43fb-a453-9ad4395ce8df",
+      "old_label": "REC 3bed-R-R-L",
+      "old_native_event_count": 195,
+      "old_native_unique_times": 97,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 2.996570158970524,
+      "old_positive_step_min": 0.02157015897052439,
+      "old_positive_step_max": 0.04999999999999982,
+      "old_fractional_events": 192,
+      "old_integer_bins": 7,
+      "old_events_overwritten_by_exporter": 188,
+      "old_overwrites_with_different_body": 118,
+      "native_interleaved_u64_f64_body_sha256": "0389f62988c892e1154dd0970d196dcc310aa5bc2d625396854fc8ad622b3c39",
+      "old_projection_sha256": "6564636b9fb5dcb0dbf107a00e3aba7354a4ee996e46cf02af9641214cc888a3",
+      "old_projection_shape": [
+        3,
+        3,
+        512
+      ],
+      "metadata_candidate_indices": [
+        23
+      ],
+      "metadata_and_projection_match_indices": [
+        23
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "e48651ca-60ba-49b9-9232-fa1c304bff0e",
+      "old_label": "REC 3bed-R-R-R-L",
+      "old_native_event_count": 155,
+      "old_native_unique_times": 77,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 2.3564954545919896,
+      "old_positive_step_min": 0.006495454591989969,
+      "old_positive_step_max": 0.049999999999998934,
+      "old_fractional_events": 152,
+      "old_integer_bins": 7,
+      "old_events_overwritten_by_exporter": 148,
+      "old_overwrites_with_different_body": 94,
+      "native_interleaved_u64_f64_body_sha256": "ef4bf9ab4048a8eedf7ea67a0e44d6914ced2c7f575d39034b99828934aad971",
+      "old_projection_sha256": "404bca5ef78fc143489e79d0910c8944b25f36f09d9cafd3869a9afdc2346480",
+      "old_projection_shape": [
+        3,
+        3,
+        512
+      ],
+      "metadata_candidate_indices": [
+        24
+      ],
+      "metadata_and_projection_match_indices": [
+        24
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "aaa7086e-2dd1-4a5a-9550-19af0faf5a85",
+      "old_label": "REC 3bed-R-R-R-R-L",
+      "old_native_event_count": 883,
+      "old_native_unique_times": 441,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 13.746050816250388,
+      "old_positive_step_min": 0.021050816250385296,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 880,
+      "old_integer_bins": 29,
+      "old_events_overwritten_by_exporter": 854,
+      "old_overwrites_with_different_body": 526,
+      "native_interleaved_u64_f64_body_sha256": "d68e0524ac4386be8d53f5e322719befbcc99bcf84dcacf7796782e7e98a8e8a",
+      "old_projection_sha256": "46fec922f7968d13b7cac3993de218f937fff409b78782e345bd9b5864e0b16a",
+      "old_projection_shape": [
+        3,
+        14,
+        512
+      ],
+      "metadata_candidate_indices": [
+        25
+      ],
+      "metadata_and_projection_match_indices": [
+        25
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "a93e080c-0984-402c-8721-5e77c23760a3",
+      "old_label": "REC a93e",
+      "old_native_event_count": 662,
+      "old_native_unique_times": 331,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 10.35,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.07500000000000001,
+      "old_fractional_events": 642,
+      "old_integer_bins": 22,
+      "old_events_overwritten_by_exporter": 640,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "013ca74c4cde485eefa0a613e3ec56052c1fe9f367192e0ffb0ab4606723529b",
+      "old_projection_sha256": "60bbaa224c4ea88c244f255566542f0552fe453b839553a252e0d3b27a891025",
+      "old_projection_shape": [
+        2,
+        11,
+        512
+      ],
+      "metadata_candidate_indices": [
+        26
+      ],
+      "metadata_and_projection_match_indices": [
+        26
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "c69223ce-a59b-4e1d-bd66-265ee862c8a4",
+      "old_label": "REC c692",
+      "old_native_event_count": 89,
+      "old_native_unique_times": 87,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 2.6750000000000003,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.050000000000000266,
+      "old_fractional_events": 85,
+      "old_integer_bins": 5,
+      "old_events_overwritten_by_exporter": 84,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "f214ffd59a595c2fb70d2a984ec27157fd8c720eabb70328aae2a77b44c2c181",
+      "old_projection_sha256": "1a1daa27a2bd6b35fa309afda2dea7ce03cc8b5b4986145ce4ff1add024a2891",
+      "old_projection_shape": [
+        3,
+        3,
+        512
+      ],
+      "metadata_candidate_indices": [
+        27
+      ],
+      "metadata_and_projection_match_indices": [
+        27
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "0d826a81-05be-4c56-8587-7e4b1fa9bb84",
+      "old_label": "REC 0d82",
+      "old_native_event_count": 754,
+      "old_native_unique_times": 377,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 11.95,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.1499999999999999,
+      "old_fractional_events": 734,
+      "old_integer_bins": 24,
+      "old_events_overwritten_by_exporter": 730,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "1ac1547768e1af0989b12c92d888dc52a1d9faa34cfb7d283ece7f1fd77ad35e",
+      "old_projection_sha256": "86b212119cd930bb0e47179ba748c4003009967f5eb6c37d5f7aa275c25f60a3",
+      "old_projection_shape": [
+        2,
+        12,
+        512
+      ],
+      "metadata_candidate_indices": [
+        28
+      ],
+      "metadata_and_projection_match_indices": [
+        28
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "d5d00ccd-ad11-41bd-b79a-3d08cdfca4c9",
+      "old_label": "REC d5d0",
+      "old_native_event_count": 404,
+      "old_native_unique_times": 202,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 6.324999999999999,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.07500000000000001,
+      "old_fractional_events": 394,
+      "old_integer_bins": 14,
+      "old_events_overwritten_by_exporter": 390,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "e3acf5d271b8190be72daecaf8f5c572e6b7f54892621b4cebfec6c4c3b01072",
+      "old_projection_sha256": "4d8775a0ff3248492f19f4dbb191cb3563171b35f282337725b3137a53b91f89",
+      "old_projection_shape": [
+        2,
+        7,
+        512
+      ],
+      "metadata_candidate_indices": [
+        29
+      ],
+      "metadata_and_projection_match_indices": [
+        29
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "84011ece-3c22-4b7b-9347-a56fe484e7ca",
+      "old_label": "REC 8401-L",
+      "old_native_event_count": 121,
+      "old_native_unique_times": 120,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.775,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.050000000000000266,
+      "old_fractional_events": 117,
+      "old_integer_bins": 5,
+      "old_events_overwritten_by_exporter": 116,
+      "old_overwrites_with_different_body": 26,
+      "native_interleaved_u64_f64_body_sha256": "38b0a023ec8e7d57f5aa572853f83fa04e5b8c962f34ca548c0d7c4e81e274fb",
+      "old_projection_sha256": "8c5de3b09fbb1c581c7d33d2461077cf647680f2c05f938bf9ee5a308b92f8f8",
+      "old_projection_shape": [
+        2,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        30
+      ],
+      "metadata_and_projection_match_indices": [
+        30
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "a086df27-9e24-4075-af59-3039ad4e18ed",
+      "old_label": "REC a086",
+      "old_native_event_count": 181,
+      "old_native_unique_times": 179,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 5.6,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.07500000000000001,
+      "old_fractional_events": 174,
+      "old_integer_bins": 8,
+      "old_events_overwritten_by_exporter": 173,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "76658d0021fc7f9b2b4f687dfa87cdbb2aad6ae8617005c0055aa32c593b76da",
+      "old_projection_sha256": "54e7e723d33f1003af050282b6c95a39b82557464ad698e371395307a8526c11",
+      "old_projection_shape": [
+        3,
+        6,
+        512
+      ],
+      "metadata_candidate_indices": [
+        31
+      ],
+      "metadata_and_projection_match_indices": [
+        31
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "0f4b3273-3086-4488-b425-d42929ffaa8e",
+      "old_label": "REC 0f4b",
+      "old_native_event_count": 350,
+      "old_native_unique_times": 348,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 10.95,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.125,
+      "old_fractional_events": 338,
+      "old_integer_bins": 13,
+      "old_events_overwritten_by_exporter": 337,
+      "old_overwrites_with_different_body": 312,
+      "native_interleaved_u64_f64_body_sha256": "97dc2139deb42870ce6225ab177d279d1936f0ba575edfbdfdfbb59a99228bb9",
+      "old_projection_sha256": "eb9a52eab0ca0040c58dcd3399da56afb83033651c43e13fd3099332a322cd6d",
+      "old_projection_shape": [
+        3,
+        11,
+        512
+      ],
+      "metadata_candidate_indices": [
+        32
+      ],
+      "metadata_and_projection_match_indices": [
+        32
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "3cd2f315-4f2d-431d-a744-e68cbfdf979e",
+      "old_label": "REC 3cd2",
+      "old_native_event_count": 114,
+      "old_native_unique_times": 114,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 3.6,
+      "old_positive_step_min": 0.02499999999999991,
+      "old_positive_step_max": 0.07500000000000001,
+      "old_fractional_events": 111,
+      "old_integer_bins": 4,
+      "old_events_overwritten_by_exporter": 110,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "f5cacd9225be0fe2870d837b9cb09303b5c74bcd28bd091717dd5548bc0149b3",
+      "old_projection_sha256": "a113fb5415e028cc935ef0d500a9adefb32e8346b569052a854886a341086129",
+      "old_projection_shape": [
+        1,
+        4,
+        512
+      ],
+      "metadata_candidate_indices": [
+        33
+      ],
+      "metadata_and_projection_match_indices": [
+        33
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "4c8de3c9-6a03-4ec2-b6d5-6ebb8b326b87",
+      "old_label": "REC 4d5e-R-L",
+      "old_native_event_count": 832,
+      "old_native_unique_times": 832,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 25.94206939008796,
+      "old_positive_step_min": 0.017069390087961267,
+      "old_positive_step_max": 0.05000000000000426,
+      "old_fractional_events": 831,
+      "old_integer_bins": 26,
+      "old_events_overwritten_by_exporter": 806,
+      "old_overwrites_with_different_body": 363,
+      "native_interleaved_u64_f64_body_sha256": "7776f3215048c452087a7711f196abaf20c6b0bce7ab32f09e14f58ccf71c9a1",
+      "old_projection_sha256": "55c19d5270beee78288a9a562590734e3bebe594c332aae9566acbae20ecf180",
+      "old_projection_shape": [
+        1,
+        26,
+        512
+      ],
+      "metadata_candidate_indices": [
+        34
+      ],
+      "metadata_and_projection_match_indices": [
+        34
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "9cf436e5-8452-4d24-989c-b737f3697f1a",
+      "old_label": "REC 9cf4",
+      "old_native_event_count": 1034,
+      "old_native_unique_times": 1034,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 32.300000000000004,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.05000000000000426,
+      "old_fractional_events": 1003,
+      "old_integer_bins": 33,
+      "old_events_overwritten_by_exporter": 1001,
+      "old_overwrites_with_different_body": 1000,
+      "native_interleaved_u64_f64_body_sha256": "f72dcc92726c1a6716c47b0c807bd8c6eae5a67cc720c587aab835920e22364e",
+      "old_projection_sha256": "34055856f8b99ab95abf32f63a8b1b5f3a21d62057fa5e7ea42cfbf598cfb444",
+      "old_projection_shape": [
+        1,
+        33,
+        512
+      ],
+      "metadata_candidate_indices": [
+        35
+      ],
+      "metadata_and_projection_match_indices": [
+        35
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "0b98f963-bc52-4f93-9824-e44162181833",
+      "old_label": "REC 0b98",
+      "old_native_event_count": 163,
+      "old_native_unique_times": 161,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 5.199999999999999,
+      "old_positive_step_min": 0.024999999999999467,
+      "old_positive_step_max": 0.10000000000000009,
+      "old_fractional_events": 156,
+      "old_integer_bins": 8,
+      "old_events_overwritten_by_exporter": 155,
+      "old_overwrites_with_different_body": 0,
+      "native_interleaved_u64_f64_body_sha256": "fa4e7dce2320e55dcc597d915e9e6f110a5f0ce8fe1f858890b731848162cdcb",
+      "old_projection_sha256": "9b5b924e2e8605813930a14eb5633e43f0096112844dad4bebbe286a1fd9f0c6",
+      "old_projection_shape": [
+        3,
+        6,
+        512
+      ],
+      "metadata_candidate_indices": [
+        36
+      ],
+      "metadata_and_projection_match_indices": [
+        36
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "6c64ce46-7eb3-484e-80df-5b74769f4f95",
+      "old_label": "REC 6c64",
+      "old_native_event_count": 872,
+      "old_native_unique_times": 872,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 27.55,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.15000000000000036,
+      "old_fractional_events": 846,
+      "old_integer_bins": 28,
+      "old_events_overwritten_by_exporter": 844,
+      "old_overwrites_with_different_body": 843,
+      "native_interleaved_u64_f64_body_sha256": "28986b586109f035f0883fb4283b1e365f176bf668e8c61afcf3108149f2f6c1",
+      "old_projection_sha256": "a1aecfb8a66ebc151a0aa984c2fcfb711181db3e6457048ea6d28649fd866078",
+      "old_projection_shape": [
+        1,
+        28,
+        512
+      ],
+      "metadata_candidate_indices": [
+        37
+      ],
+      "metadata_and_projection_match_indices": [
+        37
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "bdd1513c-f9e4-4fad-9f5d-bc9daf0a1c77",
+      "old_label": "REC bdd1",
+      "old_native_event_count": 417,
+      "old_native_unique_times": 417,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 13.075,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.05000000000000071,
+      "old_fractional_events": 404,
+      "old_integer_bins": 14,
+      "old_events_overwritten_by_exporter": 403,
+      "old_overwrites_with_different_body": 215,
+      "native_interleaved_u64_f64_body_sha256": "d337cf44fb5056ec9d9e5e7b231dc69422deac97f7d9319ebf49ac5eb6664a77",
+      "old_projection_sha256": "f82cdc785697c958d28cb40ce2e3f149a7e36c845f66113ec9c00de3a9b560ba",
+      "old_projection_shape": [
+        1,
+        14,
+        512
+      ],
+      "metadata_candidate_indices": [
+        38
+      ],
+      "metadata_and_projection_match_indices": [
+        38
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "de4e6843-5991-4288-a74c-8c0083a5b996",
+      "old_label": "REC de4e-L",
+      "old_native_event_count": 1912,
+      "old_native_unique_times": 958,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 30.1,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.10000000000000003,
+      "old_fractional_events": 1854,
+      "old_integer_bins": 62,
+      "old_events_overwritten_by_exporter": 1850,
+      "old_overwrites_with_different_body": 1501,
+      "native_interleaved_u64_f64_body_sha256": "1ca6a0b36b1bd487bef858c78196b04748a91113263cbc15d1392c8004abfd2b",
+      "old_projection_sha256": "68f8e267453c71499a4cae441db8ced72fc337f69b4a9233625a6c3869d09c90",
+      "old_projection_shape": [
+        2,
+        31,
+        512
+      ],
+      "metadata_candidate_indices": [
+        39
+      ],
+      "metadata_and_projection_match_indices": [
+        39
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "187609e7-3d1f-4dd9-a980-9ffdf11cafec",
+      "old_label": "REC 1876",
+      "old_native_event_count": 1427,
+      "old_native_unique_times": 1426,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 44.675000000000004,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.07500000000000018,
+      "old_fractional_events": 1383,
+      "old_integer_bins": 46,
+      "old_events_overwritten_by_exporter": 1381,
+      "old_overwrites_with_different_body": 707,
+      "native_interleaved_u64_f64_body_sha256": "15e08193886dac4219f32f22169890fd2e868bbed964fa350bd07c9899354d69",
+      "old_projection_sha256": "e18b69c69960bc65afa4d18034fb0704889bd33319efd5da331583850cec4304",
+      "old_projection_shape": [
+        2,
+        45,
+        512
+      ],
+      "metadata_candidate_indices": [
+        40
+      ],
+      "metadata_and_projection_match_indices": [
+        40
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    },
+    {
+      "program_id": "d9852415-797c-4f02-989b-5e2069f0ab60",
+      "song_id": "水仙十字_throughtheemberwindfrontier",
+      "old_clip_id": "1a4dd492-0ad7-4a3e-a502-34d7fc582b39",
+      "old_label": "REC 1a4d",
+      "old_native_event_count": 551,
+      "old_native_unique_times": 551,
+      "old_native_time_min": 0.0,
+      "old_native_time_max": 17.275000000000002,
+      "old_positive_step_min": 0.02499999999999858,
+      "old_positive_step_max": 0.09999999999999964,
+      "old_fractional_events": 535,
+      "old_integer_bins": 18,
+      "old_events_overwritten_by_exporter": 533,
+      "old_overwrites_with_different_body": 378,
+      "native_interleaved_u64_f64_body_sha256": "6afeb17a27c01a45557e98b1b1672bbbb65dda5f1d134f93d7e3495fbcdeaaf6",
+      "old_projection_sha256": "ff9f39db5dc90ceb117cc80eef782d45663ad01f72dbda27941339d55d6049ad",
+      "old_projection_shape": [
+        1,
+        18,
+        512
+      ],
+      "metadata_candidate_indices": [
+        41
+      ],
+      "metadata_and_projection_match_indices": [
+        41
+      ],
+      "old_source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+      "current_claimed_source_sha256": "94b1782b9ad68848312945c919009d01657a3600cd63a1d37a45e4d3239e5bf4",
+      "native_identity_to_current": "NOT_PROVEN: non-injective projection and different whole-source hashes",
+      "old_audio_path": "水仙十字_assets/audio/audio_4ebee0ea0eb2.mp3",
+      "current_audio_path": "水仙十字_assets/audio/audio_7c2bf5a7bca8.mp3"
+    }
+  ]
+}

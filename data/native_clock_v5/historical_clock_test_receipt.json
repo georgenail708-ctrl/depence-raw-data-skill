@@ -1,0 +1,11 @@
+{
+  "tests_run": 11,
+  "failures": 0,
+  "errors": 0,
+  "success": true,
+  "actual_clips_with_safe_interior_tested": 72,
+  "full_authored_interval_base_clock": 41,
+  "hold_safe_interior": 31,
+  "sequential_blocked": 1,
+  "peak_rss_kib": 28048
+}

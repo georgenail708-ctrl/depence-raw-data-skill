@@ -1,0 +1,129 @@
+{
+  "schema": "depence.data-health.v3",
+  "version": "2026-10-22.raw-data.v3",
+  "source_archive": {
+    "sha256": "6caa72e1b0c9f3e9f949d503c0a546fa89b8eeffb153ad7b80ea000c49a6f1cb",
+    "bytes": 3647094034,
+    "parts": 18,
+    "integrity": "historical_verified_receipt",
+    "embedded": false,
+    "private_backup": "all_18_parts_and_whole_archive_sha256_verified",
+    "backup_locator": "catalog/archive_parts_backup.json"
+  },
+  "identity": {
+    "source_groups": 517,
+    "supplier_retained": 211,
+    "provisional_retained_plus_reinstated": 212,
+    "accepted_unique_count": null,
+    "remaining_npz_matches_are_whole_identity": false
+  },
+  "frames": {
+    "acceptance_counts": {
+      "corrected_raw_delta_reconstruction": 24,
+      "supplied_dense_matches_supplied_raw_deltas_source_authenticity_separate": 15,
+      "integer-time-repacked_clip_arrays_native_sample_fidelity_unverified": 9,
+      "unverified_dense_no_supplied_raw_or_source": 8,
+      "complete_opaque_source_preserved_NOT_decoded_frames": 2,
+      "opaque_filtered_payload_only_source_completeness_unverified": 2,
+      "saved_facts_only_placeholder_NOT_output_frames": 138,
+      "derived_approximation_NOT_recorded_output": 14
+    },
+    "first_write_before_or_absent": "UNKNOWN_not_zero",
+    "opaque": "preserved_not_decoded",
+    "scene127": {
+      "count": 127,
+      "status": "accepted_source_limitation",
+      "task_blocker": false,
+      "frames": "explicitly_missing",
+      "retain": "available_saved_facts_audio_music",
+      "request_rerecording": false,
+      "request_local_sources": false,
+      "audio_analysis_music_present_count": 125
+    },
+    "clip9": {
+      "count": 9,
+      "native_fields": "not_present_in_supplied_record_npz",
+      "native_sample_fidelity": "unverified",
+      "actual_lost_sample_count": null,
+      "irregular_sampling_is_defect": false,
+      "interpolation_allowed": false,
+      "integer_bucket_defaults_are_observed": false
+    },
+    "scene_records": {
+      "total": 138,
+      "empty_rows": 127,
+      "nonempty_rows": 11,
+      "npz_layer": "placeholder_not_recorded_frames",
+      "nonempty_scene_facts": "preserved_not_dropped"
+    }
+  },
+  "mapping": {
+    "explicit_slot_starts": "preserved",
+    "width_fine_coarse_ownership": "not_fully_validated",
+    "historical_patch": "unknown",
+    "instance_owned_mode_repair": {
+      "matched_context_hashes": 2,
+      "source_groups": 7,
+      "fixtures": 721,
+      "content_conflicts_corrected": 102,
+      "undefined_modes_remaining": 2,
+      "current_primary_address_collisions_after_repair": 0,
+      "scope": "matched source XML only",
+      "stored_Slot2_active_and_byte_order": "unverified"
+    }
+  },
+  "music": {
+    "midi_archive_members": 299,
+    "unique_midi_byte_hashes": 165,
+    "events": "full_preserved_and_independently_checked",
+    "audio_identity": "unverified",
+    "transcription_accuracy": "unverified",
+    "offset_and_drift": "unverified",
+    "audio_byte_verification": {
+      "archive_members": 192,
+      "distinct_content_sha256": 66,
+      "duplicate_byte_groups": 33,
+      "full_size_crc_sha256": "verified",
+      "supported_header_probes": 191,
+      "unsupported_header_probes": 1,
+      "unsupported_case": "glimmersend .flac suffix contains ISO-BMFF/isom; codec and duration not established",
+      "listening_or_full_decode_performed": false,
+      "record_association": "source name/path claims preserved; original recording identity unverified"
+    },
+    "pair_ready_count": 0,
+    "authored_exact_source_ID_bindings": 4,
+    "all_audio_assets_retained": 192
+  },
+  "precedence": [
+    "data/music/clock_bridge_v4/pair_status_by_source_id.jsonl",
+    "data/device_semantics_v2/fixture_owned_modes.json.gz for fully fixture-matched XML contexts only",
+    "data/music/audio_verification_v3/audio_manifest_v3.json",
+    "data/registry/registry_policy_overlay_v4.jsonl",
+    "data/dmx/clip_clarification_v2/clarification_summary_v2.json",
+    "data/dmx/dmx_manifest_v1.jsonl",
+    "data/registry/canonical_registry_v3.jsonl"
+  ],
+  "generative_transfer_acceptance": {
+    "controlled_held_out_composition_comparison": false,
+    "generated_visual_artistic_quality_validated": false,
+    "adaptation_mastery_demonstrated": false,
+    "scope": "raw evidence and retrieval interfaces, not learned artistic rules"
+  },
+  "release_hygiene": {
+    "safe_original_members": 2540,
+    "transformed_full_records": 8,
+    "removed_fields_per_record": 1,
+    "original_backup_changed": false,
+    "unsafe_source_toolchain_exposed": false
+  },
+  "historical_native_supplement": {
+    "source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+    "clips": 73,
+    "native_events": 54732,
+    "current_source_restored": false,
+    "audio_frame_pair_certified": false,
+    "base_clock_full_intervals": 41,
+    "base_clock_conditional_interiors": 31,
+    "base_clock_sequential_blocked": 1
+  }
+}

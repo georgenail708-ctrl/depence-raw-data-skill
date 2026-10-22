@@ -1,0 +1,320 @@
+{
+  "schema": "depence.native_clock_neutral_proof.v5",
+  "oss": {
+    "headers_verified": 26,
+    "all200_byte_hashes_match_prior_full_source_receipts": true,
+    "byte9_distribution": {
+      "60": 26
+    },
+    "byte10_distribution": {
+      "10": 26
+    },
+    "byte7_and_first_marker_distribution": {
+      "3:3": 7,
+      "1:5": 19
+    },
+    "all_first_indices_zero": true,
+    "all_contiguous_indices_and_last_index_trailer": true,
+    "records_total": 152515,
+    "capture_rate_semantics_established": false,
+    "absolute_origin_established": false,
+    "initial_index_zero_not_absolute_origin": true,
+    "six_authored_span_comparisons": [
+      {
+        "dmx_block_guid": "fa48dcb4-85a5-4cbb-81f6-a2d627442c13",
+        "oss_name": "正式节目-2026-10-9-14-39-52.oss",
+        "source_oss_sha256": "deea90c2a0aeddd5aa1d406cefbaee2fe188bfdf4e00898b01a1ad021b8b1f11",
+        "authored_length_s": "120.2",
+        "authored_offset_time": "0",
+        "frame_min": 0,
+        "frame_max": 7211,
+        "records": 7212,
+        "candidate_60_count_minus_duration_times_rate": "0",
+        "interpretation": "Endpoint evidence only. No universal count=duration*60+constant policy fits all six; no rate/offset fit is applied."
+      },
+      {
+        "dmx_block_guid": "fa6f894c-eb25-4683-b888-38d1e2d0f257",
+        "oss_name": "正式节目-2026-10-9-14-45-28.oss",
+        "source_oss_sha256": "0699523eb9270de21655db041ea7d42379efc766d6b2e87d1c22a31b9da442e7",
+        "authored_length_s": "122.333333333333",
+        "authored_offset_time": "0",
+        "frame_min": 0,
+        "frame_max": 7341,
+        "records": 7342,
+        "candidate_60_count_minus_duration_times_rate": "100000000001/50000000000",
+        "interpretation": "Endpoint evidence only. No universal count=duration*60+constant policy fits all six; no rate/offset fit is applied."
+      },
+      {
+        "dmx_block_guid": "e8eecf33-166f-4540-816f-774e76c903ed",
+        "oss_name": "正式节目-2026-10-9-14-56-23.oss",
+        "source_oss_sha256": "999e846accf82bd1a16c58f9a124f2a17c4f105d4c84558610556d9fe943d5f8",
+        "authored_length_s": "199.4",
+        "authored_offset_time": "0",
+        "frame_min": 0,
+        "frame_max": 11965,
+        "records": 11966,
+        "candidate_60_count_minus_duration_times_rate": "2",
+        "interpretation": "Endpoint evidence only. No universal count=duration*60+constant policy fits all six; no rate/offset fit is applied."
+      },
+      {
+        "dmx_block_guid": "b34fe576-7c22-46df-ab0b-db0b627e1e7c",
+        "oss_name": "正式节目-2026-10-9-15-7-57.oss",
+        "source_oss_sha256": "8384292b3a251c4537822145dbf76397bd9f691603dc3056755d42ab6d337dc8",
+        "authored_length_s": "204.566666666667",
+        "authored_offset_time": "0",
+        "frame_min": 0,
+        "frame_max": 12274,
+        "records": 12275,
+        "candidate_60_count_minus_duration_times_rate": "49999999999/50000000000",
+        "interpretation": "Endpoint evidence only. No universal count=duration*60+constant policy fits all six; no rate/offset fit is applied."
+      },
+      {
+        "dmx_block_guid": "14c47a48-dfec-47ee-9adf-6117cee61b88",
+        "oss_name": "正式节目-2026-10-8-19-23-21.oss",
+        "source_oss_sha256": "bb7c80a6a3eef54bf88b3ac2bb5812a764c713d3cbe1b4781aad0fa1360fee09",
+        "authored_length_s": "93.5333333333333",
+        "authored_offset_time": "0",
+        "frame_min": 0,
+        "frame_max": 5612,
+        "records": 5613,
+        "candidate_60_count_minus_duration_times_rate": "500000000001/500000000000",
+        "interpretation": "Endpoint evidence only. No universal count=duration*60+constant policy fits all six; no rate/offset fit is applied."
+      },
+      {
+        "dmx_block_guid": "281d7f00-4baf-40ab-a1d3-2cd04997177a",
+        "oss_name": "正式节目-2026-10-8-22-53-52.oss",
+        "source_oss_sha256": "68039ea7b1393d902947fa6818d33f57697d82c13a04902123166785d3d4121c",
+        "authored_length_s": "210.7",
+        "authored_offset_time": "0",
+        "frame_min": 0,
+        "frame_max": 12642,
+        "records": 12643,
+        "candidate_60_count_minus_duration_times_rate": "1",
+        "interpretation": "Endpoint evidence only. No universal count=duration*60+constant policy fits all six; no rate/offset fit is applied."
+      }
+    ],
+    "endpoint_policy_established": false,
+    "no_inferred_uniform_time_or_drift_adjustment": true
+  },
+  "dmxt": {
+    "source_sha256": "aecb016d9b2bdea71f793a0a7a65a81b74a0677006cad39ef777907d2d92e407",
+    "root_sample_rate": 40.0,
+    "root_timecode_fps": 30.0,
+    "root_clock_fields_are_distinct_from_native_ts": true,
+    "units": "source recording-relative seconds established by producer DMXFrame model; stored event times retained exactly as binary64 values",
+    "native_ts_arrays_preserved": true,
+    "no_uniform_timestamps_generated": true,
+    "historical_source_is_current_source": false,
+    "final_audio_frame_alignment_certified": false
+  },
+  "base_clock_contract": {
+    "scope": "Pre-output-transform source sampling only, conditional on clip participation; not fully mixed output or an audio pair",
+    "order": [
+      "authored interval gate",
+      "timeline minus clip start",
+      "sequential mapping or local time times stored playback rate",
+      "run-mode and authored resize-cycle semantics",
+      "stateful hold override",
+      "source-duration cap",
+      "nearest existing native event per universe; midpoint chooses later",
+      "subsequent per-device transforms are not implemented"
+    ],
+    "normal_parallel_full_interval_clips": 41,
+    "hold_clips_safe_interior": 31,
+    "safe_hold_interior_proof": "Both hold thresholds are duration minus a seam bounded above by 0.25*duration. Therefore local<0.75*duration cannot enter or retain the hold boundary, regardless of timer interval/latch.",
+    "hold_edges_fail_closed": true,
+    "sequential_clips_fail_closed": 1,
+    "no_runtime_source_code_execution": true
+  },
+  "producer_source_evidence": [
+    {
+      "relative_path": "core/models.py",
+      "sha256": "0fab1d775835f87dbb10331173d32225b8c94e2d8bc8f4cf4889ff3cdbdd3e25",
+      "static_review_only": true,
+      "line_evidence": [
+        {
+          "line": 428,
+          "excerpt_sha256": "49a1ed208a247dd4d4ba609a7b6aee6212b87b88f14482be079d11e94b5583f0"
+        },
+        {
+          "line": 497,
+          "excerpt_sha256": "a41ceadb68d66ba7d16ef57254b49f40bc5dbf62bd23bbbd5849a45f48cd7d94"
+        },
+        {
+          "line": 942,
+          "excerpt_sha256": "7a4104f72a47d58a1b177ab5cb50893c461e919568ddc4db0efdfc04dcc762fa"
+        },
+        {
+          "line": 943,
+          "excerpt_sha256": "7c63277d9130481d2aaecbf192648e159b3cc27ad7397e64a5f5a44ba51cca15"
+        }
+      ]
+    },
+    {
+      "relative_path": "core/frame_blob.py",
+      "sha256": "6e7b2dbbf7469be000d7468e6809ece8ad534a141c9f28fbd15aad288321b0b1",
+      "static_review_only": true,
+      "line_evidence": [
+        {
+          "line": 91,
+          "excerpt_sha256": "d4e744ace2aa32e11738dcfcb7c7cbe13c9908c771b3d3e36098cf0693916f41"
+        },
+        {
+          "line": 93,
+          "excerpt_sha256": "ea5b36124f3342618cd02ca36e2d7f518e82dc35a20590ea300137b7b7d89966"
+        },
+        {
+          "line": 94,
+          "excerpt_sha256": "f71ede5515f45c16016d7b3b26a9a55e96a28d0c70c90e9ac4b007b52a7c1771"
+        },
+        {
+          "line": 153,
+          "excerpt_sha256": "6658f156f0e962c0f5e8943f6031092241486bc9d1be4044a4a2506460b99dc7"
+        },
+        {
+          "line": 200,
+          "excerpt_sha256": "ce6502277e41a2cd929f73ff63aa3acd9d0f0823770ca6d760cb914834ff2561"
+        },
+        {
+          "line": 201,
+          "excerpt_sha256": "f1e26b767ab714850b33f4ea1de58e991d85923ecfb33df22b258d1eb697bd58"
+        },
+        {
+          "line": 205,
+          "excerpt_sha256": "43738c7d458db96d4800dfbefef11208db15c809b1659c86076c8ca6a6857cad"
+        },
+        {
+          "line": 224,
+          "excerpt_sha256": "aa84d4aa5694874864f98a28694d2c3e7ed8de424de2884e263a54a34275f23b"
+        }
+      ]
+    },
+    {
+      "relative_path": "engine/record_engine.py",
+      "sha256": "32a31175d6f0f16c9d918fde3b4f37e18341e7f21185249077fded2fb9340018",
+      "static_review_only": true,
+      "line_evidence": [
+        {
+          "line": 36,
+          "excerpt_sha256": "501574cf84d6856ccab9ccaa5e95c484b70e7dd0bdaead7d29ec3a0465a4c4e0"
+        },
+        {
+          "line": 49,
+          "excerpt_sha256": "d66dfa596561a73176c3622cb183efd3d5ee5dca9545788c28c2c9e209400800"
+        },
+        {
+          "line": 287,
+          "excerpt_sha256": "af494fcae2fa3b0541ec011352b24da73dc50960e0a7cafc506f1b8df9b36fd3"
+        },
+        {
+          "line": 540,
+          "excerpt_sha256": "e9e41f78aba59da26d4fd84d3d73987cc24cb6a332da6620a1953f284e00ef5c"
+        }
+      ]
+    },
+    {
+      "relative_path": "engine/playback_engine.py",
+      "sha256": "736d2a8da689c0a38b47f691b2268589e270d8255a799d5ec605b221c9ca0066",
+      "static_review_only": true,
+      "line_evidence": [
+        {
+          "line": 2370,
+          "excerpt_sha256": "c7bbadaa0a3fed65f130e6351dde6e5ac5432e57897cca29f730442cf697b6fc"
+        },
+        {
+          "line": 2375,
+          "excerpt_sha256": "b1fb69336812a582ecc9bc9dad57147aa49416ef6a6e45c4f37f4c1d37804abb"
+        },
+        {
+          "line": 2381,
+          "excerpt_sha256": "94af64eef211d6472f053af7b74ae8b497fd98fede4fe333db85047b9bd2c649"
+        },
+        {
+          "line": 2382,
+          "excerpt_sha256": "124f238c380960708f8554489031540438fff237da59d4b19a86e196c0e0bda1"
+        },
+        {
+          "line": 2383,
+          "excerpt_sha256": "1274dcc9fa3643278863431c6edd635288727da3fb78f0604dec2c98ebb7d012"
+        },
+        {
+          "line": 2394,
+          "excerpt_sha256": "cd25da84bebbd8564dcaf7a99cd3358d3e8d85cf040c2862b5b6d2854cfc592a"
+        },
+        {
+          "line": 2396,
+          "excerpt_sha256": "084fd137055df77c0d3f877efd2eabd23a56befa0d41da9567499ad05cef96f7"
+        },
+        {
+          "line": 2402,
+          "excerpt_sha256": "054737450e78f9e3ba12185d68d9cfc23fd4aff95c6881179bc5c56f746c9232"
+        },
+        {
+          "line": 2487,
+          "excerpt_sha256": "054737450e78f9e3ba12185d68d9cfc23fd4aff95c6881179bc5c56f746c9232"
+        },
+        {
+          "line": 3592,
+          "excerpt_sha256": "789c60e51685417d90bedceb20c683e70d9cfd1c239f0c9fde04eb2b0b1265cd"
+        },
+        {
+          "line": 3608,
+          "excerpt_sha256": "69d7c658af6439113f3cbd39a1d601200e3d4a86a5088415ab9f5668e02bcb6a"
+        },
+        {
+          "line": 6738,
+          "excerpt_sha256": "ed08f359c39137b7cb5f19e385ddb43d435367025df2dd38a05267b1b1fcffc4"
+        },
+        {
+          "line": 9986,
+          "excerpt_sha256": "054737450e78f9e3ba12185d68d9cfc23fd4aff95c6881179bc5c56f746c9232"
+        },
+        {
+          "line": 10124,
+          "excerpt_sha256": "cd25da84bebbd8564dcaf7a99cd3358d3e8d85cf040c2862b5b6d2854cfc592a"
+        },
+        {
+          "line": 10126,
+          "excerpt_sha256": "084fd137055df77c0d3f877efd2eabd23a56befa0d41da9567499ad05cef96f7"
+        },
+        {
+          "line": 10137,
+          "excerpt_sha256": "054737450e78f9e3ba12185d68d9cfc23fd4aff95c6881179bc5c56f746c9232"
+        },
+        {
+          "line": 10625,
+          "excerpt_sha256": "3c31e6a4b1a984777f9fda129772cae58a899582e8611a499b6debb3b5b7b932"
+        },
+        {
+          "line": 10710,
+          "excerpt_sha256": "79525e5ac000f2fe6a497a759d463807e56531debae23b284c6b0c4ebb23413d"
+        },
+        {
+          "line": 11756,
+          "excerpt_sha256": "365bfc06b1211d9d570ab23a452ee6e4999d7ab156f138349c246dd9ce5a2485"
+        }
+      ]
+    }
+  ],
+  "hygiene": {
+    "suspect_sensitive_key_paths": [],
+    "technical_frame_body_b64_retained": true,
+    "credentials_or_grants_persisted": false
+  },
+  "primary_docs": [
+    {
+      "url": "https://help.depence.com/depence-show-and-animation/depence-show-sequencer/depence-track-types/depence-dmx-stream-track",
+      "supports": "DMX stream recording/playback purpose and default LTP mixing. Does not document OSS byte offsets, rate, origin, or endpoint policy."
+    },
+    {
+      "url": "https://help.depence.com/depence-rendering/depence-video-rendering/depence-physics-and-framerates",
+      "supports": "60fps is an animation/physics target, not a native OSS header specification."
+    },
+    {
+      "url": "https://help.depence.com/depence-show-and-animation/depence-show-sequencer/depence-track-types/depence-audio-track",
+      "supports": "Authored audio track may be trimmed/faded; not exact decoder sample-clock mapping."
+    }
+  ],
+  "official_format_search_result": "No authoritative native OSS binary field specification found in consulted primary documentation. No rate chosen from durations or generic render fps.",
+  "source_line_receipt_format": "Line numbers and SHA256 of UTF-8 stripped source lines; no supplied implementation text embedded."
+}
